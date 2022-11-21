@@ -5,4 +5,5 @@
 ## 2. Install và import
 - bs4 (Beautiful Soup): Một thư viện Python dùng để phân tích các tài liệu HTML và XML. Nó tạo ra một cây phân tích cú pháp cho các trang được phân tích cú pháp có thể được sử dụng để trích xuất dữ liệu từ HTML, rất hữu ích cho web scrapping.
 - requests: Cho phép gửi các yêu cầu HTTP bằng Python.
-
+!pip install bs4
+!pip install requests
