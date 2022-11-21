@@ -20,14 +20,11 @@ import pandas as pd
 - Lưu ý: Có thể các Pokemon có rất nhiều dạng (vùng miền, mega evolution, mega X/mega Y, nguyên thủy (primal form), tấn công/phòng thủ,...), hình dạng Pokemon thay đổi nhưng id thì vẫn giữ nguyên, vì vậy sẽ xuất hiện trường hợp một id lặp lại nhiều lần, chúng ta chỉ xét hình dạng cơ bản của chúng nên chỉ cần lấy 1 id cho mỗi Pokemon thôi.
 ### 1. Lấy danh sách id riêng biệt cho từng pokemon
 ```
-url = 'https://pokemondb.net/pokedex/all'
-source = requests.get(url).text
-soup = bs4.BeautifulSoup(source,'html.parser')
-
-# Thu thập id của toàn bộ pokemon
 pokemon_id = soup.findAll('span', {'class': 'infocard-cell-data'})
 ```
-
+```
+urls.append('https://pokemondb.net/pokedex/' + str(id[i]))
+```
 
 
 
