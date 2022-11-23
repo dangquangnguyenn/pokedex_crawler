@@ -91,17 +91,35 @@ def get_pokemon_info(soup):
   ...
   return name, types_list, species, height, weight, ability, hid_ability, catch_rate, base_fs, base_exp, growth_rate, genders, hp, atk, defn, sp_atk, sp_def, spd, total 
 ```
-#### 3.2. Thông tin của toàn bộ Pokemon trong Pokedex
-- Ta sẽ lấy danh sách Pokemon bằng cách truy cập vào từng url để lấy thông tin từng con, việc này sẽ tốn khá nhiều thời gian.
-- Sau khi đã có danh sách thông tin của toàn bộ Pokemon trong Pokedex, khởi tạo một cơ sở dữ liệu để lưu trữ.
-- Index ở đây sẽ là ID của từng Pokemon, bắt đầu từ 1.
-```
-pokedex = pd.DataFrame(data = data, columns=['Name', 'Type', 'Species', 'Height', 'Weight', 'Ability', 'Hidden Ability',
-                                             'Catch Rate', 'Base Friendship', 'Base Exp', 'Growth Rate', 'Gender',
-                                             'HP', 'Attack', 'Defense', 'Sp. Atk', 'Sp. Def', 'Speed', 'Total'], index = id)
-```
+#### 3.2. Tương khắc hệ
+- Tương khắc hệ (Type Defenses) của một Pokemon là khả năng chịu đòn của một Pokemon trước những đòn tấn công mang hệ khác. Các Pokemon Trainer sẽ dựa vào tương khắc hệ này của chúng nhằm chọn ra Pokemon có ưu thế về hệ (Type Advantages) tốt nhất để đối đầu với Pokemon của đối thủ.
 
+        Ví dụ: Bulbasaur mang song hệ là Grass/Poison:
+                - Fire -> Grass/Poison = 2 <=> Đòn đánh hệ Fire sẽ gây gấp đôi sát thương lên Pokemon này
+                - Grass -> Grass/Poison = 1/4   <=> Đòn đánh hệ Grass sẽ gây 0.25 sát thương lên Pokemon này
 
+- Hàm Type_Defenses(soup) sẽ trả về tương khắc hệ của Pokemon có url tương ứng. 
+```
+def type_defense(soup):
+  # YOUR CODE HERE
+  ...
+  return type_defenses
+```
+#### 3.3. Đặc tính
+- Đặc tính (Ability) và đặc tính ẩn (Hidden Ability)
+- Hàm get_abilities_description(soup) mô tả chi tiết về các đặc tính và đặc tính ẩn của từng Pokemon
+```
+def get_abilities_description(soup):
+  # YOUR CODE HERE
+  ...
+  return ab_des, hid_ab_des
+```
+#### 3.4. Bắt đầu lấy thông tin, tương khắc hệ, đặc tính của từng Pokemon
+```
+data = []           # Thông tin
+type_defenses = []  # Tương khắc hệ
+abilities = []      # Bao gồm đặc tính và đặc tính ẩn
+```
 
 
 
