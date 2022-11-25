@@ -1,0 +1,906 @@
+,Name,Ability,Ability Description,Hidden Ability,Hidden Ability Description
+1,Bulbasaur,Overgrow,Powers up Grass-type moves in a pinch.,Chlorophyll,Powers up Grass-type moves in a pinch.
+2,Ivysaur,Overgrow,Powers up Grass-type moves in a pinch.,Chlorophyll,Powers up Grass-type moves in a pinch.
+3,Venusaur,Overgrow,Powers up Grass-type moves in a pinch.,Chlorophyll,Powers up Grass-type moves in a pinch.
+4,Charmander,Blaze,Powers up Fire-type moves in a pinch.,Solar Power,Powers up Fire-type moves in a pinch.
+5,Charmeleon,Blaze,Powers up Fire-type moves in a pinch.,Solar Power,Powers up Fire-type moves in a pinch.
+6,Charizard,Blaze,Powers up Fire-type moves in a pinch.,Solar Power,Powers up Fire-type moves in a pinch.
+7,Squirtle,Torrent,Powers up Water-type moves in a pinch.,Rain Dish,Powers up Water-type moves in a pinch.
+8,Wartortle,Torrent,Powers up Water-type moves in a pinch.,Rain Dish,Powers up Water-type moves in a pinch.
+9,Blastoise,Torrent,Powers up Water-type moves in a pinch.,Rain Dish,Powers up Water-type moves in a pinch.
+10,Caterpie,Shield Dust,Blocks the added effects of attacks taken.,Run Away,Blocks the added effects of attacks taken.
+11,Metapod,Shed Skin,The Pokémon may heal its own status problems.,,The Pokémon may heal its own status problems.
+12,Butterfree,Compound Eyes,The Pokémon's accuracy is boosted.,Tinted Lens,The Pokémon's accuracy is boosted.
+13,Weedle,Shield Dust,Blocks the added effects of attacks taken.,Run Away,Blocks the added effects of attacks taken.
+14,Kakuna,Shed Skin,The Pokémon may heal its own status problems.,,The Pokémon may heal its own status problems.
+15,Beedrill,Swarm,Powers up Bug-type moves in a pinch.,Sniper,Powers up Bug-type moves in a pinch.
+16,Pidgey,Keen Eye,Prevents other Pokémon from lowering accuracy.,Big Pecks,Prevents other Pokémon from lowering accuracy.
+17,Pidgeotto,Keen Eye,Prevents other Pokémon from lowering accuracy.,Big Pecks,Prevents other Pokémon from lowering accuracy.
+18,Pidgeot,Keen Eye,Prevents other Pokémon from lowering accuracy.,Big Pecks,Prevents other Pokémon from lowering accuracy.
+19,Rattata,Run Away,Enables a sure getaway from wild Pokémon.,Hustle,Enables a sure getaway from wild Pokémon.
+20,Raticate,Run Away,Enables a sure getaway from wild Pokémon.,Hustle,Enables a sure getaway from wild Pokémon.
+21,Spearow,Keen Eye,Prevents other Pokémon from lowering accuracy.,Sniper,Prevents other Pokémon from lowering accuracy.
+22,Fearow,Keen Eye,Prevents other Pokémon from lowering accuracy.,Sniper,Prevents other Pokémon from lowering accuracy.
+23,Ekans,Intimidate,Lowers the foe's Attack stat.,Unnerve,Lowers the foe's Attack stat.
+24,Arbok,Intimidate,Lowers the foe's Attack stat.,Unnerve,Lowers the foe's Attack stat.
+25,Pikachu,Static,Contact with the Pokémon may cause paralysis.,Lightning Rod,Contact with the Pokémon may cause paralysis.
+26,Raichu,Static,Contact with the Pokémon may cause paralysis.,Lightning Rod,Contact with the Pokémon may cause paralysis.
+27,Sandshrew,Sand Veil,Boosts the Pokémon's evasion in a sandstorm.,Sand Rush,Boosts the Pokémon's evasion in a sandstorm.
+28,Sandslash,Sand Veil,Boosts the Pokémon's evasion in a sandstorm.,Sand Rush,Boosts the Pokémon's evasion in a sandstorm.
+29,Nidoran♀ (female),Poison Point,Contact with the Pokémon may poison the attacker.,Hustle,Contact with the Pokémon may poison the attacker.
+30,Nidorina,Poison Point,Contact with the Pokémon may poison the attacker.,Hustle,Contact with the Pokémon may poison the attacker.
+31,Nidoqueen,Poison Point,Contact with the Pokémon may poison the attacker.,Sheer Force,Contact with the Pokémon may poison the attacker.
+32,Nidoran♂ (male),Poison Point,Contact with the Pokémon may poison the attacker.,Hustle,Contact with the Pokémon may poison the attacker.
+33,Nidorino,Poison Point,Contact with the Pokémon may poison the attacker.,Hustle,Contact with the Pokémon may poison the attacker.
+34,Nidoking,Poison Point,Contact with the Pokémon may poison the attacker.,Sheer Force,Contact with the Pokémon may poison the attacker.
+35,Clefairy,Cute Charm,Contact with the Pokémon may cause infatuation.,Friend Guard,Contact with the Pokémon may cause infatuation.
+36,Clefable,Cute Charm,Contact with the Pokémon may cause infatuation.,Unaware,Contact with the Pokémon may cause infatuation.
+37,Vulpix,Flash Fire,It powers up Fire-type moves if it's hit by one.,Drought,It powers up Fire-type moves if it's hit by one.
+38,Ninetales,Flash Fire,It powers up Fire-type moves if it's hit by one.,Drought,It powers up Fire-type moves if it's hit by one.
+39,Jigglypuff,Cute Charm,Contact with the Pokémon may cause infatuation.,Friend Guard,Contact with the Pokémon may cause infatuation.
+40,Wigglytuff,Cute Charm,Contact with the Pokémon may cause infatuation.,Frisk,Contact with the Pokémon may cause infatuation.
+41,Zubat,Inner Focus,The Pokémon is protected from flinching.,Infiltrator,The Pokémon is protected from flinching.
+42,Golbat,Inner Focus,The Pokémon is protected from flinching.,Infiltrator,The Pokémon is protected from flinching.
+43,Oddish,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Run Away,Boosts the Pokémon's Speed in sunshine.
+44,Gloom,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Stench,Boosts the Pokémon's Speed in sunshine.
+45,Vileplume,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Effect Spore,Boosts the Pokémon's Speed in sunshine.
+46,Paras,Effect Spore,Contact may poison or cause paralysis or sleep.,Damp,Contact may poison or cause paralysis or sleep.
+47,Parasect,Effect Spore,Contact may poison or cause paralysis or sleep.,Damp,Contact may poison or cause paralysis or sleep.
+48,Venonat,Compound Eyes,The Pokémon's accuracy is boosted.,Run Away,The Pokémon's accuracy is boosted.
+49,Venomoth,Shield Dust,Blocks the added effects of attacks taken.,Wonder Skin,Blocks the added effects of attacks taken.
+50,Diglett,Sand Veil,Boosts the Pokémon's evasion in a sandstorm.,Sand Force,Boosts the Pokémon's evasion in a sandstorm.
+51,Dugtrio,Sand Veil,Boosts the Pokémon's evasion in a sandstorm.,Sand Force,Boosts the Pokémon's evasion in a sandstorm.
+52,Meowth,Pickup,The Pokémon may pick up items.,Unnerve,The Pokémon may pick up items.
+53,Persian,Limber,The Pokémon is protected from paralysis.,Unnerve,The Pokémon is protected from paralysis.
+54,Psyduck,Damp,Prevents the use of self-destructing moves.,Swift Swim,Prevents the use of self-destructing moves.
+55,Golduck,Damp,Prevents the use of self-destructing moves.,Swift Swim,Prevents the use of self-destructing moves.
+56,Mankey,Vital Spirit,Prevents the Pokémon from falling asleep.,Defiant,Prevents the Pokémon from falling asleep.
+57,Primeape,Vital Spirit,Prevents the Pokémon from falling asleep.,Defiant,Prevents the Pokémon from falling asleep.
+58,Growlithe,Intimidate,Lowers the foe's Attack stat.,Justified,Lowers the foe's Attack stat.
+59,Arcanine,Intimidate,Lowers the foe's Attack stat.,Justified,Lowers the foe's Attack stat.
+60,Poliwag,Water Absorb,Restores HP if hit by a Water-type move.,Swift Swim,Restores HP if hit by a Water-type move.
+61,Poliwhirl,Water Absorb,Restores HP if hit by a Water-type move.,Swift Swim,Restores HP if hit by a Water-type move.
+62,Poliwrath,Water Absorb,Restores HP if hit by a Water-type move.,Swift Swim,Restores HP if hit by a Water-type move.
+63,Abra,Synchronize,"Passes a burn, poison, or paralysis to the foe.",Magic Guard,"Passes a burn, poison, or paralysis to the foe."
+64,Kadabra,Synchronize,"Passes a burn, poison, or paralysis to the foe.",Magic Guard,"Passes a burn, poison, or paralysis to the foe."
+65,Alakazam,Synchronize,"Passes a burn, poison, or paralysis to the foe.",Magic Guard,"Passes a burn, poison, or paralysis to the foe."
+66,Machop,Guts,Boosts Attack if there is a status problem.,Steadfast,Boosts Attack if there is a status problem.
+67,Machoke,Guts,Boosts Attack if there is a status problem.,Steadfast,Boosts Attack if there is a status problem.
+68,Machamp,Guts,Boosts Attack if there is a status problem.,Steadfast,Boosts Attack if there is a status problem.
+69,Bellsprout,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Gluttony,Boosts the Pokémon's Speed in sunshine.
+70,Weepinbell,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Gluttony,Boosts the Pokémon's Speed in sunshine.
+71,Victreebel,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Gluttony,Boosts the Pokémon's Speed in sunshine.
+72,Tentacool,Clear Body,Prevents other Pokémon from lowering its stats.,Rain Dish,Prevents other Pokémon from lowering its stats.
+73,Tentacruel,Clear Body,Prevents other Pokémon from lowering its stats.,Rain Dish,Prevents other Pokémon from lowering its stats.
+74,Geodude,Rock Head,Protects the Pokémon from recoil damage.,Sand Veil,Protects the Pokémon from recoil damage.
+75,Graveler,Rock Head,Protects the Pokémon from recoil damage.,Sand Veil,Protects the Pokémon from recoil damage.
+76,Golem,Rock Head,Protects the Pokémon from recoil damage.,Sand Veil,Protects the Pokémon from recoil damage.
+77,Ponyta,Run Away,Enables a sure getaway from wild Pokémon.,Flame Body,Enables a sure getaway from wild Pokémon.
+78,Rapidash,Run Away,Enables a sure getaway from wild Pokémon.,Flame Body,Enables a sure getaway from wild Pokémon.
+79,Slowpoke,Oblivious,Prevents it from becoming infatuated.,Regenerator,Prevents it from becoming infatuated.
+80,Slowbro,Oblivious,Prevents it from becoming infatuated.,Regenerator,Prevents it from becoming infatuated.
+81,Magnemite,Magnet Pull,Prevents Steel-type Pokémon from escaping.,Analytic,Prevents Steel-type Pokémon from escaping.
+82,Magneton,Magnet Pull,Prevents Steel-type Pokémon from escaping.,Analytic,Prevents Steel-type Pokémon from escaping.
+83,Farfetch'd,Keen Eye,Prevents other Pokémon from lowering accuracy.,Defiant,Prevents other Pokémon from lowering accuracy.
+84,Doduo,Run Away,Enables a sure getaway from wild Pokémon.,Tangled Feet,Enables a sure getaway from wild Pokémon.
+85,Dodrio,Run Away,Enables a sure getaway from wild Pokémon.,Tangled Feet,Enables a sure getaway from wild Pokémon.
+86,Seel,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Ice Body,Ups resistance to Fire- and Ice-type moves.
+87,Dewgong,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Ice Body,Ups resistance to Fire- and Ice-type moves.
+88,Grimer,Stench,The stench may cause the target to flinch.,Poison Touch,The stench may cause the target to flinch.
+89,Muk,Stench,The stench may cause the target to flinch.,Poison Touch,The stench may cause the target to flinch.
+90,Shellder,Shell Armor,The Pokémon is protected against critical hits.,Overcoat,The Pokémon is protected against critical hits.
+91,Cloyster,Shell Armor,The Pokémon is protected against critical hits.,Overcoat,The Pokémon is protected against critical hits.
+92,Gastly,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+93,Haunter,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+94,Gengar,Cursed Body,May disable a move used on the Pokémon.,,May disable a move used on the Pokémon.
+95,Onix,Rock Head,Protects the Pokémon from recoil damage.,Weak Armor,Protects the Pokémon from recoil damage.
+96,Drowzee,Insomnia,Prevents the Pokémon from falling asleep.,Inner Focus,Prevents the Pokémon from falling asleep.
+97,Hypno,Insomnia,Prevents the Pokémon from falling asleep.,Inner Focus,Prevents the Pokémon from falling asleep.
+98,Krabby,Hyper Cutter,Prevents other Pokémon from lowering Attack stat.,Sheer Force,Prevents other Pokémon from lowering Attack stat.
+99,Kingler,Hyper Cutter,Prevents other Pokémon from lowering Attack stat.,Sheer Force,Prevents other Pokémon from lowering Attack stat.
+100,Voltorb,Soundproof,Gives immunity to sound-based moves.,Aftermath,Gives immunity to sound-based moves.
+101,Electrode,Soundproof,Gives immunity to sound-based moves.,Aftermath,Gives immunity to sound-based moves.
+102,Exeggcute,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Harvest,Boosts the Pokémon's Speed in sunshine.
+103,Exeggutor,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Harvest,Boosts the Pokémon's Speed in sunshine.
+104,Cubone,Rock Head,Protects the Pokémon from recoil damage.,Battle Armor,Protects the Pokémon from recoil damage.
+105,Marowak,Rock Head,Protects the Pokémon from recoil damage.,Battle Armor,Protects the Pokémon from recoil damage.
+106,Hitmonlee,Limber,The Pokémon is protected from paralysis.,Unburden,The Pokémon is protected from paralysis.
+107,Hitmonchan,Keen Eye,Prevents other Pokémon from lowering accuracy.,Inner Focus,Prevents other Pokémon from lowering accuracy.
+108,Lickitung,Own Tempo,Prevents the Pokémon from becoming confused.,Cloud Nine,Prevents the Pokémon from becoming confused.
+109,Koffing,Levitate,Gives immunity to Ground type moves.,Stench,Gives immunity to Ground type moves.
+110,Weezing,Levitate,Gives immunity to Ground type moves.,Stench,Gives immunity to Ground type moves.
+111,Rhyhorn,Lightning Rod,Draws in all Electric-type moves to up Sp. Attack.,Reckless,Draws in all Electric-type moves to up Sp. Attack.
+112,Rhydon,Lightning Rod,Draws in all Electric-type moves to up Sp. Attack.,Reckless,Draws in all Electric-type moves to up Sp. Attack.
+113,Chansey,Natural Cure,All status problems heal when it switches out.,Healer,All status problems heal when it switches out.
+114,Tangela,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Regenerator,Boosts the Pokémon's Speed in sunshine.
+115,Kangaskhan,Early Bird,The Pokémon awakens quickly from sleep.,Inner Focus,The Pokémon awakens quickly from sleep.
+116,Horsea,Swift Swim,Boosts the Pokémon's Speed in rain.,Damp,Boosts the Pokémon's Speed in rain.
+117,Seadra,Poison Point,Contact with the Pokémon may poison the attacker.,Damp,Contact with the Pokémon may poison the attacker.
+118,Goldeen,Swift Swim,Boosts the Pokémon's Speed in rain.,Lightning Rod,Boosts the Pokémon's Speed in rain.
+119,Seaking,Swift Swim,Boosts the Pokémon's Speed in rain.,Lightning Rod,Boosts the Pokémon's Speed in rain.
+120,Staryu,Illuminate,Raises the likelihood of meeting wild Pokémon.,Analytic,Raises the likelihood of meeting wild Pokémon.
+121,Starmie,Illuminate,Raises the likelihood of meeting wild Pokémon.,Analytic,Raises the likelihood of meeting wild Pokémon.
+122,Mr. Mime,Soundproof,Gives immunity to sound-based moves.,Technician,Gives immunity to sound-based moves.
+123,Scyther,Swarm,Powers up Bug-type moves in a pinch.,Steadfast,Powers up Bug-type moves in a pinch.
+124,Jynx,Oblivious,Prevents it from becoming infatuated.,Dry Skin,Prevents it from becoming infatuated.
+125,Electabuzz,Static,Contact with the Pokémon may cause paralysis.,Vital Spirit,Contact with the Pokémon may cause paralysis.
+126,Magmar,Flame Body,Contact with the Pokémon may burn the attacker.,Vital Spirit,Contact with the Pokémon may burn the attacker.
+127,Pinsir,Hyper Cutter,Prevents other Pokémon from lowering Attack stat.,Moxie,Prevents other Pokémon from lowering Attack stat.
+128,Tauros,Intimidate,Lowers the foe's Attack stat.,Sheer Force,Lowers the foe's Attack stat.
+129,Magikarp,Swift Swim,Boosts the Pokémon's Speed in rain.,Rattled,Boosts the Pokémon's Speed in rain.
+130,Gyarados,Intimidate,Lowers the foe's Attack stat.,Moxie,Lowers the foe's Attack stat.
+131,Lapras,Water Absorb,Restores HP if hit by a Water-type move.,Hydration,Restores HP if hit by a Water-type move.
+132,Ditto,Limber,The Pokémon is protected from paralysis.,Imposter,The Pokémon is protected from paralysis.
+133,Eevee,Run Away,Enables a sure getaway from wild Pokémon.,Anticipation,Enables a sure getaway from wild Pokémon.
+134,Vaporeon,Water Absorb,Restores HP if hit by a Water-type move.,Hydration,Restores HP if hit by a Water-type move.
+135,Jolteon,Volt Absorb,Restores HP if hit by an Electric-type move.,Quick Feet,Restores HP if hit by an Electric-type move.
+136,Flareon,Flash Fire,It powers up Fire-type moves if it's hit by one.,Guts,It powers up Fire-type moves if it's hit by one.
+137,Porygon,Trace,The Pokémon copies a foe's Ability.,Analytic,The Pokémon copies a foe's Ability.
+138,Omanyte,Swift Swim,Boosts the Pokémon's Speed in rain.,Weak Armor,Boosts the Pokémon's Speed in rain.
+139,Omastar,Swift Swim,Boosts the Pokémon's Speed in rain.,Weak Armor,Boosts the Pokémon's Speed in rain.
+140,Kabuto,Swift Swim,Boosts the Pokémon's Speed in rain.,Weak Armor,Boosts the Pokémon's Speed in rain.
+141,Kabutops,Swift Swim,Boosts the Pokémon's Speed in rain.,Weak Armor,Boosts the Pokémon's Speed in rain.
+142,Aerodactyl,Rock Head,Protects the Pokémon from recoil damage.,Unnerve,Protects the Pokémon from recoil damage.
+143,Snorlax,Immunity,Prevents the Pokémon from getting poisoned.,Gluttony,Prevents the Pokémon from getting poisoned.
+144,Articuno,Pressure,The Pokémon raises the foe's PP usage.,Snow Cloak,The Pokémon raises the foe's PP usage.
+145,Zapdos,Pressure,The Pokémon raises the foe's PP usage.,Static,The Pokémon raises the foe's PP usage.
+146,Moltres,Pressure,The Pokémon raises the foe's PP usage.,Flame Body,The Pokémon raises the foe's PP usage.
+147,Dratini,Shed Skin,The Pokémon may heal its own status problems.,Marvel Scale,The Pokémon may heal its own status problems.
+148,Dragonair,Shed Skin,The Pokémon may heal its own status problems.,Marvel Scale,The Pokémon may heal its own status problems.
+149,Dragonite,Inner Focus,The Pokémon is protected from flinching.,Multiscale,The Pokémon is protected from flinching.
+150,Mewtwo,Pressure,The Pokémon raises the foe's PP usage.,Unnerve,The Pokémon raises the foe's PP usage.
+151,Mew,Synchronize,"Passes a burn, poison, or paralysis to the foe.",,"Passes a burn, poison, or paralysis to the foe."
+152,Chikorita,Overgrow,Powers up Grass-type moves in a pinch.,Leaf Guard,Powers up Grass-type moves in a pinch.
+153,Bayleef,Overgrow,Powers up Grass-type moves in a pinch.,Leaf Guard,Powers up Grass-type moves in a pinch.
+154,Meganium,Overgrow,Powers up Grass-type moves in a pinch.,Leaf Guard,Powers up Grass-type moves in a pinch.
+155,Cyndaquil,Blaze,Powers up Fire-type moves in a pinch.,Flash Fire,Powers up Fire-type moves in a pinch.
+156,Quilava,Blaze,Powers up Fire-type moves in a pinch.,Flash Fire,Powers up Fire-type moves in a pinch.
+157,Typhlosion,Blaze,Powers up Fire-type moves in a pinch.,Flash Fire,Powers up Fire-type moves in a pinch.
+158,Totodile,Torrent,Powers up Water-type moves in a pinch.,Sheer Force,Powers up Water-type moves in a pinch.
+159,Croconaw,Torrent,Powers up Water-type moves in a pinch.,Sheer Force,Powers up Water-type moves in a pinch.
+160,Feraligatr,Torrent,Powers up Water-type moves in a pinch.,Sheer Force,Powers up Water-type moves in a pinch.
+161,Sentret,Run Away,Enables a sure getaway from wild Pokémon.,Frisk,Enables a sure getaway from wild Pokémon.
+162,Furret,Run Away,Enables a sure getaway from wild Pokémon.,Frisk,Enables a sure getaway from wild Pokémon.
+163,Hoothoot,Insomnia,Prevents the Pokémon from falling asleep.,Tinted Lens,Prevents the Pokémon from falling asleep.
+164,Noctowl,Insomnia,Prevents the Pokémon from falling asleep.,Tinted Lens,Prevents the Pokémon from falling asleep.
+165,Ledyba,Swarm,Powers up Bug-type moves in a pinch.,Rattled,Powers up Bug-type moves in a pinch.
+166,Ledian,Swarm,Powers up Bug-type moves in a pinch.,Iron Fist,Powers up Bug-type moves in a pinch.
+167,Spinarak,Swarm,Powers up Bug-type moves in a pinch.,Sniper,Powers up Bug-type moves in a pinch.
+168,Ariados,Swarm,Powers up Bug-type moves in a pinch.,Sniper,Powers up Bug-type moves in a pinch.
+169,Crobat,Inner Focus,The Pokémon is protected from flinching.,Infiltrator,The Pokémon is protected from flinching.
+170,Chinchou,Volt Absorb,Restores HP if hit by an Electric-type move.,Water Absorb,Restores HP if hit by an Electric-type move.
+171,Lanturn,Volt Absorb,Restores HP if hit by an Electric-type move.,Water Absorb,Restores HP if hit by an Electric-type move.
+172,Pichu,Static,Contact with the Pokémon may cause paralysis.,Lightning Rod,Contact with the Pokémon may cause paralysis.
+173,Cleffa,Cute Charm,Contact with the Pokémon may cause infatuation.,Friend Guard,Contact with the Pokémon may cause infatuation.
+174,Igglybuff,Cute Charm,Contact with the Pokémon may cause infatuation.,Friend Guard,Contact with the Pokémon may cause infatuation.
+175,Togepi,Hustle,"Boosts the Attack stat, but lowers accuracy.",Super Luck,"Boosts the Attack stat, but lowers accuracy."
+176,Togetic,Hustle,"Boosts the Attack stat, but lowers accuracy.",Super Luck,"Boosts the Attack stat, but lowers accuracy."
+177,Natu,Synchronize,"Passes a burn, poison, or paralysis to the foe.",Magic Bounce,"Passes a burn, poison, or paralysis to the foe."
+178,Xatu,Synchronize,"Passes a burn, poison, or paralysis to the foe.",Magic Bounce,"Passes a burn, poison, or paralysis to the foe."
+179,Mareep,Static,Contact with the Pokémon may cause paralysis.,Plus,Contact with the Pokémon may cause paralysis.
+180,Flaaffy,Static,Contact with the Pokémon may cause paralysis.,Plus,Contact with the Pokémon may cause paralysis.
+181,Ampharos,Static,Contact with the Pokémon may cause paralysis.,Plus,Contact with the Pokémon may cause paralysis.
+182,Bellossom,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Healer,Boosts the Pokémon's Speed in sunshine.
+183,Marill,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Sap Sipper,Ups resistance to Fire- and Ice-type moves.
+184,Azumarill,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Sap Sipper,Ups resistance to Fire- and Ice-type moves.
+185,Sudowoodo,Sturdy,It cannot be knocked out with one hit.,Rattled,It cannot be knocked out with one hit.
+186,Politoed,Water Absorb,Restores HP if hit by a Water-type move.,Drizzle,Restores HP if hit by a Water-type move.
+187,Hoppip,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Infiltrator,Boosts the Pokémon's Speed in sunshine.
+188,Skiploom,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Infiltrator,Boosts the Pokémon's Speed in sunshine.
+189,Jumpluff,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Infiltrator,Boosts the Pokémon's Speed in sunshine.
+190,Aipom,Run Away,Enables a sure getaway from wild Pokémon.,Skill Link,Enables a sure getaway from wild Pokémon.
+191,Sunkern,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Early Bird,Boosts the Pokémon's Speed in sunshine.
+192,Sunflora,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Early Bird,Boosts the Pokémon's Speed in sunshine.
+193,Yanma,Speed Boost,Its Speed stat is gradually boosted.,Frisk,Its Speed stat is gradually boosted.
+194,Wooper,Damp,Prevents the use of self-destructing moves.,Unaware,Prevents the use of self-destructing moves.
+195,Quagsire,Damp,Prevents the use of self-destructing moves.,Unaware,Prevents the use of self-destructing moves.
+196,Espeon,Synchronize,"Passes a burn, poison, or paralysis to the foe.",Magic Bounce,"Passes a burn, poison, or paralysis to the foe."
+197,Umbreon,Synchronize,"Passes a burn, poison, or paralysis to the foe.",Inner Focus,"Passes a burn, poison, or paralysis to the foe."
+198,Murkrow,Insomnia,Prevents the Pokémon from falling asleep.,Prankster,Prevents the Pokémon from falling asleep.
+199,Slowking,Oblivious,Prevents it from becoming infatuated.,Regenerator,Prevents it from becoming infatuated.
+200,Misdreavus,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+201,Unown,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+202,Wobbuffet,Shadow Tag,Prevents the foe from escaping.,Telepathy,Prevents the foe from escaping.
+203,Girafarig,Inner Focus,The Pokémon is protected from flinching.,Sap Sipper,The Pokémon is protected from flinching.
+204,Pineco,Sturdy,It cannot be knocked out with one hit.,Overcoat,It cannot be knocked out with one hit.
+205,Forretress,Sturdy,It cannot be knocked out with one hit.,Overcoat,It cannot be knocked out with one hit.
+206,Dunsparce,Serene Grace,Boosts the likelihood of added effects appearing.,Rattled,Boosts the likelihood of added effects appearing.
+207,Gligar,Hyper Cutter,Prevents other Pokémon from lowering Attack stat.,Immunity,Prevents other Pokémon from lowering Attack stat.
+208,Steelix,Rock Head,Protects the Pokémon from recoil damage.,Sheer Force,Protects the Pokémon from recoil damage.
+209,Snubbull,Intimidate,Lowers the foe's Attack stat.,Rattled,Lowers the foe's Attack stat.
+210,Granbull,Intimidate,Lowers the foe's Attack stat.,Rattled,Lowers the foe's Attack stat.
+211,Qwilfish,Poison Point,Contact with the Pokémon may poison the attacker.,Intimidate,Contact with the Pokémon may poison the attacker.
+212,Scizor,Swarm,Powers up Bug-type moves in a pinch.,Light Metal,Powers up Bug-type moves in a pinch.
+213,Shuckle,Sturdy,It cannot be knocked out with one hit.,Contrary,It cannot be knocked out with one hit.
+214,Heracross,Swarm,Powers up Bug-type moves in a pinch.,Moxie,Powers up Bug-type moves in a pinch.
+215,Sneasel,Inner Focus,The Pokémon is protected from flinching.,Pickpocket,The Pokémon is protected from flinching.
+216,Teddiursa,Pickup,The Pokémon may pick up items.,Honey Gather,The Pokémon may pick up items.
+217,Ursaring,Guts,Boosts Attack if there is a status problem.,Unnerve,Boosts Attack if there is a status problem.
+218,Slugma,Magma Armor,Prevents the Pokémon from becoming frozen.,Weak Armor,Prevents the Pokémon from becoming frozen.
+219,Magcargo,Magma Armor,Prevents the Pokémon from becoming frozen.,Weak Armor,Prevents the Pokémon from becoming frozen.
+220,Swinub,Oblivious,Prevents it from becoming infatuated.,Thick Fat,Prevents it from becoming infatuated.
+221,Piloswine,Oblivious,Prevents it from becoming infatuated.,Thick Fat,Prevents it from becoming infatuated.
+222,Corsola,Hustle,"Boosts the Attack stat, but lowers accuracy.",Regenerator,"Boosts the Attack stat, but lowers accuracy."
+223,Remoraid,Hustle,"Boosts the Attack stat, but lowers accuracy.",Moody,"Boosts the Attack stat, but lowers accuracy."
+224,Octillery,Suction Cups,Negates all moves that force switching out.,Moody,Negates all moves that force switching out.
+225,Delibird,Vital Spirit,Prevents the Pokémon from falling asleep.,Insomnia,Prevents the Pokémon from falling asleep.
+226,Mantine,Swift Swim,Boosts the Pokémon's Speed in rain.,Water Veil,Boosts the Pokémon's Speed in rain.
+227,Skarmory,Keen Eye,Prevents other Pokémon from lowering accuracy.,Weak Armor,Prevents other Pokémon from lowering accuracy.
+228,Houndour,Early Bird,The Pokémon awakens quickly from sleep.,Unnerve,The Pokémon awakens quickly from sleep.
+229,Houndoom,Early Bird,The Pokémon awakens quickly from sleep.,Unnerve,The Pokémon awakens quickly from sleep.
+230,Kingdra,Swift Swim,Boosts the Pokémon's Speed in rain.,Damp,Boosts the Pokémon's Speed in rain.
+231,Phanpy,Pickup,The Pokémon may pick up items.,Sand Veil,The Pokémon may pick up items.
+232,Donphan,Sturdy,It cannot be knocked out with one hit.,Sand Veil,It cannot be knocked out with one hit.
+233,Porygon2,Trace,The Pokémon copies a foe's Ability.,Analytic,The Pokémon copies a foe's Ability.
+234,Stantler,Intimidate,Lowers the foe's Attack stat.,Sap Sipper,Lowers the foe's Attack stat.
+235,Smeargle,Own Tempo,Prevents the Pokémon from becoming confused.,Moody,Prevents the Pokémon from becoming confused.
+236,Tyrogue,Guts,Boosts Attack if there is a status problem.,Vital Spirit,Boosts Attack if there is a status problem.
+237,Hitmontop,Intimidate,Lowers the foe's Attack stat.,Steadfast,Lowers the foe's Attack stat.
+238,Smoochum,Oblivious,Prevents it from becoming infatuated.,Hydration,Prevents it from becoming infatuated.
+239,Elekid,Static,Contact with the Pokémon may cause paralysis.,Vital Spirit,Contact with the Pokémon may cause paralysis.
+240,Magby,Flame Body,Contact with the Pokémon may burn the attacker.,Vital Spirit,Contact with the Pokémon may burn the attacker.
+241,Miltank,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Sap Sipper,Ups resistance to Fire- and Ice-type moves.
+242,Blissey,Natural Cure,All status problems heal when it switches out.,Healer,All status problems heal when it switches out.
+243,Raikou,Pressure,The Pokémon raises the foe's PP usage.,Inner Focus,The Pokémon raises the foe's PP usage.
+244,Entei,Pressure,The Pokémon raises the foe's PP usage.,Inner Focus,The Pokémon raises the foe's PP usage.
+245,Suicune,Pressure,The Pokémon raises the foe's PP usage.,Inner Focus,The Pokémon raises the foe's PP usage.
+246,Larvitar,Guts,Boosts Attack if there is a status problem.,Sand Veil,Boosts Attack if there is a status problem.
+247,Pupitar,Shed Skin,The Pokémon may heal its own status problems.,,The Pokémon may heal its own status problems.
+248,Tyranitar,Sand Stream,The Pokémon summons a sandstorm in battle.,Unnerve,The Pokémon summons a sandstorm in battle.
+249,Lugia,Pressure,The Pokémon raises the foe's PP usage.,Multiscale,The Pokémon raises the foe's PP usage.
+250,Ho-oh,Pressure,The Pokémon raises the foe's PP usage.,Regenerator,The Pokémon raises the foe's PP usage.
+251,Celebi,Natural Cure,All status problems heal when it switches out.,,All status problems heal when it switches out.
+252,Treecko,Overgrow,Powers up Grass-type moves in a pinch.,Unburden,Powers up Grass-type moves in a pinch.
+253,Grovyle,Overgrow,Powers up Grass-type moves in a pinch.,Unburden,Powers up Grass-type moves in a pinch.
+254,Sceptile,Overgrow,Powers up Grass-type moves in a pinch.,Unburden,Powers up Grass-type moves in a pinch.
+255,Torchic,Blaze,Powers up Fire-type moves in a pinch.,Speed Boost,Powers up Fire-type moves in a pinch.
+256,Combusken,Blaze,Powers up Fire-type moves in a pinch.,Speed Boost,Powers up Fire-type moves in a pinch.
+257,Blaziken,Blaze,Powers up Fire-type moves in a pinch.,Speed Boost,Powers up Fire-type moves in a pinch.
+258,Mudkip,Torrent,Powers up Water-type moves in a pinch.,Damp,Powers up Water-type moves in a pinch.
+259,Marshtomp,Torrent,Powers up Water-type moves in a pinch.,Damp,Powers up Water-type moves in a pinch.
+260,Swampert,Torrent,Powers up Water-type moves in a pinch.,Damp,Powers up Water-type moves in a pinch.
+261,Poochyena,Run Away,Enables a sure getaway from wild Pokémon.,Rattled,Enables a sure getaway from wild Pokémon.
+262,Mightyena,Intimidate,Lowers the foe's Attack stat.,Moxie,Lowers the foe's Attack stat.
+263,Zigzagoon,Pickup,The Pokémon may pick up items.,Quick Feet,The Pokémon may pick up items.
+264,Linoone,Pickup,The Pokémon may pick up items.,Quick Feet,The Pokémon may pick up items.
+265,Wurmple,Shield Dust,Blocks the added effects of attacks taken.,Run Away,Blocks the added effects of attacks taken.
+266,Silcoon,Shed Skin,The Pokémon may heal its own status problems.,,The Pokémon may heal its own status problems.
+267,Beautifly,Swarm,Powers up Bug-type moves in a pinch.,Rivalry,Powers up Bug-type moves in a pinch.
+268,Cascoon,Shed Skin,The Pokémon may heal its own status problems.,,The Pokémon may heal its own status problems.
+269,Dustox,Shield Dust,Blocks the added effects of attacks taken.,Compound Eyes,Blocks the added effects of attacks taken.
+270,Lotad,Swift Swim,Boosts the Pokémon's Speed in rain.,Own Tempo,Boosts the Pokémon's Speed in rain.
+271,Lombre,Swift Swim,Boosts the Pokémon's Speed in rain.,Own Tempo,Boosts the Pokémon's Speed in rain.
+272,Ludicolo,Swift Swim,Boosts the Pokémon's Speed in rain.,Own Tempo,Boosts the Pokémon's Speed in rain.
+273,Seedot,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Pickpocket,Boosts the Pokémon's Speed in sunshine.
+274,Nuzleaf,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Pickpocket,Boosts the Pokémon's Speed in sunshine.
+275,Shiftry,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Pickpocket,Boosts the Pokémon's Speed in sunshine.
+276,Taillow,Guts,Boosts Attack if there is a status problem.,Scrappy,Boosts Attack if there is a status problem.
+277,Swellow,Guts,Boosts Attack if there is a status problem.,Scrappy,Boosts Attack if there is a status problem.
+278,Wingull,Keen Eye,Prevents other Pokémon from lowering accuracy.,Rain Dish,Prevents other Pokémon from lowering accuracy.
+279,Pelipper,Keen Eye,Prevents other Pokémon from lowering accuracy.,Rain Dish,Prevents other Pokémon from lowering accuracy.
+280,Ralts,Synchronize,"Passes a burn, poison, or paralysis to the foe.",Telepathy,"Passes a burn, poison, or paralysis to the foe."
+281,Kirlia,Synchronize,"Passes a burn, poison, or paralysis to the foe.",Telepathy,"Passes a burn, poison, or paralysis to the foe."
+282,Gardevoir,Synchronize,"Passes a burn, poison, or paralysis to the foe.",Telepathy,"Passes a burn, poison, or paralysis to the foe."
+283,Surskit,Swift Swim,Boosts the Pokémon's Speed in rain.,Rain Dish,Boosts the Pokémon's Speed in rain.
+284,Masquerain,Intimidate,Lowers the foe's Attack stat.,Unnerve,Lowers the foe's Attack stat.
+285,Shroomish,Effect Spore,Contact may poison or cause paralysis or sleep.,Quick Feet,Contact may poison or cause paralysis or sleep.
+286,Breloom,Effect Spore,Contact may poison or cause paralysis or sleep.,Technician,Contact may poison or cause paralysis or sleep.
+287,Slakoth,Truant,Pokémon can't attack on consecutive turns.,,Pokémon can't attack on consecutive turns.
+288,Vigoroth,Vital Spirit,Prevents the Pokémon from falling asleep.,,Prevents the Pokémon from falling asleep.
+289,Slaking,Truant,Pokémon can't attack on consecutive turns.,,Pokémon can't attack on consecutive turns.
+290,Nincada,Compound Eyes,The Pokémon's accuracy is boosted.,Run Away,The Pokémon's accuracy is boosted.
+291,Ninjask,Speed Boost,Its Speed stat is gradually boosted.,Infiltrator,Its Speed stat is gradually boosted.
+292,Shedinja,Wonder Guard,Only supereffective moves will hit.,,Only supereffective moves will hit.
+293,Whismur,Soundproof,Gives immunity to sound-based moves.,Rattled,Gives immunity to sound-based moves.
+294,Loudred,Soundproof,Gives immunity to sound-based moves.,Scrappy,Gives immunity to sound-based moves.
+295,Exploud,Soundproof,Gives immunity to sound-based moves.,Scrappy,Gives immunity to sound-based moves.
+296,Makuhita,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Sheer Force,Ups resistance to Fire- and Ice-type moves.
+297,Hariyama,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Sheer Force,Ups resistance to Fire- and Ice-type moves.
+298,Azurill,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Sap Sipper,Ups resistance to Fire- and Ice-type moves.
+299,Nosepass,Sturdy,It cannot be knocked out with one hit.,Sand Force,It cannot be knocked out with one hit.
+300,Skitty,Cute Charm,Contact with the Pokémon may cause infatuation.,Wonder Skin,Contact with the Pokémon may cause infatuation.
+301,Delcatty,Cute Charm,Contact with the Pokémon may cause infatuation.,Wonder Skin,Contact with the Pokémon may cause infatuation.
+302,Sableye,Keen Eye,Prevents other Pokémon from lowering accuracy.,Prankster,Prevents other Pokémon from lowering accuracy.
+303,Mawile,Hyper Cutter,Prevents other Pokémon from lowering Attack stat.,Sheer Force,Prevents other Pokémon from lowering Attack stat.
+304,Aron,Sturdy,It cannot be knocked out with one hit.,Heavy Metal,It cannot be knocked out with one hit.
+305,Lairon,Sturdy,It cannot be knocked out with one hit.,Heavy Metal,It cannot be knocked out with one hit.
+306,Aggron,Sturdy,It cannot be knocked out with one hit.,Heavy Metal,It cannot be knocked out with one hit.
+307,Meditite,Pure Power,Raises the Pokémon's Attack stat.,Telepathy,Raises the Pokémon's Attack stat.
+308,Medicham,Pure Power,Raises the Pokémon's Attack stat.,Telepathy,Raises the Pokémon's Attack stat.
+309,Electrike,Static,Contact with the Pokémon may cause paralysis.,Minus,Contact with the Pokémon may cause paralysis.
+310,Manectric,Static,Contact with the Pokémon may cause paralysis.,Minus,Contact with the Pokémon may cause paralysis.
+311,Plusle,Plus,Ups Sp. Atk if another Pokémon has Plus or Minus.,Lightning Rod,Ups Sp. Atk if another Pokémon has Plus or Minus.
+312,Minun,Minus,Ups Sp. Atk if another Pokémon has Plus or Minus.,Volt Absorb,Ups Sp. Atk if another Pokémon has Plus or Minus.
+313,Volbeat,Illuminate,Raises the likelihood of meeting wild Pokémon.,Prankster,Raises the likelihood of meeting wild Pokémon.
+314,Illumise,Oblivious,Prevents it from becoming infatuated.,Prankster,Prevents it from becoming infatuated.
+315,Roselia,Natural Cure,All status problems heal when it switches out.,Leaf Guard,All status problems heal when it switches out.
+316,Gulpin,Liquid Ooze,Damages attackers using any draining move.,Gluttony,Damages attackers using any draining move.
+317,Swalot,Liquid Ooze,Damages attackers using any draining move.,Gluttony,Damages attackers using any draining move.
+318,Carvanha,Rough Skin,Inflicts damage to the attacker on contact.,Speed Boost,Inflicts damage to the attacker on contact.
+319,Sharpedo,Rough Skin,Inflicts damage to the attacker on contact.,Speed Boost,Inflicts damage to the attacker on contact.
+320,Wailmer,Water Veil,Prevents the Pokémon from getting a burn.,Pressure,Prevents the Pokémon from getting a burn.
+321,Wailord,Water Veil,Prevents the Pokémon from getting a burn.,Pressure,Prevents the Pokémon from getting a burn.
+322,Numel,Oblivious,Prevents it from becoming infatuated.,Own Tempo,Prevents it from becoming infatuated.
+323,Camerupt,Magma Armor,Prevents the Pokémon from becoming frozen.,Anger Point,Prevents the Pokémon from becoming frozen.
+324,Torkoal,White Smoke,Prevents other Pokémon from lowering its stats.,Shell Armor,Prevents other Pokémon from lowering its stats.
+325,Spoink,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Gluttony,Ups resistance to Fire- and Ice-type moves.
+326,Grumpig,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Gluttony,Ups resistance to Fire- and Ice-type moves.
+327,Spinda,Own Tempo,Prevents the Pokémon from becoming confused.,Contrary,Prevents the Pokémon from becoming confused.
+328,Trapinch,Hyper Cutter,Prevents other Pokémon from lowering Attack stat.,Sheer Force,Prevents other Pokémon from lowering Attack stat.
+329,Vibrava,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+330,Flygon,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+331,Cacnea,Sand Veil,Boosts the Pokémon's evasion in a sandstorm.,Water Absorb,Boosts the Pokémon's evasion in a sandstorm.
+332,Cacturne,Sand Veil,Boosts the Pokémon's evasion in a sandstorm.,Water Absorb,Boosts the Pokémon's evasion in a sandstorm.
+333,Swablu,Natural Cure,All status problems heal when it switches out.,Cloud Nine,All status problems heal when it switches out.
+334,Altaria,Natural Cure,All status problems heal when it switches out.,Cloud Nine,All status problems heal when it switches out.
+335,Zangoose,Immunity,Prevents the Pokémon from getting poisoned.,Toxic Boost,Prevents the Pokémon from getting poisoned.
+336,Seviper,Shed Skin,The Pokémon may heal its own status problems.,Infiltrator,The Pokémon may heal its own status problems.
+337,Lunatone,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+338,Solrock,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+339,Barboach,Oblivious,Prevents it from becoming infatuated.,Hydration,Prevents it from becoming infatuated.
+340,Whiscash,Oblivious,Prevents it from becoming infatuated.,Hydration,Prevents it from becoming infatuated.
+341,Corphish,Hyper Cutter,Prevents other Pokémon from lowering Attack stat.,Adaptability,Prevents other Pokémon from lowering Attack stat.
+342,Crawdaunt,Hyper Cutter,Prevents other Pokémon from lowering Attack stat.,Adaptability,Prevents other Pokémon from lowering Attack stat.
+343,Baltoy,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+344,Claydol,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+345,Lileep,Suction Cups,Negates all moves that force switching out.,Storm Drain,Negates all moves that force switching out.
+346,Cradily,Suction Cups,Negates all moves that force switching out.,Storm Drain,Negates all moves that force switching out.
+347,Anorith,Battle Armor,The Pokémon is protected against critical hits.,Swift Swim,The Pokémon is protected against critical hits.
+348,Armaldo,Battle Armor,The Pokémon is protected against critical hits.,Swift Swim,The Pokémon is protected against critical hits.
+349,Feebas,Swift Swim,Boosts the Pokémon's Speed in rain.,Adaptability,Boosts the Pokémon's Speed in rain.
+350,Milotic,Marvel Scale,Ups Defense if there is a status problem.,Cute Charm,Ups Defense if there is a status problem.
+351,Castform,Forecast,Castform transforms with the weather.,,Castform transforms with the weather.
+352,Kecleon,Color Change,Changes the Pokémon's type to the foe's move.,Protean,Changes the Pokémon's type to the foe's move.
+353,Shuppet,Insomnia,Prevents the Pokémon from falling asleep.,Cursed Body,Prevents the Pokémon from falling asleep.
+354,Banette,Insomnia,Prevents the Pokémon from falling asleep.,Cursed Body,Prevents the Pokémon from falling asleep.
+355,Duskull,Levitate,Gives immunity to Ground type moves.,Frisk,Gives immunity to Ground type moves.
+356,Dusclops,Pressure,The Pokémon raises the foe's PP usage.,Frisk,The Pokémon raises the foe's PP usage.
+357,Tropius,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Harvest,Boosts the Pokémon's Speed in sunshine.
+358,Chimecho,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+359,Absol,Pressure,The Pokémon raises the foe's PP usage.,Justified,The Pokémon raises the foe's PP usage.
+360,Wynaut,Shadow Tag,Prevents the foe from escaping.,Telepathy,Prevents the foe from escaping.
+361,Snorunt,Inner Focus,The Pokémon is protected from flinching.,Moody,The Pokémon is protected from flinching.
+362,Glalie,Inner Focus,The Pokémon is protected from flinching.,Moody,The Pokémon is protected from flinching.
+363,Spheal,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Oblivious,Ups resistance to Fire- and Ice-type moves.
+364,Sealeo,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Oblivious,Ups resistance to Fire- and Ice-type moves.
+365,Walrein,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Oblivious,Ups resistance to Fire- and Ice-type moves.
+366,Clamperl,Shell Armor,The Pokémon is protected against critical hits.,Rattled,The Pokémon is protected against critical hits.
+367,Huntail,Swift Swim,Boosts the Pokémon's Speed in rain.,Water Veil,Boosts the Pokémon's Speed in rain.
+368,Gorebyss,Swift Swim,Boosts the Pokémon's Speed in rain.,Hydration,Boosts the Pokémon's Speed in rain.
+369,Relicanth,Swift Swim,Boosts the Pokémon's Speed in rain.,Sturdy,Boosts the Pokémon's Speed in rain.
+370,Luvdisc,Swift Swim,Boosts the Pokémon's Speed in rain.,Hydration,Boosts the Pokémon's Speed in rain.
+371,Bagon,Rock Head,Protects the Pokémon from recoil damage.,Sheer Force,Protects the Pokémon from recoil damage.
+372,Shelgon,Rock Head,Protects the Pokémon from recoil damage.,Overcoat,Protects the Pokémon from recoil damage.
+373,Salamence,Intimidate,Lowers the foe's Attack stat.,Moxie,Lowers the foe's Attack stat.
+374,Beldum,Clear Body,Prevents other Pokémon from lowering its stats.,Light Metal,Prevents other Pokémon from lowering its stats.
+375,Metang,Clear Body,Prevents other Pokémon from lowering its stats.,Light Metal,Prevents other Pokémon from lowering its stats.
+376,Metagross,Clear Body,Prevents other Pokémon from lowering its stats.,Light Metal,Prevents other Pokémon from lowering its stats.
+377,Regirock,Clear Body,Prevents other Pokémon from lowering its stats.,Sturdy,Prevents other Pokémon from lowering its stats.
+378,Regice,Clear Body,Prevents other Pokémon from lowering its stats.,Ice Body,Prevents other Pokémon from lowering its stats.
+379,Registeel,Clear Body,Prevents other Pokémon from lowering its stats.,Light Metal,Prevents other Pokémon from lowering its stats.
+380,Latias,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+381,Latios,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+382,Kyogre,Drizzle,The Pokémon makes it rain when it enters a battle.,,The Pokémon makes it rain when it enters a battle.
+383,Groudon,Drought,Turns the sunlight harsh when the Pokémon enters a battle.,,Turns the sunlight harsh when the Pokémon enters a battle.
+384,Rayquaza,Air Lock,Eliminates the effects of weather.,,Eliminates the effects of weather.
+385,Jirachi,Serene Grace,Boosts the likelihood of added effects appearing.,,Boosts the likelihood of added effects appearing.
+386,Deoxys,Pressure,The Pokémon raises the foe's PP usage.,,The Pokémon raises the foe's PP usage.
+387,Turtwig,Overgrow,Powers up Grass-type moves in a pinch.,Shell Armor,Powers up Grass-type moves in a pinch.
+388,Grotle,Overgrow,Powers up Grass-type moves in a pinch.,Shell Armor,Powers up Grass-type moves in a pinch.
+389,Torterra,Overgrow,Powers up Grass-type moves in a pinch.,Shell Armor,Powers up Grass-type moves in a pinch.
+390,Chimchar,Blaze,Powers up Fire-type moves in a pinch.,Iron Fist,Powers up Fire-type moves in a pinch.
+391,Monferno,Blaze,Powers up Fire-type moves in a pinch.,Iron Fist,Powers up Fire-type moves in a pinch.
+392,Infernape,Blaze,Powers up Fire-type moves in a pinch.,Iron Fist,Powers up Fire-type moves in a pinch.
+393,Piplup,Torrent,Powers up Water-type moves in a pinch.,Defiant,Powers up Water-type moves in a pinch.
+394,Prinplup,Torrent,Powers up Water-type moves in a pinch.,Defiant,Powers up Water-type moves in a pinch.
+395,Empoleon,Torrent,Powers up Water-type moves in a pinch.,Defiant,Powers up Water-type moves in a pinch.
+396,Starly,Keen Eye,Prevents other Pokémon from lowering accuracy.,Reckless,Prevents other Pokémon from lowering accuracy.
+397,Staravia,Intimidate,Lowers the foe's Attack stat.,Reckless,Lowers the foe's Attack stat.
+398,Staraptor,Intimidate,Lowers the foe's Attack stat.,Reckless,Lowers the foe's Attack stat.
+399,Bidoof,Simple,Doubles all stat changes.,Moody,Doubles all stat changes.
+400,Bibarel,Simple,Doubles all stat changes.,Moody,Doubles all stat changes.
+401,Kricketot,Shed Skin,The Pokémon may heal its own status problems.,Run Away,The Pokémon may heal its own status problems.
+402,Kricketune,Swarm,Powers up Bug-type moves in a pinch.,Technician,Powers up Bug-type moves in a pinch.
+403,Shinx,Rivalry,Deals more damage to a Pokémon of same gender.,Guts,Deals more damage to a Pokémon of same gender.
+404,Luxio,Rivalry,Deals more damage to a Pokémon of same gender.,Guts,Deals more damage to a Pokémon of same gender.
+405,Luxray,Rivalry,Deals more damage to a Pokémon of same gender.,Guts,Deals more damage to a Pokémon of same gender.
+406,Budew,Natural Cure,All status problems heal when it switches out.,Leaf Guard,All status problems heal when it switches out.
+407,Roserade,Natural Cure,All status problems heal when it switches out.,Technician,All status problems heal when it switches out.
+408,Cranidos,Mold Breaker,Moves can be used regardless of Abilities.,Sheer Force,Moves can be used regardless of Abilities.
+409,Rampardos,Mold Breaker,Moves can be used regardless of Abilities.,Sheer Force,Moves can be used regardless of Abilities.
+410,Shieldon,Sturdy,It cannot be knocked out with one hit.,Soundproof,It cannot be knocked out with one hit.
+411,Bastiodon,Sturdy,It cannot be knocked out with one hit.,Soundproof,It cannot be knocked out with one hit.
+412,Burmy,Shed Skin,The Pokémon may heal its own status problems.,Overcoat,The Pokémon may heal its own status problems.
+413,Wormadam,Anticipation,Senses a foe's dangerous moves.,Overcoat,Senses a foe's dangerous moves.
+414,Mothim,Swarm,Powers up Bug-type moves in a pinch.,Tinted Lens,Powers up Bug-type moves in a pinch.
+415,Combee,Honey Gather,The Pokémon may gather Honey from somewhere.,Hustle,The Pokémon may gather Honey from somewhere.
+416,Vespiquen,Pressure,The Pokémon raises the foe's PP usage.,Unnerve,The Pokémon raises the foe's PP usage.
+417,Pachirisu,Run Away,Enables a sure getaway from wild Pokémon.,Volt Absorb,Enables a sure getaway from wild Pokémon.
+418,Buizel,Swift Swim,Boosts the Pokémon's Speed in rain.,Water Veil,Boosts the Pokémon's Speed in rain.
+419,Floatzel,Swift Swim,Boosts the Pokémon's Speed in rain.,Water Veil,Boosts the Pokémon's Speed in rain.
+420,Cherubi,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,,Boosts the Pokémon's Speed in sunshine.
+421,Cherrim,Flower Gift,Powers up party Pokémon when it is sunny.,,Powers up party Pokémon when it is sunny.
+422,Shellos,Sticky Hold,Protects the Pokémon from item theft.,Sand Force,Protects the Pokémon from item theft.
+423,Gastrodon,Sticky Hold,Protects the Pokémon from item theft.,Sand Force,Protects the Pokémon from item theft.
+424,Ambipom,Technician,Powers up the Pokémon's weaker moves.,Skill Link,Powers up the Pokémon's weaker moves.
+425,Drifloon,Aftermath,Damages the attacker landing the finishing hit.,Flare Boost,Damages the attacker landing the finishing hit.
+426,Drifblim,Aftermath,Damages the attacker landing the finishing hit.,Flare Boost,Damages the attacker landing the finishing hit.
+427,Buneary,Run Away,Enables a sure getaway from wild Pokémon.,Limber,Enables a sure getaway from wild Pokémon.
+428,Lopunny,Cute Charm,Contact with the Pokémon may cause infatuation.,Limber,Contact with the Pokémon may cause infatuation.
+429,Mismagius,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+430,Honchkrow,Insomnia,Prevents the Pokémon from falling asleep.,Moxie,Prevents the Pokémon from falling asleep.
+431,Glameow,Limber,The Pokémon is protected from paralysis.,Keen Eye,The Pokémon is protected from paralysis.
+432,Purugly,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Defiant,Ups resistance to Fire- and Ice-type moves.
+433,Chingling,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+434,Stunky,Stench,The stench may cause the target to flinch.,Keen Eye,The stench may cause the target to flinch.
+435,Skuntank,Stench,The stench may cause the target to flinch.,Keen Eye,The stench may cause the target to flinch.
+436,Bronzor,Levitate,Gives immunity to Ground type moves.,Heavy Metal,Gives immunity to Ground type moves.
+437,Bronzong,Levitate,Gives immunity to Ground type moves.,Heavy Metal,Gives immunity to Ground type moves.
+438,Bonsly,Sturdy,It cannot be knocked out with one hit.,Rattled,It cannot be knocked out with one hit.
+439,Mime Jr.,Soundproof,Gives immunity to sound-based moves.,Technician,Gives immunity to sound-based moves.
+440,Happiny,Natural Cure,All status problems heal when it switches out.,Friend Guard,All status problems heal when it switches out.
+441,Chatot,Keen Eye,Prevents other Pokémon from lowering accuracy.,Big Pecks,Prevents other Pokémon from lowering accuracy.
+442,Spiritomb,Pressure,The Pokémon raises the foe's PP usage.,Infiltrator,The Pokémon raises the foe's PP usage.
+443,Gible,Sand Veil,Boosts the Pokémon's evasion in a sandstorm.,Rough Skin,Boosts the Pokémon's evasion in a sandstorm.
+444,Gabite,Sand Veil,Boosts the Pokémon's evasion in a sandstorm.,Rough Skin,Boosts the Pokémon's evasion in a sandstorm.
+445,Garchomp,Sand Veil,Boosts the Pokémon's evasion in a sandstorm.,Rough Skin,Boosts the Pokémon's evasion in a sandstorm.
+446,Munchlax,Pickup,The Pokémon may pick up items.,Gluttony,The Pokémon may pick up items.
+447,Riolu,Steadfast,Raises Speed each time the Pokémon flinches.,Prankster,Raises Speed each time the Pokémon flinches.
+448,Lucario,Steadfast,Raises Speed each time the Pokémon flinches.,Justified,Raises Speed each time the Pokémon flinches.
+449,Hippopotas,Sand Stream,The Pokémon summons a sandstorm in battle.,Sand Force,The Pokémon summons a sandstorm in battle.
+450,Hippowdon,Sand Stream,The Pokémon summons a sandstorm in battle.,Sand Force,The Pokémon summons a sandstorm in battle.
+451,Skorupi,Battle Armor,The Pokémon is protected against critical hits.,Keen Eye,The Pokémon is protected against critical hits.
+452,Drapion,Battle Armor,The Pokémon is protected against critical hits.,Keen Eye,The Pokémon is protected against critical hits.
+453,Croagunk,Anticipation,Senses a foe's dangerous moves.,Poison Touch,Senses a foe's dangerous moves.
+454,Toxicroak,Anticipation,Senses a foe's dangerous moves.,Poison Touch,Senses a foe's dangerous moves.
+455,Carnivine,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+456,Finneon,Swift Swim,Boosts the Pokémon's Speed in rain.,Water Veil,Boosts the Pokémon's Speed in rain.
+457,Lumineon,Swift Swim,Boosts the Pokémon's Speed in rain.,Water Veil,Boosts the Pokémon's Speed in rain.
+458,Mantyke,Swift Swim,Boosts the Pokémon's Speed in rain.,Water Veil,Boosts the Pokémon's Speed in rain.
+459,Snover,Snow Warning,The Pokémon summons a hailstorm in battle.,Soundproof,The Pokémon summons a hailstorm in battle.
+460,Abomasnow,Snow Warning,The Pokémon summons a hailstorm in battle.,Soundproof,The Pokémon summons a hailstorm in battle.
+461,Weavile,Pressure,The Pokémon raises the foe's PP usage.,Pickpocket,The Pokémon raises the foe's PP usage.
+462,Magnezone,Magnet Pull,Prevents Steel-type Pokémon from escaping.,Analytic,Prevents Steel-type Pokémon from escaping.
+463,Lickilicky,Own Tempo,Prevents the Pokémon from becoming confused.,Cloud Nine,Prevents the Pokémon from becoming confused.
+464,Rhyperior,Lightning Rod,Draws in all Electric-type moves to up Sp. Attack.,Reckless,Draws in all Electric-type moves to up Sp. Attack.
+465,Tangrowth,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Regenerator,Boosts the Pokémon's Speed in sunshine.
+466,Electivire,Motor Drive,Raises Speed if hit by an Electric-type move.,Vital Spirit,Raises Speed if hit by an Electric-type move.
+467,Magmortar,Flame Body,Contact with the Pokémon may burn the attacker.,Vital Spirit,Contact with the Pokémon may burn the attacker.
+468,Togekiss,Hustle,"Boosts the Attack stat, but lowers accuracy.",Super Luck,"Boosts the Attack stat, but lowers accuracy."
+469,Yanmega,Speed Boost,Its Speed stat is gradually boosted.,Frisk,Its Speed stat is gradually boosted.
+470,Leafeon,Leaf Guard,Prevents problems with status in sunny weather.,Chlorophyll,Prevents problems with status in sunny weather.
+471,Glaceon,Snow Cloak,Raises evasion in a hailstorm.,Ice Body,Raises evasion in a hailstorm.
+472,Gliscor,Hyper Cutter,Prevents other Pokémon from lowering Attack stat.,Poison Heal,Prevents other Pokémon from lowering Attack stat.
+473,Mamoswine,Oblivious,Prevents it from becoming infatuated.,Thick Fat,Prevents it from becoming infatuated.
+474,Porygon-Z,Adaptability,Powers up moves of the same type.,Analytic,Powers up moves of the same type.
+475,Gallade,Steadfast,Raises Speed each time the Pokémon flinches.,Justified,Raises Speed each time the Pokémon flinches.
+476,Probopass,Sturdy,It cannot be knocked out with one hit.,Sand Force,It cannot be knocked out with one hit.
+477,Dusknoir,Pressure,The Pokémon raises the foe's PP usage.,Frisk,The Pokémon raises the foe's PP usage.
+478,Froslass,Snow Cloak,Raises evasion in a hailstorm.,Cursed Body,Raises evasion in a hailstorm.
+479,Rotom,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+480,Uxie,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+481,Mesprit,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+482,Azelf,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+483,Dialga,Pressure,The Pokémon raises the foe's PP usage.,Telepathy,The Pokémon raises the foe's PP usage.
+484,Palkia,Pressure,The Pokémon raises the foe's PP usage.,Telepathy,The Pokémon raises the foe's PP usage.
+485,Heatran,Flash Fire,It powers up Fire-type moves if it's hit by one.,Flame Body,It powers up Fire-type moves if it's hit by one.
+486,Regigigas,Slow Start,Temporarily halves Attack and Speed.,,Temporarily halves Attack and Speed.
+487,Giratina,Pressure,The Pokémon raises the foe's PP usage.,Telepathy,The Pokémon raises the foe's PP usage.
+488,Cresselia,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+489,Phione,Hydration,Heals status problems if it is raining.,,Heals status problems if it is raining.
+490,Manaphy,Hydration,Heals status problems if it is raining.,,Heals status problems if it is raining.
+491,Darkrai,Bad Dreams,Reduces a sleeping foe's HP.,,Reduces a sleeping foe's HP.
+492,Shaymin,Natural Cure,All status problems heal when it switches out.,,All status problems heal when it switches out.
+493,Arceus,Multitype,Changes type to match the held Plate.,,Changes type to match the held Plate.
+494,Victini,Victory Star,Boosts the accuracy of its allies and itself.,,Boosts the accuracy of its allies and itself.
+495,Snivy,Overgrow,Powers up Grass-type moves in a pinch.,Contrary,Powers up Grass-type moves in a pinch.
+496,Servine,Overgrow,Powers up Grass-type moves in a pinch.,Contrary,Powers up Grass-type moves in a pinch.
+497,Serperior,Overgrow,Powers up Grass-type moves in a pinch.,Contrary,Powers up Grass-type moves in a pinch.
+498,Tepig,Blaze,Powers up Fire-type moves in a pinch.,Thick Fat,Powers up Fire-type moves in a pinch.
+499,Pignite,Blaze,Powers up Fire-type moves in a pinch.,Thick Fat,Powers up Fire-type moves in a pinch.
+500,Emboar,Blaze,Powers up Fire-type moves in a pinch.,Reckless,Powers up Fire-type moves in a pinch.
+501,Oshawott,Torrent,Powers up Water-type moves in a pinch.,Shell Armor,Powers up Water-type moves in a pinch.
+502,Dewott,Torrent,Powers up Water-type moves in a pinch.,Shell Armor,Powers up Water-type moves in a pinch.
+503,Samurott,Torrent,Powers up Water-type moves in a pinch.,Shell Armor,Powers up Water-type moves in a pinch.
+504,Patrat,Run Away,Enables a sure getaway from wild Pokémon.,Analytic,Enables a sure getaway from wild Pokémon.
+505,Watchog,Illuminate,Raises the likelihood of meeting wild Pokémon.,Analytic,Raises the likelihood of meeting wild Pokémon.
+506,Lillipup,Vital Spirit,Prevents the Pokémon from falling asleep.,Run Away,Prevents the Pokémon from falling asleep.
+507,Herdier,Intimidate,Lowers the foe's Attack stat.,Scrappy,Lowers the foe's Attack stat.
+508,Stoutland,Intimidate,Lowers the foe's Attack stat.,Scrappy,Lowers the foe's Attack stat.
+509,Purrloin,Limber,The Pokémon is protected from paralysis.,Prankster,The Pokémon is protected from paralysis.
+510,Liepard,Limber,The Pokémon is protected from paralysis.,Prankster,The Pokémon is protected from paralysis.
+511,Pansage,Gluttony,Encourages the early use of a held Berry.,Overgrow,Encourages the early use of a held Berry.
+512,Simisage,Gluttony,Encourages the early use of a held Berry.,Overgrow,Encourages the early use of a held Berry.
+513,Pansear,Gluttony,Encourages the early use of a held Berry.,Blaze,Encourages the early use of a held Berry.
+514,Simisear,Gluttony,Encourages the early use of a held Berry.,Blaze,Encourages the early use of a held Berry.
+515,Panpour,Gluttony,Encourages the early use of a held Berry.,Torrent,Encourages the early use of a held Berry.
+516,Simipour,Gluttony,Encourages the early use of a held Berry.,Torrent,Encourages the early use of a held Berry.
+517,Munna,Forewarn,Determines what moves a foe has.,Telepathy,Determines what moves a foe has.
+518,Musharna,Forewarn,Determines what moves a foe has.,Telepathy,Determines what moves a foe has.
+519,Pidove,Big Pecks,Protects the Pokémon from Defense-lowering attacks.,Rivalry,Protects the Pokémon from Defense-lowering attacks.
+520,Tranquill,Big Pecks,Protects the Pokémon from Defense-lowering attacks.,Rivalry,Protects the Pokémon from Defense-lowering attacks.
+521,Unfezant,Big Pecks,Protects the Pokémon from Defense-lowering attacks.,Rivalry,Protects the Pokémon from Defense-lowering attacks.
+522,Blitzle,Lightning Rod,Draws in all Electric-type moves to up Sp. Attack.,Sap Sipper,Draws in all Electric-type moves to up Sp. Attack.
+523,Zebstrika,Lightning Rod,Draws in all Electric-type moves to up Sp. Attack.,Sap Sipper,Draws in all Electric-type moves to up Sp. Attack.
+524,Roggenrola,Sturdy,It cannot be knocked out with one hit.,Sand Force,It cannot be knocked out with one hit.
+525,Boldore,Sturdy,It cannot be knocked out with one hit.,Sand Force,It cannot be knocked out with one hit.
+526,Gigalith,Sturdy,It cannot be knocked out with one hit.,Sand Force,It cannot be knocked out with one hit.
+527,Woobat,Unaware,Ignores any stat changes in the Pokémon.,Simple,Ignores any stat changes in the Pokémon.
+528,Swoobat,Unaware,Ignores any stat changes in the Pokémon.,Simple,Ignores any stat changes in the Pokémon.
+529,Drilbur,Sand Rush,Boosts the Pokémon's Speed in a sandstorm.,Mold Breaker,Boosts the Pokémon's Speed in a sandstorm.
+530,Excadrill,Sand Rush,Boosts the Pokémon's Speed in a sandstorm.,Mold Breaker,Boosts the Pokémon's Speed in a sandstorm.
+531,Audino,Healer,May heal an ally's status conditions.,Klutz,May heal an ally's status conditions.
+532,Timburr,Guts,Boosts Attack if there is a status problem.,Iron Fist,Boosts Attack if there is a status problem.
+533,Gurdurr,Guts,Boosts Attack if there is a status problem.,Iron Fist,Boosts Attack if there is a status problem.
+534,Conkeldurr,Guts,Boosts Attack if there is a status problem.,Iron Fist,Boosts Attack if there is a status problem.
+535,Tympole,Swift Swim,Boosts the Pokémon's Speed in rain.,Water Absorb,Boosts the Pokémon's Speed in rain.
+536,Palpitoad,Swift Swim,Boosts the Pokémon's Speed in rain.,Water Absorb,Boosts the Pokémon's Speed in rain.
+537,Seismitoad,Swift Swim,Boosts the Pokémon's Speed in rain.,Water Absorb,Boosts the Pokémon's Speed in rain.
+538,Throh,Guts,Boosts Attack if there is a status problem.,Mold Breaker,Boosts Attack if there is a status problem.
+539,Sawk,Sturdy,It cannot be knocked out with one hit.,Mold Breaker,It cannot be knocked out with one hit.
+540,Sewaddle,Swarm,Powers up Bug-type moves in a pinch.,Overcoat,Powers up Bug-type moves in a pinch.
+541,Swadloon,Leaf Guard,Prevents problems with status in sunny weather.,Overcoat,Prevents problems with status in sunny weather.
+542,Leavanny,Swarm,Powers up Bug-type moves in a pinch.,Overcoat,Powers up Bug-type moves in a pinch.
+543,Venipede,Poison Point,Contact with the Pokémon may poison the attacker.,Speed Boost,Contact with the Pokémon may poison the attacker.
+544,Whirlipede,Poison Point,Contact with the Pokémon may poison the attacker.,Speed Boost,Contact with the Pokémon may poison the attacker.
+545,Scolipede,Poison Point,Contact with the Pokémon may poison the attacker.,Speed Boost,Contact with the Pokémon may poison the attacker.
+546,Cottonee,Prankster,Gives priority to a status move.,Chlorophyll,Gives priority to a status move.
+547,Whimsicott,Prankster,Gives priority to a status move.,Chlorophyll,Gives priority to a status move.
+548,Petilil,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Leaf Guard,Boosts the Pokémon's Speed in sunshine.
+549,Lilligant,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Leaf Guard,Boosts the Pokémon's Speed in sunshine.
+550,Basculin,Reckless,Powers up moves that have recoil damage.,Mold Breaker,Powers up moves that have recoil damage.
+551,Sandile,Intimidate,Lowers the foe's Attack stat.,Anger Point,Lowers the foe's Attack stat.
+552,Krokorok,Intimidate,Lowers the foe's Attack stat.,Anger Point,Lowers the foe's Attack stat.
+553,Krookodile,Intimidate,Lowers the foe's Attack stat.,Anger Point,Lowers the foe's Attack stat.
+554,Darumaka,Hustle,"Boosts the Attack stat, but lowers accuracy.",Inner Focus,"Boosts the Attack stat, but lowers accuracy."
+555,Darmanitan,Sheer Force,Removes added effects to increase move damage.,Zen Mode,Removes added effects to increase move damage.
+556,Maractus,Water Absorb,Restores HP if hit by a Water-type move.,Storm Drain,Restores HP if hit by a Water-type move.
+557,Dwebble,Sturdy,It cannot be knocked out with one hit.,Weak Armor,It cannot be knocked out with one hit.
+558,Crustle,Sturdy,It cannot be knocked out with one hit.,Weak Armor,It cannot be knocked out with one hit.
+559,Scraggy,Shed Skin,The Pokémon may heal its own status problems.,Intimidate,The Pokémon may heal its own status problems.
+560,Scrafty,Shed Skin,The Pokémon may heal its own status problems.,Intimidate,The Pokémon may heal its own status problems.
+561,Sigilyph,Wonder Skin,Makes status-changing moves more likely to miss.,Tinted Lens,Makes status-changing moves more likely to miss.
+562,Yamask,Mummy,Contact with this Pokémon spreads this Ability.,,Contact with this Pokémon spreads this Ability.
+563,Cofagrigus,Mummy,Contact with this Pokémon spreads this Ability.,,Contact with this Pokémon spreads this Ability.
+564,Tirtouga,Solid Rock,Reduces damage from super-effective attacks.,Swift Swim,Reduces damage from super-effective attacks.
+565,Carracosta,Solid Rock,Reduces damage from super-effective attacks.,Swift Swim,Reduces damage from super-effective attacks.
+566,Archen,Defeatist,Lowers stats when HP drops below half.,,Lowers stats when HP drops below half.
+567,Archeops,Defeatist,Lowers stats when HP drops below half.,,Lowers stats when HP drops below half.
+568,Trubbish,Stench,The stench may cause the target to flinch.,Aftermath,The stench may cause the target to flinch.
+569,Garbodor,Stench,The stench may cause the target to flinch.,Aftermath,The stench may cause the target to flinch.
+570,Zorua,Illusion,Enters battle disguised as the last Pokémon in the party.,,Enters battle disguised as the last Pokémon in the party.
+571,Zoroark,Illusion,Enters battle disguised as the last Pokémon in the party.,,Enters battle disguised as the last Pokémon in the party.
+572,Minccino,Cute Charm,Contact with the Pokémon may cause infatuation.,Skill Link,Contact with the Pokémon may cause infatuation.
+573,Cinccino,Cute Charm,Contact with the Pokémon may cause infatuation.,Skill Link,Contact with the Pokémon may cause infatuation.
+574,Gothita,Frisk,The Pokémon can check a foe's held item.,Shadow Tag,The Pokémon can check a foe's held item.
+575,Gothorita,Frisk,The Pokémon can check a foe's held item.,Shadow Tag,The Pokémon can check a foe's held item.
+576,Gothitelle,Frisk,The Pokémon can check a foe's held item.,Shadow Tag,The Pokémon can check a foe's held item.
+577,Solosis,Overcoat,Protects the Pokémon from weather damage.,Regenerator,Protects the Pokémon from weather damage.
+578,Duosion,Overcoat,Protects the Pokémon from weather damage.,Regenerator,Protects the Pokémon from weather damage.
+579,Reuniclus,Overcoat,Protects the Pokémon from weather damage.,Regenerator,Protects the Pokémon from weather damage.
+580,Ducklett,Keen Eye,Prevents other Pokémon from lowering accuracy.,Hydration,Prevents other Pokémon from lowering accuracy.
+581,Swanna,Keen Eye,Prevents other Pokémon from lowering accuracy.,Hydration,Prevents other Pokémon from lowering accuracy.
+582,Vanillite,Ice Body,The Pokémon gradually regains HP in a hailstorm.,Weak Armor,The Pokémon gradually regains HP in a hailstorm.
+583,Vanillish,Ice Body,The Pokémon gradually regains HP in a hailstorm.,Weak Armor,The Pokémon gradually regains HP in a hailstorm.
+584,Vanilluxe,Ice Body,The Pokémon gradually regains HP in a hailstorm.,Weak Armor,The Pokémon gradually regains HP in a hailstorm.
+585,Deerling,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Serene Grace,Boosts the Pokémon's Speed in sunshine.
+586,Sawsbuck,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Serene Grace,Boosts the Pokémon's Speed in sunshine.
+587,Emolga,Static,Contact with the Pokémon may cause paralysis.,Motor Drive,Contact with the Pokémon may cause paralysis.
+588,Karrablast,Swarm,Powers up Bug-type moves in a pinch.,No Guard,Powers up Bug-type moves in a pinch.
+589,Escavalier,Swarm,Powers up Bug-type moves in a pinch.,Overcoat,Powers up Bug-type moves in a pinch.
+590,Foongus,Effect Spore,Contact may poison or cause paralysis or sleep.,Regenerator,Contact may poison or cause paralysis or sleep.
+591,Amoonguss,Effect Spore,Contact may poison or cause paralysis or sleep.,Regenerator,Contact may poison or cause paralysis or sleep.
+592,Frillish,Water Absorb,Restores HP if hit by a Water-type move.,Damp,Restores HP if hit by a Water-type move.
+593,Jellicent,Water Absorb,Restores HP if hit by a Water-type move.,Damp,Restores HP if hit by a Water-type move.
+594,Alomomola,Healer,May heal an ally's status conditions.,Regenerator,May heal an ally's status conditions.
+595,Joltik,Compound Eyes,The Pokémon's accuracy is boosted.,Swarm,The Pokémon's accuracy is boosted.
+596,Galvantula,Compound Eyes,The Pokémon's accuracy is boosted.,Swarm,The Pokémon's accuracy is boosted.
+597,Ferroseed,Iron Barbs,Inflicts damage to the Pokémon on contact.,,Inflicts damage to the Pokémon on contact.
+598,Ferrothorn,Iron Barbs,Inflicts damage to the Pokémon on contact.,Anticipation,Inflicts damage to the Pokémon on contact.
+599,Klink,Plus,Ups Sp. Atk if another Pokémon has Plus or Minus.,Clear Body,Ups Sp. Atk if another Pokémon has Plus or Minus.
+600,Klang,Plus,Ups Sp. Atk if another Pokémon has Plus or Minus.,Clear Body,Ups Sp. Atk if another Pokémon has Plus or Minus.
+601,Klinklang,Plus,Ups Sp. Atk if another Pokémon has Plus or Minus.,Clear Body,Ups Sp. Atk if another Pokémon has Plus or Minus.
+602,Tynamo,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+603,Eelektrik,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+604,Eelektross,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+605,Elgyem,Telepathy,Anticipates an ally's attack and dodges it.,Analytic,Anticipates an ally's attack and dodges it.
+606,Beheeyem,Telepathy,Anticipates an ally's attack and dodges it.,Analytic,Anticipates an ally's attack and dodges it.
+607,Litwick,Flash Fire,It powers up Fire-type moves if it's hit by one.,Infiltrator,It powers up Fire-type moves if it's hit by one.
+608,Lampent,Flash Fire,It powers up Fire-type moves if it's hit by one.,Infiltrator,It powers up Fire-type moves if it's hit by one.
+609,Chandelure,Flash Fire,It powers up Fire-type moves if it's hit by one.,Infiltrator,It powers up Fire-type moves if it's hit by one.
+610,Axew,Rivalry,Deals more damage to a Pokémon of same gender.,Unnerve,Deals more damage to a Pokémon of same gender.
+611,Fraxure,Rivalry,Deals more damage to a Pokémon of same gender.,Unnerve,Deals more damage to a Pokémon of same gender.
+612,Haxorus,Rivalry,Deals more damage to a Pokémon of same gender.,Unnerve,Deals more damage to a Pokémon of same gender.
+613,Cubchoo,Snow Cloak,Raises evasion in a hailstorm.,Rattled,Raises evasion in a hailstorm.
+614,Beartic,Snow Cloak,Raises evasion in a hailstorm.,Swift Swim,Raises evasion in a hailstorm.
+615,Cryogonal,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+616,Shelmet,Hydration,Heals status problems if it is raining.,Overcoat,Heals status problems if it is raining.
+617,Accelgor,Hydration,Heals status problems if it is raining.,Unburden,Heals status problems if it is raining.
+618,Stunfisk,Static,Contact with the Pokémon may cause paralysis.,Sand Veil,Contact with the Pokémon may cause paralysis.
+619,Mienfoo,Inner Focus,The Pokémon is protected from flinching.,Reckless,The Pokémon is protected from flinching.
+620,Mienshao,Inner Focus,The Pokémon is protected from flinching.,Reckless,The Pokémon is protected from flinching.
+621,Druddigon,Rough Skin,Inflicts damage to the attacker on contact.,Mold Breaker,Inflicts damage to the attacker on contact.
+622,Golett,Iron Fist,Boosts the power of punching moves.,No Guard,Boosts the power of punching moves.
+623,Golurk,Iron Fist,Boosts the power of punching moves.,No Guard,Boosts the power of punching moves.
+624,Pawniard,Defiant,Sharply raises Attack when the Pokémon's stats are lowered.,Pressure,Sharply raises Attack when the Pokémon's stats are lowered.
+625,Bisharp,Defiant,Sharply raises Attack when the Pokémon's stats are lowered.,Pressure,Sharply raises Attack when the Pokémon's stats are lowered.
+626,Bouffalant,Reckless,Powers up moves that have recoil damage.,Soundproof,Powers up moves that have recoil damage.
+627,Rufflet,Keen Eye,Prevents other Pokémon from lowering accuracy.,Hustle,Prevents other Pokémon from lowering accuracy.
+628,Braviary,Keen Eye,Prevents other Pokémon from lowering accuracy.,Defiant,Prevents other Pokémon from lowering accuracy.
+629,Vullaby,Big Pecks,Protects the Pokémon from Defense-lowering attacks.,Weak Armor,Protects the Pokémon from Defense-lowering attacks.
+630,Mandibuzz,Big Pecks,Protects the Pokémon from Defense-lowering attacks.,Weak Armor,Protects the Pokémon from Defense-lowering attacks.
+631,Heatmor,Gluttony,Encourages the early use of a held Berry.,White Smoke,Encourages the early use of a held Berry.
+632,Durant,Swarm,Powers up Bug-type moves in a pinch.,Truant,Powers up Bug-type moves in a pinch.
+633,Deino,Hustle,"Boosts the Attack stat, but lowers accuracy.",,"Boosts the Attack stat, but lowers accuracy."
+634,Zweilous,Hustle,"Boosts the Attack stat, but lowers accuracy.",,"Boosts the Attack stat, but lowers accuracy."
+635,Hydreigon,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+636,Larvesta,Flame Body,Contact with the Pokémon may burn the attacker.,Swarm,Contact with the Pokémon may burn the attacker.
+637,Volcarona,Flame Body,Contact with the Pokémon may burn the attacker.,Swarm,Contact with the Pokémon may burn the attacker.
+638,Cobalion,Justified,Raises Attack when hit by a Dark-type move.,,Raises Attack when hit by a Dark-type move.
+639,Terrakion,Justified,Raises Attack when hit by a Dark-type move.,,Raises Attack when hit by a Dark-type move.
+640,Virizion,Justified,Raises Attack when hit by a Dark-type move.,,Raises Attack when hit by a Dark-type move.
+641,Tornadus,Prankster,Gives priority to a status move.,Defiant,Gives priority to a status move.
+642,Thundurus,Prankster,Gives priority to a status move.,Defiant,Gives priority to a status move.
+643,Reshiram,Turboblaze,Moves can be used regardless of Abilities.,,Moves can be used regardless of Abilities.
+644,Zekrom,Teravolt,Moves can be used regardless of Abilities.,,Moves can be used regardless of Abilities.
+645,Landorus,Sand Force,Boosts certain moves' power in a sandstorm.,Sheer Force,Boosts certain moves' power in a sandstorm.
+646,Kyurem,Pressure,The Pokémon raises the foe's PP usage.,,The Pokémon raises the foe's PP usage.
+647,Keldeo,Justified,Raises Attack when hit by a Dark-type move.,,Raises Attack when hit by a Dark-type move.
+648,Meloetta,Serene Grace,Boosts the likelihood of added effects appearing.,,Boosts the likelihood of added effects appearing.
+649,Genesect,Download,Adjusts power according to a foe's defenses.,,Adjusts power according to a foe's defenses.
+650,Chespin,Overgrow,Powers up Grass-type moves in a pinch.,Bulletproof,Powers up Grass-type moves in a pinch.
+651,Quilladin,Overgrow,Powers up Grass-type moves in a pinch.,Bulletproof,Powers up Grass-type moves in a pinch.
+652,Chesnaught,Overgrow,Powers up Grass-type moves in a pinch.,Bulletproof,Powers up Grass-type moves in a pinch.
+653,Fennekin,Blaze,Powers up Fire-type moves in a pinch.,Magician,Powers up Fire-type moves in a pinch.
+654,Braixen,Blaze,Powers up Fire-type moves in a pinch.,Magician,Powers up Fire-type moves in a pinch.
+655,Delphox,Blaze,Powers up Fire-type moves in a pinch.,Magician,Powers up Fire-type moves in a pinch.
+656,Froakie,Torrent,Powers up Water-type moves in a pinch.,Protean,Powers up Water-type moves in a pinch.
+657,Frogadier,Torrent,Powers up Water-type moves in a pinch.,Protean,Powers up Water-type moves in a pinch.
+658,Greninja,Torrent,Powers up Water-type moves in a pinch.,Protean,Powers up Water-type moves in a pinch.
+659,Bunnelby,Pickup,The Pokémon may pick up items.,Huge Power,The Pokémon may pick up items.
+660,Diggersby,Pickup,The Pokémon may pick up items.,Huge Power,The Pokémon may pick up items.
+661,Fletchling,Big Pecks,Protects the Pokémon from Defense-lowering attacks.,Gale Wings,Protects the Pokémon from Defense-lowering attacks.
+662,Fletchinder,Flame Body,Contact with the Pokémon may burn the attacker.,Gale Wings,Contact with the Pokémon may burn the attacker.
+663,Talonflame,Flame Body,Contact with the Pokémon may burn the attacker.,Gale Wings,Contact with the Pokémon may burn the attacker.
+664,Scatterbug,Shield Dust,Blocks the added effects of attacks taken.,Friend Guard,Blocks the added effects of attacks taken.
+665,Spewpa,Shed Skin,The Pokémon may heal its own status problems.,Friend Guard,The Pokémon may heal its own status problems.
+666,Vivillon,Shield Dust,Blocks the added effects of attacks taken.,Friend Guard,Blocks the added effects of attacks taken.
+667,Litleo,Rivalry,Deals more damage to a Pokémon of same gender.,Moxie,Deals more damage to a Pokémon of same gender.
+668,Pyroar,Rivalry,Deals more damage to a Pokémon of same gender.,Moxie,Deals more damage to a Pokémon of same gender.
+669,Flabébé,Flower Veil,Prevents lowering of ally Grass-type Pokémon's stats.,Symbiosis,Prevents lowering of ally Grass-type Pokémon's stats.
+670,Floette,Flower Veil,Prevents lowering of ally Grass-type Pokémon's stats.,Symbiosis,Prevents lowering of ally Grass-type Pokémon's stats.
+671,Florges,Flower Veil,Prevents lowering of ally Grass-type Pokémon's stats.,Symbiosis,Prevents lowering of ally Grass-type Pokémon's stats.
+672,Skiddo,Sap Sipper,Boosts Attack when hit by a Grass-type move.,Grass Pelt,Boosts Attack when hit by a Grass-type move.
+673,Gogoat,Sap Sipper,Boosts Attack when hit by a Grass-type move.,Grass Pelt,Boosts Attack when hit by a Grass-type move.
+674,Pancham,Iron Fist,Boosts the power of punching moves.,Scrappy,Boosts the power of punching moves.
+675,Pangoro,Iron Fist,Boosts the power of punching moves.,Scrappy,Boosts the power of punching moves.
+676,Furfrou,Fur Coat,Reduces damage from physical moves.,,Reduces damage from physical moves.
+677,Espurr,Keen Eye,Prevents other Pokémon from lowering accuracy.,Own Tempo,Prevents other Pokémon from lowering accuracy.
+678,Meowstic,Keen Eye,Prevents other Pokémon from lowering accuracy.,Prankster,Prevents other Pokémon from lowering accuracy.
+679,Honedge,No Guard,Ensures attacks by or against the Pokémon land.,,Ensures attacks by or against the Pokémon land.
+680,Doublade,No Guard,Ensures attacks by or against the Pokémon land.,,Ensures attacks by or against the Pokémon land.
+681,Aegislash,Stance Change,Changes form depending on moves used.,,Changes form depending on moves used.
+682,Spritzee,Healer,May heal an ally's status conditions.,Aroma Veil,May heal an ally's status conditions.
+683,Aromatisse,Healer,May heal an ally's status conditions.,Aroma Veil,May heal an ally's status conditions.
+684,Swirlix,Sweet Veil,Prevents the Pokémon and allies from falling asleep.,Unburden,Prevents the Pokémon and allies from falling asleep.
+685,Slurpuff,Sweet Veil,Prevents the Pokémon and allies from falling asleep.,Unburden,Prevents the Pokémon and allies from falling asleep.
+686,Inkay,Contrary,Makes stat changes have an opposite effect.,Infiltrator,Makes stat changes have an opposite effect.
+687,Malamar,Contrary,Makes stat changes have an opposite effect.,Infiltrator,Makes stat changes have an opposite effect.
+688,Binacle,Sniper,Powers up moves if they become critical hits.,Pickpocket,Powers up moves if they become critical hits.
+689,Barbaracle,Sniper,Powers up moves if they become critical hits.,Pickpocket,Powers up moves if they become critical hits.
+690,Skrelp,Poison Point,Contact with the Pokémon may poison the attacker.,Adaptability,Contact with the Pokémon may poison the attacker.
+691,Dragalge,Poison Point,Contact with the Pokémon may poison the attacker.,Adaptability,Contact with the Pokémon may poison the attacker.
+692,Clauncher,Mega Launcher,Boosts the power of aura and pulse moves.,,Boosts the power of aura and pulse moves.
+693,Clawitzer,Mega Launcher,Boosts the power of aura and pulse moves.,,Boosts the power of aura and pulse moves.
+694,Helioptile,Dry Skin,Reduces HP if it is hot. Water restores HP.,Solar Power,Reduces HP if it is hot. Water restores HP.
+695,Heliolisk,Dry Skin,Reduces HP if it is hot. Water restores HP.,Solar Power,Reduces HP if it is hot. Water restores HP.
+696,Tyrunt,Strong Jaw,Boosts the power of biting moves.,Sturdy,Boosts the power of biting moves.
+697,Tyrantrum,Strong Jaw,Boosts the power of biting moves.,Rock Head,Boosts the power of biting moves.
+698,Amaura,Refrigerate,Turns Normal-type moves into Ice-type moves.,Snow Warning,Turns Normal-type moves into Ice-type moves.
+699,Aurorus,Refrigerate,Turns Normal-type moves into Ice-type moves.,Snow Warning,Turns Normal-type moves into Ice-type moves.
+700,Sylveon,Cute Charm,Contact with the Pokémon may cause infatuation.,Pixilate,Contact with the Pokémon may cause infatuation.
+701,Hawlucha,Limber,The Pokémon is protected from paralysis.,Mold Breaker,The Pokémon is protected from paralysis.
+702,Dedenne,Cheek Pouch,Restores additional HP when a Berry is consumed.,Plus,Restores additional HP when a Berry is consumed.
+703,Carbink,Clear Body,Prevents other Pokémon from lowering its stats.,Sturdy,Prevents other Pokémon from lowering its stats.
+704,Goomy,Sap Sipper,Boosts Attack when hit by a Grass-type move.,Gooey,Boosts Attack when hit by a Grass-type move.
+705,Sliggoo,Sap Sipper,Boosts Attack when hit by a Grass-type move.,Gooey,Boosts Attack when hit by a Grass-type move.
+706,Goodra,Sap Sipper,Boosts Attack when hit by a Grass-type move.,Gooey,Boosts Attack when hit by a Grass-type move.
+707,Klefki,Prankster,Gives priority to a status move.,Magician,Gives priority to a status move.
+708,Phantump,Natural Cure,All status problems heal when it switches out.,Harvest,All status problems heal when it switches out.
+709,Trevenant,Natural Cure,All status problems heal when it switches out.,Harvest,All status problems heal when it switches out.
+710,Pumpkaboo,Pickup,The Pokémon may pick up items.,Insomnia,The Pokémon may pick up items.
+711,Gourgeist,Pickup,The Pokémon may pick up items.,Insomnia,The Pokémon may pick up items.
+712,Bergmite,Own Tempo,Prevents the Pokémon from becoming confused.,Sturdy,Prevents the Pokémon from becoming confused.
+713,Avalugg,Own Tempo,Prevents the Pokémon from becoming confused.,Sturdy,Prevents the Pokémon from becoming confused.
+714,Noibat,Frisk,The Pokémon can check a foe's held item.,Telepathy,The Pokémon can check a foe's held item.
+715,Noivern,Frisk,The Pokémon can check a foe's held item.,Telepathy,The Pokémon can check a foe's held item.
+716,Xerneas,Fairy Aura,Raises power of Fairy type moves for all Pokémon in battle.,,Raises power of Fairy type moves for all Pokémon in battle.
+717,Yveltal,Dark Aura,Raises power of Dark type moves for all Pokémon in battle.,,Raises power of Dark type moves for all Pokémon in battle.
+718,Zygarde,Aura Break,Reduces power of Dark- and Fairy-type moves.,,Reduces power of Dark- and Fairy-type moves.
+719,Diancie,Clear Body,Prevents other Pokémon from lowering its stats.,,Prevents other Pokémon from lowering its stats.
+720,Hoopa,Magician,The Pokémon steals the held item of a Pokémon it hits with a move.,,The Pokémon steals the held item of a Pokémon it hits with a move.
+721,Volcanion,Water Absorb,Restores HP if hit by a Water-type move.,,Restores HP if hit by a Water-type move.
+722,Rowlet,Overgrow,Powers up Grass-type moves in a pinch.,Long Reach,Powers up Grass-type moves in a pinch.
+723,Dartrix,Overgrow,Powers up Grass-type moves in a pinch.,Long Reach,Powers up Grass-type moves in a pinch.
+724,Decidueye,Overgrow,Powers up Grass-type moves in a pinch.,Long Reach,Powers up Grass-type moves in a pinch.
+725,Litten,Blaze,Powers up Fire-type moves in a pinch.,Intimidate,Powers up Fire-type moves in a pinch.
+726,Torracat,Blaze,Powers up Fire-type moves in a pinch.,Intimidate,Powers up Fire-type moves in a pinch.
+727,Incineroar,Blaze,Powers up Fire-type moves in a pinch.,Intimidate,Powers up Fire-type moves in a pinch.
+728,Popplio,Torrent,Powers up Water-type moves in a pinch.,Liquid Voice,Powers up Water-type moves in a pinch.
+729,Brionne,Torrent,Powers up Water-type moves in a pinch.,Liquid Voice,Powers up Water-type moves in a pinch.
+730,Primarina,Torrent,Powers up Water-type moves in a pinch.,Liquid Voice,Powers up Water-type moves in a pinch.
+731,Pikipek,Keen Eye,Prevents other Pokémon from lowering accuracy.,Pickup,Prevents other Pokémon from lowering accuracy.
+732,Trumbeak,Keen Eye,Prevents other Pokémon from lowering accuracy.,Pickup,Prevents other Pokémon from lowering accuracy.
+733,Toucannon,Keen Eye,Prevents other Pokémon from lowering accuracy.,Sheer Force,Prevents other Pokémon from lowering accuracy.
+734,Yungoos,Strong Jaw,Boosts the power of biting moves.,Adaptability,Boosts the power of biting moves.
+735,Gumshoos,Strong Jaw,Boosts the power of biting moves.,Adaptability,Boosts the power of biting moves.
+736,Grubbin,Swarm,Powers up Bug-type moves in a pinch.,,Powers up Bug-type moves in a pinch.
+737,Charjabug,Battery,Raises power of teammates' Special moves.,,Raises power of teammates' Special moves.
+738,Vikavolt,Levitate,Gives immunity to Ground type moves.,,Gives immunity to Ground type moves.
+739,Crabrawler,Hyper Cutter,Prevents other Pokémon from lowering Attack stat.,Anger Point,Prevents other Pokémon from lowering Attack stat.
+740,Crabominable,Hyper Cutter,Prevents other Pokémon from lowering Attack stat.,Anger Point,Prevents other Pokémon from lowering Attack stat.
+741,Oricorio,Dancer,Copies the foe's Dance moves.,,Copies the foe's Dance moves.
+742,Cutiefly,Honey Gather,The Pokémon may gather Honey from somewhere.,Sweet Veil,The Pokémon may gather Honey from somewhere.
+743,Ribombee,Honey Gather,The Pokémon may gather Honey from somewhere.,Sweet Veil,The Pokémon may gather Honey from somewhere.
+744,Rockruff,Keen Eye,Prevents other Pokémon from lowering accuracy.,Steadfast,Prevents other Pokémon from lowering accuracy.
+745,Lycanroc,Keen Eye,Prevents other Pokémon from lowering accuracy.,Steadfast,Prevents other Pokémon from lowering accuracy.
+746,Wishiwashi,Schooling,Changes Wishiwashi to School Form.,,Changes Wishiwashi to School Form.
+747,Mareanie,Merciless,The Pokémon's attacks become critical hits if the target is poisoned.,Regenerator,The Pokémon's attacks become critical hits if the target is poisoned.
+748,Toxapex,Merciless,The Pokémon's attacks become critical hits if the target is poisoned.,Regenerator,The Pokémon's attacks become critical hits if the target is poisoned.
+749,Mudbray,Own Tempo,Prevents the Pokémon from becoming confused.,Inner Focus,Prevents the Pokémon from becoming confused.
+750,Mudsdale,Own Tempo,Prevents the Pokémon from becoming confused.,Inner Focus,Prevents the Pokémon from becoming confused.
+751,Dewpider,Water Bubble,"Halves damage from Fire-type moves, doubles power of Water-type moves used, and prevents burns.",Water Absorb,"Halves damage from Fire-type moves, doubles power of Water-type moves used, and prevents burns."
+752,Araquanid,Water Bubble,"Halves damage from Fire-type moves, doubles power of Water-type moves used, and prevents burns.",Water Absorb,"Halves damage from Fire-type moves, doubles power of Water-type moves used, and prevents burns."
+753,Fomantis,Leaf Guard,Prevents problems with status in sunny weather.,Contrary,Prevents problems with status in sunny weather.
+754,Lurantis,Leaf Guard,Prevents problems with status in sunny weather.,Contrary,Prevents problems with status in sunny weather.
+755,Morelull,Illuminate,Raises the likelihood of meeting wild Pokémon.,Rain Dish,Raises the likelihood of meeting wild Pokémon.
+756,Shiinotic,Illuminate,Raises the likelihood of meeting wild Pokémon.,Rain Dish,Raises the likelihood of meeting wild Pokémon.
+757,Salandit,Corrosion,The Pokémon can poison Steel and Poison types.,Oblivious,The Pokémon can poison Steel and Poison types.
+758,Salazzle,Corrosion,The Pokémon can poison Steel and Poison types.,Oblivious,The Pokémon can poison Steel and Poison types.
+759,Stufful,Fluffy,"Halves damage from contact moves, but doubles damage from Fire-type moves.",Cute Charm,"Halves damage from contact moves, but doubles damage from Fire-type moves."
+760,Bewear,Fluffy,"Halves damage from contact moves, but doubles damage from Fire-type moves.",Unnerve,"Halves damage from contact moves, but doubles damage from Fire-type moves."
+761,Bounsweet,Leaf Guard,Prevents problems with status in sunny weather.,Sweet Veil,Prevents problems with status in sunny weather.
+762,Steenee,Leaf Guard,Prevents problems with status in sunny weather.,Sweet Veil,Prevents problems with status in sunny weather.
+763,Tsareena,Leaf Guard,Prevents problems with status in sunny weather.,Sweet Veil,Prevents problems with status in sunny weather.
+764,Comfey,Flower Veil,Prevents lowering of ally Grass-type Pokémon's stats.,Natural Cure,Prevents lowering of ally Grass-type Pokémon's stats.
+765,Oranguru,Inner Focus,The Pokémon is protected from flinching.,Symbiosis,The Pokémon is protected from flinching.
+766,Passimian,Receiver,Inherits an ally's ability when it faints.,Defiant,Inherits an ally's ability when it faints.
+767,Wimpod,Wimp Out,Switches out when HP drops below half.,,Switches out when HP drops below half.
+768,Golisopod,Emergency Exit,Switches out when HP falls below 50%.,,Switches out when HP falls below 50%.
+769,Sandygast,Water Compaction,Sharply raises Defense when hit by a Water-type move.,Sand Veil,Sharply raises Defense when hit by a Water-type move.
+770,Palossand,Water Compaction,Sharply raises Defense when hit by a Water-type move.,Sand Veil,Sharply raises Defense when hit by a Water-type move.
+771,Pyukumuku,Innards Out,Deals damage upon fainting.,Unaware,Deals damage upon fainting.
+772,Type: Null,Battle Armor,The Pokémon is protected against critical hits.,,The Pokémon is protected against critical hits.
+773,Silvally,RKS System,Changes type depending on held item.,,Changes type depending on held item.
+774,Minior,Shields Down,Changes stats when HP drops below half.,,Changes stats when HP drops below half.
+775,Komala,Comatose,The Pokémon is always asleep but can still attack.,,The Pokémon is always asleep but can still attack.
+776,Turtonator,Shell Armor,The Pokémon is protected against critical hits.,,The Pokémon is protected against critical hits.
+777,Togedemaru,Iron Barbs,Inflicts damage to the Pokémon on contact.,Sturdy,Inflicts damage to the Pokémon on contact.
+778,Mimikyu,Disguise,Avoids damage for one turn.,,Avoids damage for one turn.
+779,Bruxish,Dazzling,Protects the Pokémon from high-priority moves.,Wonder Skin,Protects the Pokémon from high-priority moves.
+780,Drampa,Berserk,Raises Special Attack when HP drops below half.,Cloud Nine,Raises Special Attack when HP drops below half.
+781,Dhelmise,Steelworker,Powers up Steel-type moves.,,Powers up Steel-type moves.
+782,Jangmo-o,Bulletproof,Protects the Pokémon from ball and bomb moves.,Overcoat,Protects the Pokémon from ball and bomb moves.
+783,Hakamo-o,Bulletproof,Protects the Pokémon from ball and bomb moves.,Overcoat,Protects the Pokémon from ball and bomb moves.
+784,Kommo-o,Bulletproof,Protects the Pokémon from ball and bomb moves.,Overcoat,Protects the Pokémon from ball and bomb moves.
+785,Tapu Koko,Electric Surge,The Pokémon creates an Electric Terrain when it enters a battle.,Telepathy,The Pokémon creates an Electric Terrain when it enters a battle.
+786,Tapu Lele,Psychic Surge,The Pokémon creates a Psychic Terrain when it enters a battle.,Telepathy,The Pokémon creates a Psychic Terrain when it enters a battle.
+787,Tapu Bulu,Grassy Surge,The Pokémon creates a Grassy Terrain when it enters a battle.,Telepathy,The Pokémon creates a Grassy Terrain when it enters a battle.
+788,Tapu Fini,Misty Surge,The Pokémon creates a Misty Terrain when it enters a battle.,Telepathy,The Pokémon creates a Misty Terrain when it enters a battle.
+789,Cosmog,Unaware,Ignores any stat changes in the Pokémon.,,Ignores any stat changes in the Pokémon.
+790,Cosmoem,Sturdy,It cannot be knocked out with one hit.,,It cannot be knocked out with one hit.
+791,Solgaleo,Full Metal Body,Prevents other Pokémon from lowering its stats.,,Prevents other Pokémon from lowering its stats.
+792,Lunala,Shadow Shield,Reduces damage when HP is full.,,Reduces damage when HP is full.
+793,Nihilego,Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.,,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+794,Buzzwole,Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.,,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+795,Pheromosa,Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.,,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+796,Xurkitree,Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.,,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+797,Celesteela,Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.,,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+798,Kartana,Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.,,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+799,Guzzlord,Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.,,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+800,Necrozma,Prism Armor,Reduces damage from super-effective attacks.,,Reduces damage from super-effective attacks.
+801,Magearna,Soul-Heart,Raises Special Attack when an ally faints.,,Raises Special Attack when an ally faints.
+802,Marshadow,Technician,Powers up the Pokémon's weaker moves.,,Powers up the Pokémon's weaker moves.
+803,Poipole,Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.,,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+804,Naganadel,Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.,,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+805,Stakataka,Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.,,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+806,Blacephalon,Beast Boost,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.,,The Pokémon boosts its most proficient stat each time it knocks out a Pokémon.
+807,Zeraora,Volt Absorb,Restores HP if hit by an Electric-type move.,,Restores HP if hit by an Electric-type move.
+808,Meltan,Magnet Pull,Prevents Steel-type Pokémon from escaping.,,Prevents Steel-type Pokémon from escaping.
+809,Melmetal,Iron Fist,Boosts the power of punching moves.,,Boosts the power of punching moves.
+810,Grookey,Overgrow,Powers up Grass-type moves in a pinch.,Grassy Surge,Powers up Grass-type moves in a pinch.
+811,Thwackey,Overgrow,Powers up Grass-type moves in a pinch.,Grassy Surge,Powers up Grass-type moves in a pinch.
+812,Rillaboom,Overgrow,Powers up Grass-type moves in a pinch.,Grassy Surge,Powers up Grass-type moves in a pinch.
+813,Scorbunny,Blaze,Powers up Fire-type moves in a pinch.,Libero,Powers up Fire-type moves in a pinch.
+814,Raboot,Blaze,Powers up Fire-type moves in a pinch.,Libero,Powers up Fire-type moves in a pinch.
+815,Cinderace,Blaze,Powers up Fire-type moves in a pinch.,Libero,Powers up Fire-type moves in a pinch.
+816,Sobble,Torrent,Powers up Water-type moves in a pinch.,Sniper,Powers up Water-type moves in a pinch.
+817,Drizzile,Torrent,Powers up Water-type moves in a pinch.,Sniper,Powers up Water-type moves in a pinch.
+818,Inteleon,Torrent,Powers up Water-type moves in a pinch.,Sniper,Powers up Water-type moves in a pinch.
+819,Skwovet,Cheek Pouch,Restores additional HP when a Berry is consumed.,Gluttony,Restores additional HP when a Berry is consumed.
+820,Greedent,Cheek Pouch,Restores additional HP when a Berry is consumed.,Gluttony,Restores additional HP when a Berry is consumed.
+821,Rookidee,Keen Eye,Prevents other Pokémon from lowering accuracy.,Big Pecks,Prevents other Pokémon from lowering accuracy.
+822,Corvisquire,Keen Eye,Prevents other Pokémon from lowering accuracy.,Big Pecks,Prevents other Pokémon from lowering accuracy.
+823,Corviknight,Pressure,The Pokémon raises the foe's PP usage.,Mirror Armor,The Pokémon raises the foe's PP usage.
+824,Blipbug,Swarm,Powers up Bug-type moves in a pinch.,Telepathy,Powers up Bug-type moves in a pinch.
+825,Dottler,Swarm,Powers up Bug-type moves in a pinch.,Telepathy,Powers up Bug-type moves in a pinch.
+826,Orbeetle,Swarm,Powers up Bug-type moves in a pinch.,Telepathy,Powers up Bug-type moves in a pinch.
+827,Nickit,Run Away,Enables a sure getaway from wild Pokémon.,Stakeout,Enables a sure getaway from wild Pokémon.
+828,Thievul,Run Away,Enables a sure getaway from wild Pokémon.,Stakeout,Enables a sure getaway from wild Pokémon.
+829,Gossifleur,Cotton Down,Lowers foe's Speed when hit.,Effect Spore,Lowers foe's Speed when hit.
+830,Eldegoss,Cotton Down,Lowers foe's Speed when hit.,Effect Spore,Lowers foe's Speed when hit.
+831,Wooloo,Fluffy,"Halves damage from contact moves, but doubles damage from Fire-type moves.",Bulletproof,"Halves damage from contact moves, but doubles damage from Fire-type moves."
+832,Dubwool,Fluffy,"Halves damage from contact moves, but doubles damage from Fire-type moves.",Bulletproof,"Halves damage from contact moves, but doubles damage from Fire-type moves."
+833,Chewtle,Strong Jaw,Boosts the power of biting moves.,Swift Swim,Boosts the power of biting moves.
+834,Drednaw,Strong Jaw,Boosts the power of biting moves.,Swift Swim,Boosts the power of biting moves.
+835,Yamper,Ball Fetch,Retrieves a Poké Ball from a failed throw.,Rattled,Retrieves a Poké Ball from a failed throw.
+836,Boltund,Strong Jaw,Boosts the power of biting moves.,Competitive,Boosts the power of biting moves.
+837,Rolycoly,Steam Engine,Drastically raises Speed when hit by a Fire- or Water-type move.,Flash Fire,Drastically raises Speed when hit by a Fire- or Water-type move.
+838,Carkol,Steam Engine,Drastically raises Speed when hit by a Fire- or Water-type move.,Flash Fire,Drastically raises Speed when hit by a Fire- or Water-type move.
+839,Coalossal,Steam Engine,Drastically raises Speed when hit by a Fire- or Water-type move.,Flash Fire,Drastically raises Speed when hit by a Fire- or Water-type move.
+840,Applin,Ripen,Doubles the effect of berries.,Bulletproof,Doubles the effect of berries.
+841,Flapple,Ripen,Doubles the effect of berries.,Hustle,Doubles the effect of berries.
+842,Appletun,Ripen,Doubles the effect of berries.,Thick Fat,Doubles the effect of berries.
+843,Silicobra,Sand Spit,Creates a sandstorm when hit by an attack.,Sand Veil,Creates a sandstorm when hit by an attack.
+844,Sandaconda,Sand Spit,Creates a sandstorm when hit by an attack.,Sand Veil,Creates a sandstorm when hit by an attack.
+845,Cramorant,Gulp Missile,Returns with a catch in its mouth after using Surf or Dive.,,Returns with a catch in its mouth after using Surf or Dive.
+846,Arrokuda,Swift Swim,Boosts the Pokémon's Speed in rain.,Propeller Tail,Boosts the Pokémon's Speed in rain.
+847,Barraskewda,Swift Swim,Boosts the Pokémon's Speed in rain.,Propeller Tail,Boosts the Pokémon's Speed in rain.
+848,Toxel,Rattled,"Bug, Ghost or Dark type moves scare it and boost its Speed.",Klutz,"Bug, Ghost or Dark type moves scare it and boost its Speed."
+849,Toxtricity,Punk Rock,Boosts sound-based moves and halves damage from the same moves.,Technician,Boosts sound-based moves and halves damage from the same moves.
+850,Sizzlipede,Flash Fire,It powers up Fire-type moves if it's hit by one.,Flame Body,It powers up Fire-type moves if it's hit by one.
+851,Centiskorch,Flash Fire,It powers up Fire-type moves if it's hit by one.,Flame Body,It powers up Fire-type moves if it's hit by one.
+852,Clobbopus,Limber,The Pokémon is protected from paralysis.,Technician,The Pokémon is protected from paralysis.
+853,Grapploct,Limber,The Pokémon is protected from paralysis.,Technician,The Pokémon is protected from paralysis.
+854,Sinistea,Weak Armor,Physical attacks lower Defense and raise Speed.,Cursed Body,Physical attacks lower Defense and raise Speed.
+855,Polteageist,Weak Armor,Physical attacks lower Defense and raise Speed.,Cursed Body,Physical attacks lower Defense and raise Speed.
+856,Hatenna,Healer,May heal an ally's status conditions.,Magic Bounce,May heal an ally's status conditions.
+857,Hattrem,Healer,May heal an ally's status conditions.,Magic Bounce,May heal an ally's status conditions.
+858,Hatterene,Healer,May heal an ally's status conditions.,Magic Bounce,May heal an ally's status conditions.
+859,Impidimp,Prankster,Gives priority to a status move.,Pickpocket,Gives priority to a status move.
+860,Morgrem,Prankster,Gives priority to a status move.,Pickpocket,Gives priority to a status move.
+861,Grimmsnarl,Prankster,Gives priority to a status move.,Pickpocket,Gives priority to a status move.
+862,Obstagoon,Reckless,Powers up moves that have recoil damage.,Defiant,Powers up moves that have recoil damage.
+863,Perrserker,Battle Armor,The Pokémon is protected against critical hits.,Steely Spirit,The Pokémon is protected against critical hits.
+864,Cursola,Weak Armor,Physical attacks lower Defense and raise Speed.,Perish Body,Physical attacks lower Defense and raise Speed.
+865,Sirfetch'd,Steadfast,Raises Speed each time the Pokémon flinches.,Scrappy,Raises Speed each time the Pokémon flinches.
+866,Mr. Rime,Tangled Feet,Raises evasion if the Pokémon is confused.,Ice Body,Raises evasion if the Pokémon is confused.
+867,Runerigus,Wandering Spirit,Swaps abilities with opponents on contact.,,Swaps abilities with opponents on contact.
+868,Milcery,Sweet Veil,Prevents the Pokémon and allies from falling asleep.,Aroma Veil,Prevents the Pokémon and allies from falling asleep.
+869,Alcremie,Sweet Veil,Prevents the Pokémon and allies from falling asleep.,Aroma Veil,Prevents the Pokémon and allies from falling asleep.
+870,Falinks,Battle Armor,The Pokémon is protected against critical hits.,Defiant,The Pokémon is protected against critical hits.
+871,Pincurchin,Lightning Rod,Draws in all Electric-type moves to up Sp. Attack.,Electric Surge,Draws in all Electric-type moves to up Sp. Attack.
+872,Snom,Shield Dust,Blocks the added effects of attacks taken.,Ice Scales,Blocks the added effects of attacks taken.
+873,Frosmoth,Shield Dust,Blocks the added effects of attacks taken.,Ice Scales,Blocks the added effects of attacks taken.
+874,Stonjourner,Power Spot,Just being next to the Pokémon powers up moves.,,Just being next to the Pokémon powers up moves.
+875,Eiscue,Ice Face,Avoids damage from Physical moves for one turn.,,Avoids damage from Physical moves for one turn.
+876,Indeedee,Inner Focus,The Pokémon is protected from flinching.,Psychic Surge,The Pokémon is protected from flinching.
+877,Morpeko,Hunger Switch,Changes forms each turn.,,Changes forms each turn.
+878,Cufant,Sheer Force,Removes added effects to increase move damage.,Heavy Metal,Removes added effects to increase move damage.
+879,Copperajah,Sheer Force,Removes added effects to increase move damage.,Heavy Metal,Removes added effects to increase move damage.
+880,Dracozolt,Volt Absorb,Restores HP if hit by an Electric-type move.,Sand Rush,Restores HP if hit by an Electric-type move.
+881,Arctozolt,Volt Absorb,Restores HP if hit by an Electric-type move.,Slush Rush,Restores HP if hit by an Electric-type move.
+882,Dracovish,Water Absorb,Restores HP if hit by a Water-type move.,Sand Rush,Restores HP if hit by a Water-type move.
+883,Arctovish,Water Absorb,Restores HP if hit by a Water-type move.,Slush Rush,Restores HP if hit by a Water-type move.
+884,Duraludon,Light Metal,Halves the Pokémon's weight.,Stalwart,Halves the Pokémon's weight.
+885,Dreepy,Clear Body,Prevents other Pokémon from lowering its stats.,Cursed Body,Prevents other Pokémon from lowering its stats.
+886,Drakloak,Clear Body,Prevents other Pokémon from lowering its stats.,Cursed Body,Prevents other Pokémon from lowering its stats.
+887,Dragapult,Clear Body,Prevents other Pokémon from lowering its stats.,Cursed Body,Prevents other Pokémon from lowering its stats.
+888,Zacian,Intrepid Sword,Boosts Attack in battle.,,Boosts Attack in battle.
+889,Zamazenta,Dauntless Shield,Boosts Defense in battle.,,Boosts Defense in battle.
+890,Eternatus,Pressure,The Pokémon raises the foe's PP usage.,,The Pokémon raises the foe's PP usage.
+891,Kubfu,Inner Focus,The Pokémon is protected from flinching.,,The Pokémon is protected from flinching.
+892,Urshifu,Unseen Fist,Contact moves can strike through Protect/Detect.,,Contact moves can strike through Protect/Detect.
+893,Zarude,Leaf Guard,Prevents problems with status in sunny weather.,,Prevents problems with status in sunny weather.
+894,Regieleki,Transistor,Signature ability of Regieleki. Powers up Electric-type moves.,,Signature ability of Regieleki. Powers up Electric-type moves.
+895,Regidrago,Dragon's Maw,Signature ability of Regidrago. Powers up Dragon-type moves.,,Signature ability of Regidrago. Powers up Dragon-type moves.
+896,Glastrier,Chilling Neigh,Boosts Attack after knocking out a Pokémon.,,Boosts Attack after knocking out a Pokémon.
+897,Spectrier,Grim Neigh,Boosts Special Attack after knocking out a Pokémon.,,Boosts Special Attack after knocking out a Pokémon.
+898,Calyrex,Unnerve,Makes the foe nervous and unable to eat Berries.,,Makes the foe nervous and unable to eat Berries.
+899,Wyrdeer,Intimidate,Lowers the foe's Attack stat.,Sap Sipper,Lowers the foe's Attack stat.
+900,Kleavor,Swarm,Powers up Bug-type moves in a pinch.,Steadfast,Powers up Bug-type moves in a pinch.
+901,Ursaluna,Guts,Boosts Attack if there is a status problem.,Unnerve,Boosts Attack if there is a status problem.
+902,Basculegion,Rattled,"Bug, Ghost or Dark type moves scare it and boost its Speed.",Mold Breaker,"Bug, Ghost or Dark type moves scare it and boost its Speed."
+903,Sneasler,Pressure,The Pokémon raises the foe's PP usage.,Poison Touch,The Pokémon raises the foe's PP usage.
+904,Overqwil,Poison Point,Contact with the Pokémon may poison the attacker.,Intimidate,Contact with the Pokémon may poison the attacker.
+905,Enamorus,Healer,May heal an ally's status conditions.,Contrary,May heal an ally's status conditions.
