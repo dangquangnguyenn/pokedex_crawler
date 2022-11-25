@@ -126,8 +126,9 @@ def type_defense(soup):
 - Chúng ta chỉ cần quan tâm Name và Description.
 - Hàm get_abilities_description(soup) trả về kết quả mô tả ngắn gọn về các Ability và Hidden Ability tương tứng.
 - Lưu ý: 
-      * Một vài Pokemon KHÔNG sở hữu Hidden Ability vì thế nội dung mô tả sẽ để trống
-      * Hàm này chỉ trả về tên và mô tả các đặc tính ĐÃ ĐƯỢC GIỚI THIỆU XUYÊN SUỐT SERIES GAME POKEMON chứ không phải của từng Pokemon.
+
+     * Một vài Pokemon KHÔNG sở hữu Hidden Ability vì thế nội dung mô tả sẽ để trống
+     * Hàm này chỉ trả về tên và mô tả các đặc tính ĐÃ ĐƯỢC GIỚI THIỆU XUYÊN SUỐT SERIES GAME POKEMON chứ không phải của từng Pokemon.
 ```
 def get_abilities_description(soup):
   # YOUR CODE HERE
