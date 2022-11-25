@@ -1,8 +1,8 @@
-# pokedex_crawler
-## Giới thiệu sơ lược
+# POKEDEX CRAWLER
+# Giới thiệu sơ lược
 - Có thể bạn chưa biết, Pocket Monsters viết tắt là Pokemon, một series game cũng như anime đình đám, series game Pokemon phát triển bởi GameFreak hiện vẫn đang làm mưa làm gió trên các hệ máy Nitendo và trên thị trường game toàn cầu. Nhân dịp gen9 (Scarlet & Violet) của game vừa ra mắt, chúng ta sẽ điểm lại các pokemon từ những thế hệ trước và thông số cũng như đặc tính của chúng thông qua Pokedex. Ở đây, chúng ta sẽ sử dụng "https://pokemondb.net/pokedex/all" là trang web chứa dữ liệu Pokedex, hay nói cách khác là danh sách của toàn bộ Pokemon ĐÃ xuất hiện xuyên suốt series game này. Let's go!
 
-## Install và import
+# Install và import
 - bs4 (Beautiful Soup): Một thư viện Python dùng để phân tích các tài liệu HTML và XML. Nó tạo ra một cây phân tích cú pháp cho các trang được phân tích cú pháp có thể được sử dụng để trích xuất dữ liệu từ HTML, rất hữu ích cho web scrapping.
 - requests: Cho phép gửi các yêu cầu HTTP bằng Python.
 ```
@@ -16,7 +16,7 @@ import requests
 import pandas as pd
 ```
 
-## Thu thập và xử lý dữ liệu
+# Thu thập và xử lý dữ liệu
 - Lưu ý: Có thể các Pokemon có rất nhiều dạng (vùng miền, mega evolution, mega X/mega Y, nguyên thủy (primal form), tấn công/phòng thủ,...), hình dạng Pokemon thay đổi nhưng id thì vẫn giữ nguyên, vì vậy sẽ xuất hiện trường hợp một id lặp lại nhiều lần, chúng ta chỉ xét hình dạng cơ bản của chúng nên chỉ cần lấy 1 id cho mỗi Pokemon thôi.
 ### 1. Lấy danh sách các id riêng biệt của từng Pokemon
 ```
@@ -36,7 +36,7 @@ urls.append('https://pokemondb.net/pokedex/' + str(id[i]))
 #### 3.1. Thông tin của một pokemon
 - Lưu ý: ID của Pokemon sẽ được thêm vào sau cùng sau đó đặt ID làm cột index, ở đây chúng ta chỉ xét các thuộc tính như: tên, hệ, loài,...
 - Sẽ có thêm các cơ sở dữ liệu riêng để mô tả chi tiết các đặc tính cũng như đặc tính ẩn và tương khắc hệ
-- Các thuộc tính của một Pokemon sẽ bao gồm:
+- Các thông tin của một Pokemon sẽ bao gồm:
 
             - name: Tên
 
@@ -106,8 +106,27 @@ def type_defense(soup):
   return type_defenses
 ```
 #### 3.3. Đặc tính
-- Đặc tính (Ability) và đặc tính ẩn (Hidden Ability)
-- Hàm get_abilities_description(soup) mô tả chi tiết về các đặc tính và đặc tính ẩn của từng Pokemon
+- Đặc tính (Ability) và đặc tính ẩn (Hidden Ability): Là những đặc tính được trao cho mỗi Pokémon để có thể hỗ trợ chúng trong trận chiến, chúng ta sẽ lấy thông tin mô tả ngắn gọn toàn bộ đặc tính ở trang "https://pokemondb.net/ability".
+- Một vài lợi ích đi kèm như: Thay đổi thời tiết, cường hóa tuyệt chiêu hoặc chỉ số, miễn nhiễm sát thương, giảm tấn công,...
+ 
+        - Ví dụ: 
+             * 'Intimidate' giảm chỉ số Attack của đối phương
+             * 'Levitate' là trạng thái lơ lửng của Pokemon cho phép chúng miễn nhiễm với các đòn tấn công hệ Đất (Ground)
+                
+- Theo "https://pokemondb.net/ability", đặc tính và đặc tính ẩn đều gộp chung lại thành một danh sách được gọi là "The ability list".
+- Danh sách này chứa:
+
+                - Name: Tên đặc tính và đặc tính ẩn
+                - Pókemon: Số lượng Pokemon sở hữu đặc tính đó
+                - Description: Mô tả ngắn gọn về dặc tính đó
+                - Gen: Thế hệ mà đặc tính đó được giới thiệu lần đầu
+
+- Chúng ta chỉ cần quan tâm Name và Description.
+- Hàm get_abilities_description(soup) trả về kết quả mô tả ngắn gọn về các Ability và Hidden Ability tương tứng.
+- Lưu ý: 
+
+        - Một vài Pokemon KHÔNG sở hữu Hidden Ability vì thế nội dung mô tả sẽ để trống
+        - Hàm này chỉ trả về tên và mô tả các đặc tính ĐÃ ĐƯỢC GIỚI THIỆU XUYÊN SUỐT SERIES GAME POKEMON chứ không phải của từng Pokemon.
 ```
 def get_abilities_description(soup):
   # YOUR CODE HERE
@@ -118,10 +137,54 @@ def get_abilities_description(soup):
 ```
 data = []           # Thông tin
 type_defenses = []  # Tương khắc hệ
-abilities = []      # Bao gồm đặc tính và đặc tính ẩn
+...
+```
+#### 3.4.1. Cơ sở dữ liệu thông tin Pokemon
+- Sau khi đã có danh sách thông tin của toàn bộ Pokemon trong Pokedex, khởi tạo một cơ sở dữ liệu để lưu trữ
+- Index ở đây sẽ là ID của từng Pokemon, bắt đầu từ 1.
+```
+pokedex = pd.DataFrame(data = data, columns=['Name', 'Type', 'Species', 'Height', 'Weight', 'Ability', 'Hidden Ability',
+                                             'Catch Rate', 'Base Friendship', 'Base Exp', 'Growth Rate', 'Gender',
+                                             'HP', 'Attack', 'Defense', 'Sp. Atk', 'Sp. Def', 'Speed', 'Total'], index = id)
 ```
 
+#### 3.4.2. Cơ sở dữ liệu tương khắc hệ
+- Tạo cơ sở dữ liệu để lưu trữ chỉ số tương khắc hệ.
+- Chuẩn hóa dữ liệu dòng và thêm cột 'Name' chứa tên các Pokemon.
+```
+# Tạo csdl chứa tương khắc hệ
+type_defenses = pd.DataFrame(data = type_def, columns = ['NORMAL', 'FIRE', 'WATER', 'ELECTRIC', 'GRASS', 'ICE', 
+                                        'FIGHTING', 'POISON', 'GROUND', 'FLYING', 'SPYCHIC', 'BUG',
+                                        'ROCK', 'GHOST', 'DRAGON', 'DARK', 'STEEL', 'FAIRY'], index = id)
+# Thay đổi giá trị các dòng cho dễ nhìn
+wrong = ['', '½', '¼']
+right = ['1', '0.5', '0.25']
+...
+```
+#### 3.4.3. Cơ sở dữ liệu mô tả các đặc tính
+- Ý tưởng thực hiện:
+            - B1: Trước tiên tạo database mới với tên, đặc tính, đặc tính ẩn Pokemon từ database cũ.
+            - B2: Tạo 2 list là abi_des và hid_abi_des.
+            - B3: Chạy vòng lặp từ 1 đến n+1 ứng với id từ 1 -> 905  (n = 905)
+            - B4: Dùng 2 biến temp và temp1 để nhận lần lượt Ability và Hidden Ability của Pokemon tương ứng id đó
+            - B5: abilities[temp] và abilities[temp1] trả về mô tả ngắn gọn Ability và Hidden Ability tương ứng của Pokemon đó.
+            - B6: Tạo thêm 2 cột để chứa dữ liệu của 2 list.
+            - B7: In csdl ra màn hình để kiểm tra.
+```
+# Tạo csdl chứa tên và đặc tính tương ứng của từng Pokemon
+abilities_info = pokedex[['Name', 'Ability', 'Hidden Ability']]     # B1
 
+# B2
+abi_des = []        # ability description
+hid_abi_des = []    # hidden ability description
+...
+```
+# Xuất dữ liệu đã đọc được vào các file csv
+```
+pokedex.to_csv('pokemon_db.csv', encoding='utf-8', index = True)
+type_defenses.to_csv('type_defenses.csv', encoding='utf-8', index = True)
+abilities_info.to_csv('abilities_description.csv', encoding='utf-8', index = True)
+```
 
 
 
