@@ -95,8 +95,9 @@ def get_pokemon_info(soup):
 - Tương khắc hệ (Type Defenses) của một Pokemon là khả năng chịu đòn của một Pokemon trước những đòn tấn công mang hệ khác. Các Pokemon Trainer sẽ dựa vào tương khắc hệ này của chúng nhằm chọn ra Pokemon có ưu thế về hệ (Type Advantages) tốt nhất để đối đầu với Pokemon của đối thủ.
 
  - Ví dụ: Bulbasaur mang song hệ là Grass/Poison:
-           * Fire -> Grass/Poison = 2 <=> Đòn đánh hệ Fire sẽ gây gấp đôi sát thương lên Pokemon này
-           * Grass -> Grass/Poison = 1/4   <=> Đòn đánh hệ Grass sẽ gây 0.25 sát thương lên Pokemon này
+ 
+     * Fire -> Grass/Poison = 2 <=> Đòn đánh hệ Fire sẽ gây gấp đôi sát thương lên Pokemon này
+     * Grass -> Grass/Poison = 1/4   <=> Đòn đánh hệ Grass sẽ gây 0.25 sát thương lên Pokemon này
  
 - Hàm Type_Defenses(soup) sẽ trả về tương khắc hệ của Pokemon có url tương ứng. 
 ```
