@@ -165,13 +165,14 @@ right = ['1', '0.5', '0.25']
 ```
 #### 3.4.3. Cơ sở dữ liệu mô tả các đặc tính
 - Ý tưởng thực hiện:
-            - B1: Trước tiên tạo database mới với tên, đặc tính, đặc tính ẩn Pokemon từ database cũ.
-            - B2: Tạo 2 list là abi_des và hid_abi_des.
-            - B3: Chạy vòng lặp từ 1 đến n+1 ứng với id từ 1 -> 905  (n = 905)
-            - B4: Dùng 2 biến temp và temp1 để nhận lần lượt Ability và Hidden Ability của Pokemon tương ứng id đó
-            - B5: abilities[temp] và abilities[temp1] trả về mô tả ngắn gọn Ability và Hidden Ability tương ứng của Pokemon đó.
-            - B6: Tạo thêm 2 cột để chứa dữ liệu của 2 list.
-            - B7: In csdl ra màn hình để kiểm tra.
+            
+     - B1: Trước tiên tạo database mới với tên, đặc tính, đặc tính ẩn Pokemon từ database cũ.
+     - B2: Tạo 2 list là abi_des và hid_abi_des.
+     - B3: Chạy vòng lặp từ 1 đến n+1 ứng với id từ 1 -> 905  (n = 905)
+     - B4: Dùng 2 biến temp và temp1 để nhận lần lượt Ability và Hidden Ability của Pokemon tương ứng id đó
+     - B5: abilities[temp] và abilities[temp1] trả về mô tả ngắn gọn Ability và Hidden Ability tương ứng của Pokemon đó.
+     - B6: Tạo thêm 2 cột để chứa dữ liệu của 2 list.
+     - B7: In csdl ra màn hình để kiểm tra.
 ```
 # Tạo csdl chứa tên và đặc tính tương ứng của từng Pokemon
 abilities_info = pokedex[['Name', 'Ability', 'Hidden Ability']]     # B1
