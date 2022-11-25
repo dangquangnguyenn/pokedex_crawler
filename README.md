@@ -111,8 +111,9 @@ def type_defense(soup):
 - Một vài lợi ích đi kèm như: Thay đổi thời tiết, cường hóa tuyệt chiêu hoặc chỉ số, miễn nhiễm sát thương, giảm tấn công,...
  
 - Ví dụ:
-      * 'Intimidate' giảm chỉ số Attack của đối phương
-      * 'Levitate' là trạng thái lơ lửng của Pokemon cho phép chúng miễn nhiễm với các đòn tấn công hệ Đất (Ground)
+      
+     * 'Intimidate' giảm chỉ số Attack của đối phương
+     * 'Levitate' là trạng thái lơ lửng của Pokemon cho phép chúng miễn nhiễm với các đòn tấn công hệ Đất (Ground)
                 
 - Theo "https://pokemondb.net/ability", đặc tính và đặc tính ẩn đều gộp chung lại thành một danh sách được gọi là "The ability list".
 - Danh sách này chứa:
