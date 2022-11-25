@@ -109,8 +109,7 @@ def type_defense(soup):
 - Đặc tính (Ability) và đặc tính ẩn (Hidden Ability): Là những đặc tính được trao cho mỗi Pokémon để có thể hỗ trợ chúng trong trận chiến, chúng ta sẽ lấy thông tin mô tả ngắn gọn toàn bộ đặc tính ở trang "https://pokemondb.net/ability".
 - Một vài lợi ích đi kèm như: Thay đổi thời tiết, cường hóa tuyệt chiêu hoặc chỉ số, miễn nhiễm sát thương, giảm tấn công,...
  
-- Ví dụ: 
-      
+- Ví dụ:
       * 'Intimidate' giảm chỉ số Attack của đối phương
       * 'Levitate' là trạng thái lơ lửng của Pokemon cho phép chúng miễn nhiễm với các đòn tấn công hệ Đất (Ground)
                 
