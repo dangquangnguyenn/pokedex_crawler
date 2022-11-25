@@ -94,7 +94,7 @@ def get_pokemon_info(soup):
 #### 3.2. Tương khắc hệ
 - Tương khắc hệ (Type Defenses) của một Pokemon là khả năng chịu đòn của một Pokemon trước những đòn tấn công mang hệ khác. Các Pokemon Trainer sẽ dựa vào tương khắc hệ này của chúng nhằm chọn ra Pokemon có ưu thế về hệ (Type Advantages) tốt nhất để đối đầu với Pokemon của đối thủ.
 
-        Ví dụ: Bulbasaur mang song hệ là Grass/Poison:
+ - Ví dụ: Bulbasaur mang song hệ là Grass/Poison:
                 - Fire -> Grass/Poison = 2 <=> Đòn đánh hệ Fire sẽ gây gấp đôi sát thương lên Pokemon này
                 - Grass -> Grass/Poison = 1/4   <=> Đòn đánh hệ Grass sẽ gây 0.25 sát thương lên Pokemon này
 
@@ -109,9 +109,9 @@ def type_defense(soup):
 - Đặc tính (Ability) và đặc tính ẩn (Hidden Ability): Là những đặc tính được trao cho mỗi Pokémon để có thể hỗ trợ chúng trong trận chiến, chúng ta sẽ lấy thông tin mô tả ngắn gọn toàn bộ đặc tính ở trang "https://pokemondb.net/ability".
 - Một vài lợi ích đi kèm như: Thay đổi thời tiết, cường hóa tuyệt chiêu hoặc chỉ số, miễn nhiễm sát thương, giảm tấn công,...
  
-        - Ví dụ: 
-             * 'Intimidate' giảm chỉ số Attack của đối phương
-             * 'Levitate' là trạng thái lơ lửng của Pokemon cho phép chúng miễn nhiễm với các đòn tấn công hệ Đất (Ground)
+- Ví dụ: 
+      * 'Intimidate' giảm chỉ số Attack của đối phương
+      * 'Levitate' là trạng thái lơ lửng của Pokemon cho phép chúng miễn nhiễm với các đòn tấn công hệ Đất (Ground)
                 
 - Theo "https://pokemondb.net/ability", đặc tính và đặc tính ẩn đều gộp chung lại thành một danh sách được gọi là "The ability list".
 - Danh sách này chứa:
@@ -124,9 +124,8 @@ def type_defense(soup):
 - Chúng ta chỉ cần quan tâm Name và Description.
 - Hàm get_abilities_description(soup) trả về kết quả mô tả ngắn gọn về các Ability và Hidden Ability tương tứng.
 - Lưu ý: 
-
-        - Một vài Pokemon KHÔNG sở hữu Hidden Ability vì thế nội dung mô tả sẽ để trống
-        - Hàm này chỉ trả về tên và mô tả các đặc tính ĐÃ ĐƯỢC GIỚI THIỆU XUYÊN SUỐT SERIES GAME POKEMON chứ không phải của từng Pokemon.
+      * Một vài Pokemon KHÔNG sở hữu Hidden Ability vì thế nội dung mô tả sẽ để trống
+      * Hàm này chỉ trả về tên và mô tả các đặc tính ĐÃ ĐƯỢC GIỚI THIỆU XUYÊN SUỐT SERIES GAME POKEMON chứ không phải của từng Pokemon.
 ```
 def get_abilities_description(soup):
   # YOUR CODE HERE
