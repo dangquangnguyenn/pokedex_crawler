@@ -89,7 +89,7 @@ urls.append('https://pokemondb.net/pokedex/' + str(id[i]))
 def get_pokemon_info(soup):
   # YOUR CODE HERE
   ...
-  return name, types_list, species, height, weight, ability, hid_ability, catch_rate, base_fs, base_exp, growth_rate, genders, hp, atk, defn, sp_atk, sp_def, spd, total 
+  return name, type1, type2, species, height, weight, ability, ex_ability, hid_ability, catch_rate, base_fs, base_exp, growth_rate, genders, hp, atk, defn, sp_atk, sp_def, spd, total 
 ```
 #### 3.2. Tương khắc hệ
 - Tương khắc hệ (Type Defenses) của một Pokemon là khả năng chịu đòn của một Pokemon trước những đòn tấn công mang hệ khác. Các Pokemon Trainer sẽ dựa vào tương khắc hệ này của chúng nhằm chọn ra Pokemon có ưu thế về hệ (Type Advantages) tốt nhất để đối đầu với Pokemon của đối thủ.
@@ -145,7 +145,7 @@ type_defenses = []  # Tương khắc hệ
 - Sau khi đã có danh sách thông tin của toàn bộ Pokemon trong Pokedex, khởi tạo một cơ sở dữ liệu để lưu trữ
 - Index ở đây sẽ là ID của từng Pokemon, bắt đầu từ 1.
 ```
-pokedex = pd.DataFrame(data = data, columns=['Name', 'Type', 'Species', 'Height', 'Weight', 'Ability', 'Hidden Ability',
+pokedex = pd.DataFrame(data = data, columns=['Name', 'Type 1', 'Type 2', 'Species', 'Height', 'Weight', 'Ability', 'Extra Ability', 'Hidden Ability',
                                              'Catch Rate', 'Base Friendship', 'Base Exp', 'Growth Rate', 'Gender',
                                              'HP', 'Attack', 'Defense', 'Sp. Atk', 'Sp. Def', 'Speed', 'Total'], index = id)
 ```
@@ -167,18 +167,20 @@ right = ['1', '0.5', '0.25']
 - Ý tưởng thực hiện:
             
      - B1: Trước tiên tạo database mới với tên, đặc tính, đặc tính ẩn Pokemon từ database cũ.
-     - B2: Tạo 2 list là abi_des và hid_abi_des.
-     - B3: Chạy vòng lặp từ 1 đến n+1 ứng với id từ 1 -> 905  (n = 905)
-     - B4: Dùng 2 biến temp và temp1 để nhận lần lượt Ability và Hidden Ability của Pokemon tương ứng id đó
-     - B5: abilities[temp] và abilities[temp1] trả về mô tả ngắn gọn Ability và Hidden Ability tương ứng của Pokemon đó.
-     - B6: Tạo thêm 2 cột để chứa dữ liệu của 2 list.
-     - B7: In csdl ra màn hình để kiểm tra.
+     - B2: Tạo 3 list là abi_des, ex_abi_des và hid_abi_des.
+     - B3: Vì đặc tính 'Sharpness' vẫn chưa cập nhập mô tả trên "https://pokemondb.net/ability". Chúng ta sẽ cập nhập thủ công cho đặc tính này.
+     - B4: Chạy vòng lặp từ 1 đến n+1 ứng với id từ 1 -> 905  (n = 905)
+     - B5: Tạo các biến tạm để lưu giữ các Ability theo id
+     - B6: abilities[temp] trả về mô tả ngắn gọn Ability tương ứng của Pokemon đó, tương tự như temp2 và temp3 với Extra Abiltiy và Hidden Ability.
+     - B7: Tạo thêm 3 cột để chứa dữ liệu của 3 list.
+     - B8: In csdl ra màn hình để kiểm tra.
 ```
 # Tạo csdl chứa tên và đặc tính tương ứng của từng Pokemon
 abilities_info = pokedex[['Name', 'Ability', 'Hidden Ability']]     # B1
 
 # B2
 abi_des = []        # ability description
+ex_abi_des = []     # extra ability description
 hid_abi_des = []    # hidden ability description
 ...
 ```
