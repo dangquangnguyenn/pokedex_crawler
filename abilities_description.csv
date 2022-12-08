@@ -473,7 +473,7 @@
 472,Gliscor,Hyper Cutter,Prevents other Pokémon from lowering Attack stat.,Sand Veil,Boosts the Pokémon's evasion in a sandstorm.,Poison Heal,Restores HP if the Pokémon is poisoned.
 473,Mamoswine,Oblivious,Prevents it from becoming infatuated.,Snow Cloak,Raises evasion in a hailstorm.,Thick Fat,Ups resistance to Fire- and Ice-type moves.
 474,Porygon-Z,Adaptability,Powers up moves of the same type.,Download,Adjusts power according to a foe's defenses.,Analytic,Boosts move power when the Pokémon moves last.
-475,Gallade,Steadfast,Raises Speed each time the Pokémon flinches.,Sharpness,Powers up slicing moves,Justified,Raises Attack when hit by a Dark-type move.
+475,Gallade,Steadfast,Raises Speed each time the Pokémon flinches.,Sharpness,Powers up slicing moves.,Justified,Raises Attack when hit by a Dark-type move.
 476,Probopass,Sturdy,It cannot be knocked out with one hit.,Magnet Pull,Prevents Steel-type Pokémon from escaping.,Sand Force,Boosts certain moves' power in a sandstorm.
 477,Dusknoir,Pressure,The Pokémon raises the foe's PP usage.,,,Frisk,The Pokémon can check a foe's held item.
 478,Froslass,Snow Cloak,Raises evasion in a hailstorm.,,,Cursed Body,May disable a move used on the Pokémon.
@@ -898,9 +898,112 @@
 897,Spectrier,Grim Neigh,Boosts Special Attack after knocking out a Pokémon.,,,,
 898,Calyrex,Unnerve,Makes the foe nervous and unable to eat Berries.,,,,
 899,Wyrdeer,Intimidate,Lowers the foe's Attack stat.,Frisk,The Pokémon can check a foe's held item.,Sap Sipper,Boosts Attack when hit by a Grass-type move.
-900,Kleavor,Swarm,Powers up Bug-type moves in a pinch.,Sheer Force,Removes added effects to increase move damage.,Sharpness,Powers up slicing moves
+900,Kleavor,Swarm,Powers up Bug-type moves in a pinch.,Sheer Force,Removes added effects to increase move damage.,Sharpness,Powers up slicing moves.
 901,Ursaluna,Guts,Boosts Attack if there is a status problem.,Bulletproof,Protects the Pokémon from ball and bomb moves.,Unnerve,Makes the foe nervous and unable to eat Berries.
 902,Basculegion,Swift Swim,Boosts the Pokémon's Speed in rain.,Adaptability,Powers up moves of the same type.,Mold Breaker,Moves can be used regardless of Abilities.
 903,Sneasler,Pressure,The Pokémon raises the foe's PP usage.,Unburden,Raises Speed if a held item is used.,Poison Touch,May poison targets when a Pokémon makes contact.
 904,Overqwil,Poison Point,Contact with the Pokémon may poison the attacker.,Swift Swim,Boosts the Pokémon's Speed in rain.,Intimidate,Lowers the foe's Attack stat.
 905,Enamorus,Cute Charm,Contact with the Pokémon may cause infatuation.,,,Contrary,Makes stat changes have an opposite effect.
+906,Sprigatito,Overgrow,Powers up Grass-type moves in a pinch.,,,Protean,Changes the Pokémon's type to its last used move.
+907,Floragato,Overgrow,Powers up Grass-type moves in a pinch.,,,Protean,Changes the Pokémon's type to its last used move.
+908,Meowscarada,Overgrow,Powers up Grass-type moves in a pinch.,,,Protean,Changes the Pokémon's type to its last used move.
+909,Fuecoco,Blaze,Powers up Fire-type moves in a pinch.,,,Unaware,Ignores any stat changes in the Pokémon.
+910,Crocalor,Blaze,Powers up Fire-type moves in a pinch.,,,Unaware,Ignores any stat changes in the Pokémon.
+911,Skeledirge,Blaze,Powers up Fire-type moves in a pinch.,,,Unaware,Ignores any stat changes in the Pokémon.
+912,Quaxly,Torrent,Powers up Water-type moves in a pinch.,,,Moxie,Boosts Attack after knocking out any Pokémon.
+913,Quaxwell,Torrent,Powers up Water-type moves in a pinch.,,,Moxie,Boosts Attack after knocking out any Pokémon.
+914,Quaquaval,Torrent,Powers up Water-type moves in a pinch.,,,Moxie,Boosts Attack after knocking out any Pokémon.
+915,Lechonk,Aroma Veil,Protects allies from attacks that limit their move choices.,Gluttony,Encourages the early use of a held Berry.,Thick Fat,Ups resistance to Fire- and Ice-type moves.
+916,Oinkologne,Lingering Aroma,Contact changes the attacker's Ability to Lingering Aroma.,Gluttony,Encourages the early use of a held Berry.,Thick Fat,Ups resistance to Fire- and Ice-type moves.
+917,Tarountula,Insomnia,Prevents the Pokémon from falling asleep.,,,Stakeout,Deals double damage to Pokémon switching in.
+918,Spidops,Insomnia,Prevents the Pokémon from falling asleep.,,,Stakeout,Deals double damage to Pokémon switching in.
+919,Nymble,Swarm,Powers up Bug-type moves in a pinch.,,,Tinted Lens,Powers up “not very effective” moves.
+920,Lokix,Swarm,Powers up Bug-type moves in a pinch.,,,Tinted Lens,Powers up “not very effective” moves.
+921,Pawmi,Static,Contact with the Pokémon may cause paralysis.,Natural Cure,All status problems heal when it switches out.,Iron Fist,Boosts the power of punching moves.
+922,Pawmo,Volt Absorb,Restores HP if hit by an Electric-type move.,Natural Cure,All status problems heal when it switches out.,Iron Fist,Boosts the power of punching moves.
+923,Pawmot,Volt Absorb,Restores HP if hit by an Electric-type move.,Natural Cure,All status problems heal when it switches out.,Iron Fist,Boosts the power of punching moves.
+924,Tandemaus,Run Away,Enables a sure getaway from wild Pokémon.,Pickup,The Pokémon may pick up items.,Own Tempo,Prevents the Pokémon from becoming confused.
+925,Maushold,Friend Guard,Reduces damage done to allies.,Cheek Pouch,Restores additional HP when a Berry is consumed.,Technician,Powers up the Pokémon's weaker moves.
+926,Fidough,Own Tempo,Prevents the Pokémon from becoming confused.,,,Klutz,The Pokémon can't use any held items.
+927,Dachsbun,Well-Baked Body,"Immune to Fire-type moves, and Defense is sharply boosted.",,,Aroma Veil,Protects allies from attacks that limit their move choices.
+928,Smoliv,Early Bird,The Pokémon awakens quickly from sleep.,,,Harvest,May create another Berry after one is used.
+929,Dolliv,Early Bird,The Pokémon awakens quickly from sleep.,,,Harvest,May create another Berry after one is used.
+930,Arboliva,Seed Sower,Turns the ground into Grassy Terrain when the Pokémon is hit by an attack.,,,Harvest,May create another Berry after one is used.
+931,Squawkabilly,Intimidate,Lowers the foe's Attack stat.,Hustle,"Boosts the Attack stat, but lowers accuracy.",Guts,Boosts Attack if there is a status problem.
+932,Nacli,Purifying Salt,Protects from status conditions and halves damage from Ghost-type moves.,Sturdy,It cannot be knocked out with one hit.,Clear Body,Prevents other Pokémon from lowering its stats.
+933,Naclstack,Purifying Salt,Protects from status conditions and halves damage from Ghost-type moves.,Sturdy,It cannot be knocked out with one hit.,Clear Body,Prevents other Pokémon from lowering its stats.
+934,Garganacl,Purifying Salt,Protects from status conditions and halves damage from Ghost-type moves.,Sturdy,It cannot be knocked out with one hit.,Clear Body,Prevents other Pokémon from lowering its stats.
+935,Charcadet,Flash Fire,It powers up Fire-type moves if it's hit by one.,,,Flame Body,Contact with the Pokémon may burn the attacker.
+936,Armarouge,Flash Fire,It powers up Fire-type moves if it's hit by one.,,,Weak Armor,Physical attacks lower Defense and raise Speed.
+937,Ceruledge,Flash Fire,It powers up Fire-type moves if it's hit by one.,,,Weak Armor,Physical attacks lower Defense and raise Speed.
+938,Tadbulb,Own Tempo,Prevents the Pokémon from becoming confused.,Static,Contact with the Pokémon may cause paralysis.,Damp,Prevents the use of self-destructing moves.
+939,Bellibolt,Electromorphosis,Boosts the power of the next Electric-type move when hit by an attack.,Static,Contact with the Pokémon may cause paralysis.,Damp,Prevents the use of self-destructing moves.
+940,Wattrel,Wind Power,"Boosts power of the next Electric-type move used, when hit by a wind move.",Volt Absorb,Restores HP if hit by an Electric-type move.,Competitive,Sharply raises Special Attack when the Pokémon's stats are lowered.
+941,Kilowattrel,Wind Power,"Boosts power of the next Electric-type move used, when hit by a wind move.",Volt Absorb,Restores HP if hit by an Electric-type move.,Competitive,Sharply raises Special Attack when the Pokémon's stats are lowered.
+942,Maschiff,Intimidate,Lowers the foe's Attack stat.,Run Away,Enables a sure getaway from wild Pokémon.,Stakeout,Deals double damage to Pokémon switching in.
+943,Mabosstiff,Intimidate,Lowers the foe's Attack stat.,Guard Dog,"Boosts Attack if intimidated, and prevents being forced to switch out.",Stakeout,Deals double damage to Pokémon switching in.
+944,Shroodle,Unburden,Raises Speed if a held item is used.,Pickpocket,Steals an item when hit by another Pokémon.,Prankster,Gives priority to a status move.
+945,Grafaiai,Unburden,Raises Speed if a held item is used.,Poison Touch,May poison targets when a Pokémon makes contact.,Prankster,Gives priority to a status move.
+946,Bramblin,Wind Rider,"Takes no damage from wind moves, and boosts Attack if hit by a wind move or Tailwind is in effect.",,,Infiltrator,Passes through the foe's barrier and strikes.
+947,Brambleghast,Wind Rider,"Takes no damage from wind moves, and boosts Attack if hit by a wind move or Tailwind is in effect.",,,Infiltrator,Passes through the foe's barrier and strikes.
+948,Toedscool,Mycelium Might,"Status moves go last, but are not affected by the opponent's ability.",,,,
+949,Toedscruel,Mycelium Might,"Status moves go last, but are not affected by the opponent's ability.",,,,
+950,Klawf,Anger Shell,Lowers Defense/Sp. Def and raises Attack/Sp. Atk/Speed when HP drops below half.,Shell Armor,The Pokémon is protected against critical hits.,Regenerator,Restores a little HP when withdrawn from battle.
+951,Capsakid,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Insomnia,Prevents the Pokémon from falling asleep.,Klutz,The Pokémon can't use any held items.
+952,Scovillain,Chlorophyll,Boosts the Pokémon's Speed in sunshine.,Insomnia,Prevents the Pokémon from falling asleep.,Moody,Raises one stat and lowers another.
+953,Rellor,Compound Eyes,The Pokémon's accuracy is boosted.,,,Shed Skin,The Pokémon may heal its own status problems.
+954,Rabsca,Synchronize,"Passes a burn, poison, or paralysis to the foe.",,,Telepathy,Anticipates an ally's attack and dodges it.
+955,Flittle,Anticipation,Senses a foe's dangerous moves.,Frisk,The Pokémon can check a foe's held item.,Speed Boost,Its Speed stat is gradually boosted.
+956,Espathra,Opportunist,Copies stat boosts by the opponent.,Frisk,The Pokémon can check a foe's held item.,Speed Boost,Its Speed stat is gradually boosted.
+957,Tinkatink,Mold Breaker,Moves can be used regardless of Abilities.,Own Tempo,Prevents the Pokémon from becoming confused.,Pickpocket,Steals an item when hit by another Pokémon.
+958,Tinkatuff,Mold Breaker,Moves can be used regardless of Abilities.,Own Tempo,Prevents the Pokémon from becoming confused.,Pickpocket,Steals an item when hit by another Pokémon.
+959,Tinkaton,Mold Breaker,Moves can be used regardless of Abilities.,Own Tempo,Prevents the Pokémon from becoming confused.,Pickpocket,Steals an item when hit by another Pokémon.
+960,Wiglett,Gooey,Contact with the Pokémon lowers the attacker's Speed stat.,Rattled,"Bug, Ghost or Dark type moves scare it and boost its Speed.",Sand Veil,Boosts the Pokémon's evasion in a sandstorm.
+961,Wugtrio,Gooey,Contact with the Pokémon lowers the attacker's Speed stat.,Rattled,"Bug, Ghost or Dark type moves scare it and boost its Speed.",Sand Veil,Boosts the Pokémon's evasion in a sandstorm.
+962,Bombirdier,Big Pecks,Protects the Pokémon from Defense-lowering attacks.,Keen Eye,Prevents other Pokémon from lowering accuracy.,Rocky Payload,Powers up Rock-type moves.
+963,Finizen,Water Veil,Prevents the Pokémon from getting a burn.,,,,
+964,Palafin,Zero to Hero,Transforms into its Hero Form when switching out.,,,,
+965,Varoom,Overcoat,Protects the Pokémon from weather damage.,,,Slow Start,Temporarily halves Attack and Speed.
+966,Revavroom,Overcoat,Protects the Pokémon from weather damage.,,,Filter,Reduces damage from super-effective attacks.
+967,Cyclizar,Shed Skin,The Pokémon may heal its own status problems.,,,Regenerator,Restores a little HP when withdrawn from battle.
+968,Orthworm,Earth Eater,Restores HP when hit by a Ground-type move.,,,Sand Veil,Boosts the Pokémon's evasion in a sandstorm.
+969,Glimmet,Toxic Debris,Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.,,,Corrosion,The Pokémon can poison Steel and Poison types.
+970,Glimmora,Toxic Debris,Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves.,,,Corrosion,The Pokémon can poison Steel and Poison types.
+971,Greavard,Pickup,The Pokémon may pick up items.,,,Fluffy,"Halves damage from contact moves, but doubles damage from Fire-type moves."
+972,Houndstone,Sand Rush,Boosts the Pokémon's Speed in a sandstorm.,,,Fluffy,"Halves damage from contact moves, but doubles damage from Fire-type moves."
+973,Flamigo,Scrappy,Enables moves to hit Ghost-type Pokémon.,Tangled Feet,Raises evasion if the Pokémon is confused.,Costar,Copies ally's stat changes on entering battle.
+974,Cetoddle,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Snow Cloak,Raises evasion in a hailstorm.,Sheer Force,Removes added effects to increase move damage.
+975,Cetitan,Thick Fat,Ups resistance to Fire- and Ice-type moves.,Slush Rush,Boosts the Pokémon's Speed stat in a hailstorm.,Sheer Force,Removes added effects to increase move damage.
+976,Veluza,Mold Breaker,Moves can be used regardless of Abilities.,,,Sharpness,Powers up slicing moves.
+977,Dondozo,Unaware,Ignores any stat changes in the Pokémon.,Oblivious,Prevents it from becoming infatuated.,Water Veil,Prevents the Pokémon from getting a burn.
+978,Tatsugiri,Commander,Goes inside the mouth of an ally Dondozo if one is on the field.,,,Storm Drain,Draws in all Water-type moves to up Sp. Attack.
+979,Annihilape,Vital Spirit,Prevents the Pokémon from falling asleep.,Inner Focus,The Pokémon is protected from flinching.,Defiant,Sharply raises Attack when the Pokémon's stats are lowered.
+980,Clodsire,Poison Point,Contact with the Pokémon may poison the attacker.,Water Absorb,Restores HP if hit by a Water-type move.,Unaware,Ignores any stat changes in the Pokémon.
+981,Farigiraf,Cud Chew,Can eat the same Berry twice.,Armor Tail,Prevents opponent using priority moves.,Sap Sipper,Boosts Attack when hit by a Grass-type move.
+982,Dudunsparce,Serene Grace,Boosts the likelihood of added effects appearing.,Run Away,Enables a sure getaway from wild Pokémon.,Rattled,"Bug, Ghost or Dark type moves scare it and boost its Speed."
+983,Kingambit,Defiant,Sharply raises Attack when the Pokémon's stats are lowered.,Supreme Overlord,Attack and Special Attack are boosted for each party Pokémon that has been defeated.,Pressure,The Pokémon raises the foe's PP usage.
+984,Great Tusk,Protosynthesis,"Raises highest stat in harsh sunlight, or if holding Booster Energy.",,,,
+985,Scream Tail,Protosynthesis,"Raises highest stat in harsh sunlight, or if holding Booster Energy.",,,,
+986,Brute Bonnet,Protosynthesis,"Raises highest stat in harsh sunlight, or if holding Booster Energy.",,,,
+987,Flutter Mane,Protosynthesis,"Raises highest stat in harsh sunlight, or if holding Booster Energy.",,,,
+988,Slither Wing,Protosynthesis,"Raises highest stat in harsh sunlight, or if holding Booster Energy.",,,,
+989,Sandy Shocks,Protosynthesis,"Raises highest stat in harsh sunlight, or if holding Booster Energy.",,,,
+990,Iron Treads,Quark Drive,"Raises highest stat on Electric Terrain, or if holding Booster Energy.",,,,
+991,Iron Bundle,Quark Drive,"Raises highest stat on Electric Terrain, or if holding Booster Energy.",,,,
+992,Iron Hands,Quark Drive,"Raises highest stat on Electric Terrain, or if holding Booster Energy.",,,,
+993,Iron Jugulis,Quark Drive,"Raises highest stat on Electric Terrain, or if holding Booster Energy.",,,,
+994,Iron Moth,Quark Drive,"Raises highest stat on Electric Terrain, or if holding Booster Energy.",,,,
+995,Iron Thorns,Quark Drive,"Raises highest stat on Electric Terrain, or if holding Booster Energy.",,,,
+996,Frigibax,Thermal Exchange,Raises Attack when hit by a Fire-type move. Cannot be burned.,,,Ice Body,The Pokémon gradually regains HP in a hailstorm.
+997,Arctibax,Thermal Exchange,Raises Attack when hit by a Fire-type move. Cannot be burned.,,,Ice Body,The Pokémon gradually regains HP in a hailstorm.
+998,Baxcalibur,Thermal Exchange,Raises Attack when hit by a Fire-type move. Cannot be burned.,,,Ice Body,The Pokémon gradually regains HP in a hailstorm.
+999,Gimmighoul,Rattled,"Bug, Ghost or Dark type moves scare it and boost its Speed.",,,,
+1000,Gholdengo,Good as Gold,Gives immunity to status moves.,,,,
+1001,Wo-Chien,Tablets of Ruin,Lowers Attack of all Pokémon except itself.,,,,
+1002,Chien-Pao,Sword of Ruin,Lowers Defense of all Pokémon except itself.,,,,
+1003,Ting-Lu,Vessel of Ruin,Lowers Special Attack of all Pokémon except itself.,,,,
+1004,Chi-Yu,Beads of Ruin,Lowers Special Defense of all Pokémon except itself.,,,,
+1005,Roaring Moon,Protosynthesis,"Raises highest stat in harsh sunlight, or if holding Booster Energy.",,,,
+1006,Iron Valiant,Quark Drive,"Raises highest stat on Electric Terrain, or if holding Booster Energy.",,,,
+1007,Koraidon,Orichalcum Pulse,"Turns the sunlight harsh when entering battle, and boosts Attack while active.",,,,
+1008,Miraidon,Hadron Engine,"Creates an Electric Terrain when entering battle, and boosts Special Attack while active.",,,,
