@@ -177,12 +177,11 @@ right = ['1', '0.5', '0.25']
             
      - B1: Trước tiên tạo database mới với tên, đặc tính, đặc tính ẩn Pokemon từ database cũ.
      - B2: Tạo 3 list là abi_des, ex_abi_des và hid_abi_des.
-     - B3: Vì đặc tính 'Sharpness' vẫn chưa cập nhập mô tả trên "https://pokemondb.net/ability". Chúng ta sẽ cập nhập thủ công cho đặc tính này.
-     - B4: Chạy vòng lặp từ 1 đến n+1 ứng với id từ 1 -> 905  (n = 905)
-     - B5: Tạo các biến tạm để lưu giữ các Ability theo id
-     - B6: abilities[temp] trả về mô tả ngắn gọn Ability tương ứng của Pokemon đó, tương tự như temp2 và temp3 với Extra Abiltiy và Hidden Ability.
-     - B7: Tạo thêm 3 cột để chứa dữ liệu của 3 list.
-     - B8: In csdl ra màn hình để kiểm tra.
+     - B3: Chạy vòng lặp từ 1 đến n+1 ứng với id từ 1 -> 1009  (n = 1008)
+     - B4: Tạo các biến tạm để lưu giữ các Ability theo id
+     - B5: abilities[temp] trả về mô tả ngắn gọn Ability tương ứng của Pokemon đó, tương tự như temp2 và temp3 với EA và HA.
+     - B6: Tạo thêm 3 cột để chứa dữ liệu của 3 list.
+     - B7: In csdl ra màn hình để kiểm tra.
 ```
 # Tạo csdl chứa tên và đặc tính tương ứng của từng Pokemon
 abilities_info = pokedex[['Name', 'Ability', 'Hidden Ability']]     # B1
