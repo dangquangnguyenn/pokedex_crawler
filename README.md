@@ -206,7 +206,7 @@ abilities_info.to_csv('abilities_description.csv', encoding='utf-8', index = Tru
 ### 5. Pokemon Á Thần, Huyền Bí và Huyền Thoại gồm những Pokemon nào?
 ### 6. So sánh chỉ số tổng quát của các Pokemon starter qua từng thời kỳ (gen 1 -> gen 9?
 ### 7. Các song hệ nào xuất hiện nhiều nhất?
-
+### 8. Các Pokemon mạnh nhất phân bố theo hệ như thế nào?
 
 
 
