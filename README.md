@@ -6,14 +6,23 @@
 - bs4 (Beautiful Soup): Một thư viện Python dùng để phân tích các tài liệu HTML và XML. Nó tạo ra một cây phân tích cú pháp cho các trang được phân tích cú pháp có thể được sử dụng để trích xuất dữ liệu từ HTML, rất hữu ích cho web scrapping.
 - requests: Cho phép gửi các yêu cầu HTTP bằng Python.
 ```
-!pip install bs4
-!pip install requests
+%pip install bs4
+%pip install requests
+%pip install plotly
 ```
 import thêm một số thư viện:
 ```
 import bs4
 import requests
 import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import numpy as np
+
+# plotly packages
+import plotly.express as px
+import plotly.graph_objects as go
+from plotly.subplots import make_subplots
 ```
 
 # Thu thập và xử lý dữ liệu
@@ -190,8 +199,14 @@ pokedex.to_csv('pokemon_db.csv', encoding='utf-8', index = True)
 type_defenses.to_csv('type_defenses.csv', encoding='utf-8', index = True)
 abilities_info.to_csv('abilities_description.csv', encoding='utf-8', index = True)
 ```
-
-
+# Q & A
+### 1. Các Pokemon phân bố theo hệ như thế nào?
+### 2. Pokemon mang hệ nào là tốt nhất?
+### 3. Cân nặng có liên quan gì đến khả năng chịu đòn của Pokemon hay không?
+### 4. Nếu dựa trên tương khắc hệ có thể suy ra được hệ tốt nhất cho một Pokemon. Vậy dựa trên chỉ số sức mạnh thì các hệ nào sẽ đứng top? 
+### 5. Pokemon Á Thần, Huyền Bí và Huyền Thoại gồm những Pokemon nào?
+### 6. So sánh chỉ số tổng quát của các Pokemon starter qua từng thời kỳ (gen 1 -> gen 9?
+### 7. Các song hệ nào xuất hiện nhiều nhất?
 
 
 
