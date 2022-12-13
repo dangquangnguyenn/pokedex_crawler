@@ -4,7 +4,7 @@
 3,Venusaur,Grass,Poison,Seed Pokémon,2.0m (6′07″),100.0kg (220.5lbs),Overgrow,,Chlorophyll,"45 (5.9% with PokéBall, full HP)",50 (normal),236,Medium Slow,"87.5% male, 12.5% female",80,82,83,100,100,80,525
 4,Charmander,Fire,,Lizard Pokémon,0.6m (2′00″),8.5kg (18.7lbs),Blaze,,Solar Power,"45 (5.9% with PokéBall, full HP)",50 (normal),62,Medium Slow,"87.5% male, 12.5% female",39,52,43,60,50,65,309
 5,Charmeleon,Fire,,Flame Pokémon,1.1m (3′07″),19.0kg (41.9lbs),Blaze,,Solar Power,"45 (5.9% with PokéBall, full HP)",50 (normal),142,Medium Slow,"87.5% male, 12.5% female",58,64,58,80,65,80,405
-6,Charizard,Fire,Flying,Flame Pokémon,1.7m (5′07″),90.5kg (199.5lbs),Blaze,,Solar Power,"45 (5.9% with PokéBall, full HP)",50 (normal),240,Medium Slow,"87.5% male, 12.5% female",78,84,78,109,85,100,534
+6,Charizard,Fire,Flying,Flame Pokémon,1.7m (5′07″),90.5kg (199.5lbs),Blaze,,Solar Power,"45 (5.9% with PokéBall, full HP)",50 (normal),267,Medium Slow,"87.5% male, 12.5% female",78,84,78,109,85,100,534
 7,Squirtle,Water,,Tiny Turtle Pokémon,0.5m (1′08″),9.0kg (19.8lbs),Torrent,,Rain Dish,"45 (5.9% with PokéBall, full HP)",50 (normal),63,Medium Slow,"87.5% male, 12.5% female",44,48,65,50,64,43,314
 8,Wartortle,Water,,Turtle Pokémon,1.0m (3′03″),22.5kg (49.6lbs),Torrent,,Rain Dish,"45 (5.9% with PokéBall, full HP)",50 (normal),142,Medium Slow,"87.5% male, 12.5% female",59,63,80,65,80,58,405
 9,Blastoise,Water,,Shellfish Pokémon,1.6m (5′03″),85.5kg (188.5lbs),Torrent,,Rain Dish,"45 (5.9% with PokéBall, full HP)",50 (normal),239,Medium Slow,"87.5% male, 12.5% female",79,83,100,85,105,78,530
@@ -24,7 +24,7 @@
 23,Ekans,Poison,,Snake Pokémon,2.0m (6′07″),6.9kg (15.2lbs),Intimidate,Shed Skin,Unnerve,"255 (33.3% with PokéBall, full HP)",50 (normal),58,Medium Fast,"50% male, 50% female",35,60,44,40,54,55,288
 24,Arbok,Poison,,Cobra Pokémon,3.5m (11′06″),65.0kg (143.3lbs),Intimidate,Shed Skin,Unnerve,"90 (11.8% with PokéBall, full HP)",50 (normal),157,Medium Fast,"50% male, 50% female",60,95,69,65,79,80,448
 25,Pikachu,Electric,,Mouse Pokémon,0.4m (1′04″),6.0kg (13.2lbs),Static,,Lightning Rod,"190 (24.8% with PokéBall, full HP)",50 (normal),112,Medium Fast,"50% male, 50% female",35,55,40,50,50,90,320
-26,Raichu,Electric,,Mouse Pokémon,0.8m (2′07″),30.0kg (66.1lbs),Static,,Lightning Rod,"75 (9.8% with PokéBall, full HP)",50 (normal),218,Medium Fast,"50% male, 50% female",60,90,55,90,80,110,485
+26,Raichu,Electric,,Mouse Pokémon,0.8m (2′07″),30.0kg (66.1lbs),Static,,Lightning Rod,"75 (9.8% with PokéBall, full HP)",50 (normal),243,Medium Fast,"50% male, 50% female",60,90,55,90,80,110,485
 27,Sandshrew,Ground,,Mouse Pokémon,0.6m (2′00″),12.0kg (26.5lbs),Sand Veil,,Sand Rush,"255 (33.3% with PokéBall, full HP)",50 (normal),60,Medium Fast,"50% male, 50% female",50,75,85,20,30,40,300
 28,Sandslash,Ground,,Mouse Pokémon,1.0m (3′03″),29.5kg (65.0lbs),Sand Veil,,Sand Rush,"90 (11.8% with PokéBall, full HP)",50 (normal),158,Medium Fast,"50% male, 50% female",75,100,110,45,55,65,450
 29,Nidoran♀ (female),Poison,,Poison Pin Pokémon,0.4m (1′04″),7.0kg (15.4lbs),Poison Point,Rivalry,Hustle,"235 (30.7% with PokéBall, full HP)",50 (normal),55,Medium Slow,"0% male, 100% female",55,47,52,40,40,41,275
@@ -38,7 +38,7 @@
 37,Vulpix,Fire,,Fox Pokémon,0.6m (2′00″),9.9kg (21.8lbs),Flash Fire,,Drought,"190 (24.8% with PokéBall, full HP)",50 (normal),60,Medium Fast,"25% male, 75% female",38,41,40,50,65,65,299
 38,Ninetales,Fire,,Fox Pokémon,1.1m (3′07″),19.9kg (43.9lbs),Flash Fire,,Drought,"75 (9.8% with PokéBall, full HP)",50 (normal),177,Medium Fast,"25% male, 75% female",73,76,75,81,100,100,505
 39,Jigglypuff,Normal,Fairy,Balloon Pokémon,0.5m (1′08″),5.5kg (12.1lbs),Cute Charm,Competitive,Friend Guard,"170 (22.2% with PokéBall, full HP)",50 (normal),95,Fast,"25% male, 75% female",115,45,20,45,25,20,270
-40,Wigglytuff,Normal,Fairy,Balloon Pokémon,1.0m (3′03″),12.0kg (26.5lbs),Cute Charm,Competitive,Frisk,"50 (6.5% with PokéBall, full HP)",50 (normal),196,Fast,"25% male, 75% female",140,70,45,85,50,45,435
+40,Wigglytuff,Normal,Fairy,Balloon Pokémon,1.0m (3′03″),12.0kg (26.5lbs),Cute Charm,Competitive,Frisk,"50 (6.5% with PokéBall, full HP)",50 (normal),218,Fast,"25% male, 75% female",140,70,45,85,50,45,435
 41,Zubat,Poison,Flying,Bat Pokémon,0.8m (2′07″),7.5kg (16.5lbs),Inner Focus,,Infiltrator,"255 (33.3% with PokéBall, full HP)",50 (normal),49,Medium Fast,"50% male, 50% female",40,45,35,30,40,55,245
 42,Golbat,Poison,Flying,Bat Pokémon,1.6m (5′03″),55.0kg (121.3lbs),Inner Focus,,Infiltrator,"90 (11.8% with PokéBall, full HP)",50 (normal),159,Medium Fast,"50% male, 50% female",75,80,70,65,75,90,455
 43,Oddish,Grass,Poison,Weed Pokémon,0.5m (1′08″),5.4kg (11.9lbs),Chlorophyll,,Run Away,"255 (33.3% with PokéBall, full HP)",50 (normal),64,Medium Slow,"50% male, 50% female",45,50,55,75,65,30,320
@@ -92,7 +92,7 @@
 91,Cloyster,Water,Ice,Bivalve Pokémon,1.5m (4′11″),132.5kg (292.1lbs),Shell Armor,Skill Link,Overcoat,"60 (7.8% with PokéBall, full HP)",50 (normal),184,Slow,"50% male, 50% female",50,95,180,85,45,70,525
 92,Gastly,Ghost,Poison,Gas Pokémon,1.3m (4′03″),0.1kg (0.2lbs),Levitate,,,"190 (24.8% with PokéBall, full HP)",50 (normal),62,Medium Slow,"50% male, 50% female",30,35,30,100,35,80,310
 93,Haunter,Ghost,Poison,Gas Pokémon,1.6m (5′03″),0.1kg (0.2lbs),Levitate,,,"90 (11.8% with PokéBall, full HP)",50 (normal),142,Medium Slow,"50% male, 50% female",45,50,45,115,55,95,405
-94,Gengar,Ghost,Poison,Shadow Pokémon,1.5m (4′11″),40.5kg (89.3lbs),Cursed Body,,,"45 (5.9% with PokéBall, full HP)",50 (normal),225,Medium Slow,"50% male, 50% female",60,65,60,130,75,110,500
+94,Gengar,Ghost,Poison,Shadow Pokémon,1.5m (4′11″),40.5kg (89.3lbs),Cursed Body,,,"45 (5.9% with PokéBall, full HP)",50 (normal),250,Medium Slow,"50% male, 50% female",60,65,60,130,75,110,500
 95,Onix,Rock,Ground,Rock Snake Pokémon,8.8m (28′10″),210.0kg (463.0lbs),Rock Head,Sturdy,Weak Armor,"45 (5.9% with PokéBall, full HP)",50 (normal),77,Medium Fast,"50% male, 50% female",35,45,160,30,45,70,385
 96,Drowzee,Psychic,,Hypnosis Pokémon,1.0m (3′03″),32.4kg (71.4lbs),Insomnia,Forewarn,Inner Focus,"190 (24.8% with PokéBall, full HP)",50 (normal),66,Medium Fast,"50% male, 50% female",60,48,45,43,90,42,328
 97,Hypno,Psychic,,Hypnosis Pokémon,1.6m (5′03″),75.6kg (166.7lbs),Insomnia,Forewarn,Inner Focus,"75 (9.8% with PokéBall, full HP)",50 (normal),169,Medium Fast,"50% male, 50% female",85,73,70,73,115,67,483
@@ -142,20 +142,20 @@
 141,Kabutops,Rock,Water,Shellfish Pokémon,1.3m (4′03″),40.5kg (89.3lbs),Swift Swim,Battle Armor,Weak Armor,"45 (5.9% with PokéBall, full HP)",50 (normal),173,Medium Fast,"87.5% male, 12.5% female",60,115,105,65,70,80,495
 142,Aerodactyl,Rock,Flying,Fossil Pokémon,1.8m (5′11″),59.0kg (130.1lbs),Rock Head,Pressure,Unnerve,"45 (5.9% with PokéBall, full HP)",50 (normal),180,Slow,"87.5% male, 12.5% female",80,105,65,60,75,130,515
 143,Snorlax,Normal,,Sleeping Pokémon,2.1m (6′11″),460.0kg (1014.1lbs),Immunity,Thick Fat,Gluttony,"25 (3.3% with PokéBall, full HP)",50 (normal),189,Slow,"87.5% male, 12.5% female",160,110,65,65,110,30,540
-144,Articuno,Ice,Flying,Freeze Pokémon,1.7m (5′07″),55.4kg (122.1lbs),Pressure,,Snow Cloak,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),261,Slow,Genderless,90,85,100,95,125,85,580
-145,Zapdos,Electric,Flying,Electric Pokémon,1.6m (5′03″),52.6kg (116.0lbs),Pressure,,Static,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),261,Slow,Genderless,90,90,85,125,90,100,580
-146,Moltres,Fire,Flying,Flame Pokémon,2.0m (6′07″),60.0kg (132.3lbs),Pressure,,Flame Body,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),261,Slow,Genderless,90,100,90,125,85,90,580
+144,Articuno,Ice,Flying,Freeze Pokémon,1.7m (5′07″),55.4kg (122.1lbs),Pressure,,Snow Cloak,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),290,Slow,Genderless,90,85,100,95,125,85,580
+145,Zapdos,Electric,Flying,Electric Pokémon,1.6m (5′03″),52.6kg (116.0lbs),Pressure,,Static,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),290,Slow,Genderless,90,90,85,125,90,100,580
+146,Moltres,Fire,Flying,Flame Pokémon,2.0m (6′07″),60.0kg (132.3lbs),Pressure,,Flame Body,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),290,Slow,Genderless,90,100,90,125,85,90,580
 147,Dratini,Dragon,,Dragon Pokémon,1.8m (5′11″),3.3kg (7.3lbs),Shed Skin,,Marvel Scale,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),60,Slow,"50% male, 50% female",41,64,45,50,50,50,300
 148,Dragonair,Dragon,,Dragon Pokémon,4.0m (13′01″),16.5kg (36.4lbs),Shed Skin,,Marvel Scale,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),147,Slow,"50% male, 50% female",61,84,65,70,70,70,420
-149,Dragonite,Dragon,Flying,Dragon Pokémon,2.2m (7′03″),210.0kg (463.0lbs),Inner Focus,,Multiscale,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),270,Slow,"50% male, 50% female",91,134,95,100,100,80,600
-150,Mewtwo,Psychic,,Genetic Pokémon,2.0m (6′07″),122.0kg (269.0lbs),Pressure,,Unnerve,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),306,Slow,Genderless,106,110,90,154,90,130,680
-151,Mew,Psychic,,New Species Pokémon,0.4m (1′04″),4.0kg (8.8lbs),Synchronize,,,"45 (5.9% with PokéBall, full HP)",100 (higher than normal),270,Medium Slow,Genderless,100,100,100,100,100,100,600
+149,Dragonite,Dragon,Flying,Dragon Pokémon,2.2m (7′03″),210.0kg (463.0lbs),Inner Focus,,Multiscale,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),300,Slow,"50% male, 50% female",91,134,95,100,100,80,600
+150,Mewtwo,Psychic,,Genetic Pokémon,2.0m (6′07″),122.0kg (269.0lbs),Pressure,,Unnerve,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),340,Slow,Genderless,106,110,90,154,90,130,680
+151,Mew,Psychic,,New Species Pokémon,0.4m (1′04″),4.0kg (8.8lbs),Synchronize,,,"45 (5.9% with PokéBall, full HP)",100 (higher than normal),300,Medium Slow,Genderless,100,100,100,100,100,100,600
 152,Chikorita,Grass,,Leaf Pokémon,0.9m (2′11″),6.4kg (14.1lbs),Overgrow,,Leaf Guard,"45 (5.9% with PokéBall, full HP)",50 (normal),64,Medium Slow,"87.5% male, 12.5% female",45,49,65,49,65,45,318
 153,Bayleef,Grass,,Leaf Pokémon,1.2m (3′11″),15.8kg (34.8lbs),Overgrow,,Leaf Guard,"45 (5.9% with PokéBall, full HP)",50 (normal),142,Medium Slow,"87.5% male, 12.5% female",60,62,80,63,80,60,405
 154,Meganium,Grass,,Herb Pokémon,1.8m (5′11″),100.5kg (221.6lbs),Overgrow,,Leaf Guard,"45 (5.9% with PokéBall, full HP)",50 (normal),236,Medium Slow,"87.5% male, 12.5% female",80,82,100,83,100,80,525
 155,Cyndaquil,Fire,,Fire Mouse Pokémon,0.5m (1′08″),7.9kg (17.4lbs),Blaze,,Flash Fire,"45 (5.9% with PokéBall, full HP)",50 (normal),62,Medium Slow,"87.5% male, 12.5% female",39,52,43,60,50,65,309
 156,Quilava,Fire,,Volcano Pokémon,0.9m (2′11″),19.0kg (41.9lbs),Blaze,,Flash Fire,"45 (5.9% with PokéBall, full HP)",50 (normal),142,Medium Slow,"87.5% male, 12.5% female",58,64,58,80,65,80,405
-157,Typhlosion,Fire,,Volcano Pokémon,1.7m (5′07″),79.5kg (175.3lbs),Blaze,,Flash Fire,"45 (5.9% with PokéBall, full HP)",50 (normal),240,Medium Slow,"87.5% male, 12.5% female",78,84,78,109,85,100,534
+157,Typhlosion,Fire,,Volcano Pokémon,1.7m (5′07″),79.5kg (175.3lbs),Blaze,,Flash Fire,"45 (5.9% with PokéBall, full HP)",50 (normal),267,Medium Slow,"87.5% male, 12.5% female",78,84,78,109,85,100,534
 158,Totodile,Water,,Big Jaw Pokémon,0.6m (2′00″),9.5kg (20.9lbs),Torrent,,Sheer Force,"45 (5.9% with PokéBall, full HP)",50 (normal),63,Medium Slow,"87.5% male, 12.5% female",50,65,64,44,48,43,314
 159,Croconaw,Water,,Big Jaw Pokémon,1.1m (3′07″),25.0kg (55.1lbs),Torrent,,Sheer Force,"45 (5.9% with PokéBall, full HP)",50 (normal),142,Medium Slow,"87.5% male, 12.5% female",65,80,80,59,63,58,405
 160,Feraligatr,Water,,Big Jaw Pokémon,2.3m (7′07″),88.8kg (195.8lbs),Torrent,,Sheer Force,"45 (5.9% with PokéBall, full HP)",50 (normal),239,Medium Slow,"87.5% male, 12.5% female",85,105,100,79,83,78,530
@@ -179,15 +179,15 @@
 178,Xatu,Psychic,Flying,Mystic Pokémon,1.5m (4′11″),15.0kg (33.1lbs),Synchronize,Early Bird,Magic Bounce,"75 (9.8% with PokéBall, full HP)",50 (normal),165,Medium Fast,"50% male, 50% female",65,75,70,95,70,95,470
 179,Mareep,Electric,,Wool Pokémon,0.6m (2′00″),7.8kg (17.2lbs),Static,,Plus,"235 (30.7% with PokéBall, full HP)",50 (normal),56,Medium Slow,"50% male, 50% female",55,40,40,65,45,35,280
 180,Flaaffy,Electric,,Wool Pokémon,0.8m (2′07″),13.3kg (29.3lbs),Static,,Plus,"120 (15.7% with PokéBall, full HP)",50 (normal),128,Medium Slow,"50% male, 50% female",70,55,55,80,60,45,365
-181,Ampharos,Electric,,Light Pokémon,1.4m (4′07″),61.5kg (135.6lbs),Static,,Plus,"45 (5.9% with PokéBall, full HP)",50 (normal),230,Medium Slow,"50% male, 50% female",90,75,85,115,90,55,510
+181,Ampharos,Electric,,Light Pokémon,1.4m (4′07″),61.5kg (135.6lbs),Static,,Plus,"45 (5.9% with PokéBall, full HP)",50 (normal),255,Medium Slow,"50% male, 50% female",90,75,85,115,90,55,510
 182,Bellossom,Grass,,Flower Pokémon,0.4m (1′04″),5.8kg (12.8lbs),Chlorophyll,,Healer,"45 (5.9% with PokéBall, full HP)",50 (normal),221,Medium Slow,"50% male, 50% female",75,80,95,90,100,50,490
 183,Marill,Water,Fairy,Aqua Mouse Pokémon,0.4m (1′04″),8.5kg (18.7lbs),Thick Fat,Huge Power,Sap Sipper,"190 (24.8% with PokéBall, full HP)",50 (normal),88,Fast,"50% male, 50% female",70,20,50,20,50,40,250
-184,Azumarill,Water,Fairy,Aqua Rabbit Pokémon,0.8m (2′07″),28.5kg (62.8lbs),Thick Fat,Huge Power,Sap Sipper,"75 (9.8% with PokéBall, full HP)",50 (normal),189,Fast,"50% male, 50% female",100,50,80,60,80,50,420
+184,Azumarill,Water,Fairy,Aqua Rabbit Pokémon,0.8m (2′07″),28.5kg (62.8lbs),Thick Fat,Huge Power,Sap Sipper,"75 (9.8% with PokéBall, full HP)",50 (normal),210,Fast,"50% male, 50% female",100,50,80,60,80,50,420
 185,Sudowoodo,Rock,,Imitation Pokémon,1.2m (3′11″),38.0kg (83.8lbs),Sturdy,Rock Head,Rattled,"65 (8.5% with PokéBall, full HP)",50 (normal),144,Medium Fast,"50% male, 50% female",70,100,115,30,65,30,410
 186,Politoed,Water,,Frog Pokémon,1.1m (3′07″),33.9kg (74.7lbs),Water Absorb,Damp,Drizzle,"45 (5.9% with PokéBall, full HP)",50 (normal),225,Medium Slow,"50% male, 50% female",90,75,75,90,100,70,500
 187,Hoppip,Grass,Flying,Cottonweed Pokémon,0.4m (1′04″),0.5kg (1.1lbs),Chlorophyll,Leaf Guard,Infiltrator,"255 (33.3% with PokéBall, full HP)",50 (normal),50,Medium Slow,"50% male, 50% female",35,35,40,35,55,50,250
 188,Skiploom,Grass,Flying,Cottonweed Pokémon,0.6m (2′00″),1.0kg (2.2lbs),Chlorophyll,Leaf Guard,Infiltrator,"120 (15.7% with PokéBall, full HP)",50 (normal),119,Medium Slow,"50% male, 50% female",55,45,50,45,65,80,340
-189,Jumpluff,Grass,Flying,Cottonweed Pokémon,0.8m (2′07″),3.0kg (6.6lbs),Chlorophyll,Leaf Guard,Infiltrator,"45 (5.9% with PokéBall, full HP)",50 (normal),207,Medium Slow,"50% male, 50% female",75,55,70,55,95,110,460
+189,Jumpluff,Grass,Flying,Cottonweed Pokémon,0.8m (2′07″),3.0kg (6.6lbs),Chlorophyll,Leaf Guard,Infiltrator,"45 (5.9% with PokéBall, full HP)",50 (normal),230,Medium Slow,"50% male, 50% female",75,55,70,55,95,110,460
 190,Aipom,Normal,,Long Tail Pokémon,0.8m (2′07″),11.5kg (25.4lbs),Run Away,Pickup,Skill Link,"45 (5.9% with PokéBall, full HP)",50 (normal),72,Fast,"50% male, 50% female",55,70,55,40,55,85,360
 191,Sunkern,Grass,,Seed Pokémon,0.3m (1′00″),1.8kg (4.0lbs),Chlorophyll,Solar Power,Early Bird,"235 (30.7% with PokéBall, full HP)",50 (normal),36,Medium Slow,"50% male, 50% female",30,30,30,30,30,30,180
 192,Sunflora,Grass,,Sun Pokémon,0.8m (2′07″),8.5kg (18.7lbs),Chlorophyll,Solar Power,Early Bird,"120 (15.7% with PokéBall, full HP)",50 (normal),149,Medium Slow,"50% male, 50% female",75,75,55,105,85,30,425
@@ -240,13 +240,13 @@
 239,Elekid,Electric,,Electric Pokémon,0.6m (2′00″),23.5kg (51.8lbs),Static,,Vital Spirit,"45 (5.9% with PokéBall, full HP)",50 (normal),72,Medium Fast,"75% male, 25% female",45,63,37,65,55,95,360
 240,Magby,Fire,,Live Coal Pokémon,0.7m (2′04″),21.4kg (47.2lbs),Flame Body,,Vital Spirit,"45 (5.9% with PokéBall, full HP)",50 (normal),73,Medium Fast,"75% male, 25% female",45,75,37,70,55,83,365
 241,Miltank,Normal,,Milk Cow Pokémon,1.2m (3′11″),75.5kg (166.4lbs),Thick Fat,Scrappy,Sap Sipper,"45 (5.9% with PokéBall, full HP)",50 (normal),172,Slow,"0% male, 100% female",95,80,105,40,70,100,490
-242,Blissey,Normal,,Happiness Pokémon,1.5m (4′11″),46.8kg (103.2lbs),Natural Cure,Serene Grace,Healer,"30 (3.9% with PokéBall, full HP)",140 (higher than normal),608,Fast,"0% male, 100% female",255,10,10,75,135,55,540
+242,Blissey,Normal,,Happiness Pokémon,1.5m (4′11″),46.8kg (103.2lbs),Natural Cure,Serene Grace,Healer,"30 (3.9% with PokéBall, full HP)",140 (higher than normal),635,Fast,"0% male, 100% female",255,10,10,75,135,55,540
 243,Raikou,Electric,,Thunder Pokémon,1.9m (6′03″),178.0kg (392.4lbs),Pressure,,Inner Focus,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),261,Slow,Genderless,90,85,75,115,100,115,580
 244,Entei,Fire,,Volcano Pokémon,2.1m (6′11″),198.0kg (436.5lbs),Pressure,,Inner Focus,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),261,Slow,Genderless,115,115,85,90,75,100,580
 245,Suicune,Water,,Aurora Pokémon,2.0m (6′07″),187.0kg (412.3lbs),Pressure,,Inner Focus,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),261,Slow,Genderless,100,75,115,90,115,85,580
 246,Larvitar,Rock,Ground,Rock Skin Pokémon,0.6m (2′00″),72.0kg (158.7lbs),Guts,,Sand Veil,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),60,Slow,"50% male, 50% female",50,64,50,45,50,41,300
 247,Pupitar,Rock,Ground,Hard Shell Pokémon,1.2m (3′11″),152.0kg (335.1lbs),Shed Skin,,,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),144,Slow,"50% male, 50% female",70,84,70,65,70,51,410
-248,Tyranitar,Rock,Dark,Armor Pokémon,2.0m (6′07″),202.0kg (445.3lbs),Sand Stream,,Unnerve,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),270,Slow,"50% male, 50% female",100,134,110,95,100,61,600
+248,Tyranitar,Rock,Dark,Armor Pokémon,2.0m (6′07″),202.0kg (445.3lbs),Sand Stream,,Unnerve,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),300,Slow,"50% male, 50% female",100,134,110,95,100,61,600
 249,Lugia,Psychic,Flying,Diving Pokémon,5.2m (17′01″),216.0kg (476.2lbs),Pressure,,Multiscale,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),306,Slow,Genderless,106,90,130,90,154,110,680
 250,Ho-oh,Fire,Flying,Rainbow Pokémon,3.8m (12′06″),199.0kg (438.7lbs),Pressure,,Regenerator,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),306,Slow,Genderless,106,130,90,110,154,90,680
 251,Celebi,Psychic,Grass,Time Travel Pokémon,0.6m (2′00″),5.0kg (11.0lbs),Natural Cure,,,"45 (5.9% with PokéBall, full HP)",100 (higher than normal),270,Medium Slow,Genderless,100,100,100,100,100,100,600
@@ -280,14 +280,14 @@
 279,Pelipper,Water,Flying,Water Bird Pokémon,1.2m (3′11″),28.0kg (61.7lbs),Keen Eye,Drizzle,Rain Dish,"45 (5.9% with PokéBall, full HP)",50 (normal),154,Medium Fast,"50% male, 50% female",60,50,100,95,70,65,440
 280,Ralts,Psychic,Fairy,Feeling Pokémon,0.4m (1′04″),6.6kg (14.6lbs),Synchronize,Trace,Telepathy,"235 (30.7% with PokéBall, full HP)",35 (lower than normal),40,Slow,"50% male, 50% female",28,25,25,45,35,40,198
 281,Kirlia,Psychic,Fairy,Emotion Pokémon,0.8m (2′07″),20.2kg (44.5lbs),Synchronize,Trace,Telepathy,"120 (15.7% with PokéBall, full HP)",35 (lower than normal),97,Slow,"50% male, 50% female",38,35,35,65,55,50,278
-282,Gardevoir,Psychic,Fairy,Embrace Pokémon,1.6m (5′03″),48.4kg (106.7lbs),Synchronize,Trace,Telepathy,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),233,Slow,"50% male, 50% female",68,65,65,125,115,80,518
+282,Gardevoir,Psychic,Fairy,Embrace Pokémon,1.6m (5′03″),48.4kg (106.7lbs),Synchronize,Trace,Telepathy,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),259,Slow,"50% male, 50% female",68,65,65,125,115,80,518
 283,Surskit,Bug,Water,Pond Skater Pokémon,0.5m (1′08″),1.7kg (3.7lbs),Swift Swim,,Rain Dish,"200 (26.1% with PokéBall, full HP)",50 (normal),54,Medium Fast,"50% male, 50% female",40,30,32,50,52,65,269
 284,Masquerain,Bug,Flying,Eyeball Pokémon,0.8m (2′07″),3.6kg (7.9lbs),Intimidate,,Unnerve,"75 (9.8% with PokéBall, full HP)",50 (normal),159,Medium Fast,"50% male, 50% female",70,60,62,100,82,80,454
 285,Shroomish,Grass,,Mushroom Pokémon,0.4m (1′04″),4.5kg (9.9lbs),Effect Spore,Poison Heal,Quick Feet,"255 (33.3% with PokéBall, full HP)",50 (normal),59,Fluctuating,"50% male, 50% female",60,40,60,40,60,35,295
 286,Breloom,Grass,Fighting,Mushroom Pokémon,1.2m (3′11″),39.2kg (86.4lbs),Effect Spore,Poison Heal,Technician,"90 (11.8% with PokéBall, full HP)",50 (normal),161,Fluctuating,"50% male, 50% female",60,130,80,60,60,70,460
 287,Slakoth,Normal,,Slacker Pokémon,0.8m (2′07″),24.0kg (52.9lbs),Truant,,,"255 (33.3% with PokéBall, full HP)",50 (normal),56,Slow,"50% male, 50% female",60,60,60,35,35,30,280
 288,Vigoroth,Normal,,Wild Monkey Pokémon,1.4m (4′07″),46.5kg (102.5lbs),Vital Spirit,,,"120 (15.7% with PokéBall, full HP)",50 (normal),154,Slow,"50% male, 50% female",80,80,80,55,55,90,440
-289,Slaking,Normal,,Lazy Pokémon,2.0m (6′07″),130.5kg (287.7lbs),Truant,,,"45 (5.9% with PokéBall, full HP)",50 (normal),252,Slow,"50% male, 50% female",150,160,100,95,65,100,670
+289,Slaking,Normal,,Lazy Pokémon,2.0m (6′07″),130.5kg (287.7lbs),Truant,,,"45 (5.9% with PokéBall, full HP)",50 (normal),285,Slow,"50% male, 50% female",150,160,100,95,65,100,670
 290,Nincada,Bug,Ground,Trainee Pokémon,0.5m (1′08″),5.5kg (12.1lbs),Compound Eyes,,Run Away,"255 (33.3% with PokéBall, full HP)",50 (normal),53,Erratic,"50% male, 50% female",31,45,90,30,30,40,266
 291,Ninjask,Bug,Flying,Ninja Pokémon,0.8m (2′07″),12.0kg (26.5lbs),Speed Boost,,Infiltrator,"120 (15.7% with PokéBall, full HP)",50 (normal),160,Erratic,"50% male, 50% female",61,90,45,50,50,160,456
 292,Shedinja,Bug,Ghost,Shed Pokémon,0.8m (2′07″),1.2kg (2.6lbs),Wonder Guard,,,"45 (5.9% with PokéBall, full HP)",50 (normal),83,Erratic,Genderless,1,90,45,30,30,40,236
@@ -371,7 +371,7 @@
 370,Luvdisc,Water,,Rendezvous Pokémon,0.6m (2′00″),8.7kg (19.2lbs),Swift Swim,,Hydration,"225 (29.4% with PokéBall, full HP)",50 (normal),116,Fast,"25% male, 75% female",43,30,55,40,65,97,330
 371,Bagon,Dragon,,Rock Head Pokémon,0.6m (2′00″),42.1kg (92.8lbs),Rock Head,,Sheer Force,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),60,Slow,"50% male, 50% female",45,75,60,40,30,50,300
 372,Shelgon,Dragon,,Endurance Pokémon,1.1m (3′07″),110.5kg (243.6lbs),Rock Head,,Overcoat,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),147,Slow,"50% male, 50% female",65,95,100,60,50,50,420
-373,Salamence,Dragon,Flying,Dragon Pokémon,1.5m (4′11″),102.6kg (226.2lbs),Intimidate,,Moxie,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),270,Slow,"50% male, 50% female",95,135,80,110,80,100,600
+373,Salamence,Dragon,Flying,Dragon Pokémon,1.5m (4′11″),102.6kg (226.2lbs),Intimidate,,Moxie,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),300,Slow,"50% male, 50% female",95,135,80,110,80,100,600
 374,Beldum,Steel,Psychic,Iron Ball Pokémon,0.6m (2′00″),95.2kg (209.9lbs),Clear Body,,Light Metal,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),60,Slow,Genderless,40,55,80,35,60,30,300
 375,Metang,Steel,Psychic,Iron Claw Pokémon,1.2m (3′11″),202.5kg (446.4lbs),Clear Body,,Light Metal,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),147,Slow,Genderless,60,75,100,55,80,50,420
 376,Metagross,Steel,Psychic,Iron Leg Pokémon,1.6m (5′03″),550.0kg (1212.5lbs),Clear Body,,Light Metal,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),270,Slow,Genderless,80,135,130,95,90,70,600
@@ -380,9 +380,9 @@
 379,Registeel,Steel,,Iron Pokémon,1.9m (6′03″),205.0kg (451.9lbs),Clear Body,,Light Metal,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),261,Slow,Genderless,80,75,150,75,150,50,580
 380,Latias,Dragon,Psychic,Eon Pokémon,1.4m (4′07″),40.0kg (88.2lbs),Levitate,,,"3 (0.4% with PokéBall, full HP)",90 (higher than normal),270,Slow,"0% male, 100% female",80,80,90,110,130,110,600
 381,Latios,Dragon,Psychic,Eon Pokémon,2.0m (6′07″),60.0kg (132.3lbs),Levitate,,,"3 (0.4% with PokéBall, full HP)",90 (higher than normal),270,Slow,"100% male, 0% female",80,90,80,130,110,110,600
-382,Kyogre,Water,,Sea Basin Pokémon,4.5m (14′09″),352.0kg (776.0lbs),Drizzle,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),302,Slow,Genderless,100,100,90,150,140,90,670
-383,Groudon,Ground,,Continent Pokémon,3.5m (11′06″),950.0kg (2094.4lbs),Drought,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),302,Slow,Genderless,100,150,140,100,90,90,670
-384,Rayquaza,Dragon,Flying,Sky High Pokémon,7.0m (23′00″),206.5kg (455.3lbs),Air Lock,,,"45 (5.9% with PokéBall, full HP)",0 (lower than normal),306,Slow,Genderless,105,150,90,150,90,95,680
+382,Kyogre,Water,,Sea Basin Pokémon,4.5m (14′09″),352.0kg (776.0lbs),Drizzle,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),335,Slow,Genderless,100,100,90,150,140,90,670
+383,Groudon,Ground,,Continent Pokémon,3.5m (11′06″),950.0kg (2094.4lbs),Drought,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),335,Slow,Genderless,100,150,140,100,90,90,670
+384,Rayquaza,Dragon,Flying,Sky High Pokémon,7.0m (23′00″),206.5kg (455.3lbs),Air Lock,,,"45 (5.9% with PokéBall, full HP)",0 (lower than normal),340,Slow,Genderless,105,150,90,150,90,95,680
 385,Jirachi,Steel,Psychic,Wish Pokémon,0.3m (1′00″),1.1kg (2.4lbs),Serene Grace,,,"3 (0.4% with PokéBall, full HP)",100 (higher than normal),270,Slow,Genderless,100,100,100,100,100,100,600
 386,Deoxys,Psychic,,DNA Pokémon,1.7m (5′07″),60.8kg (134.0lbs),Pressure,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),270,Slow,Genderless,50,150,50,150,50,150,600
 387,Turtwig,Grass,,Tiny Leaf Pokémon,0.4m (1′04″),10.2kg (22.5lbs),Overgrow,,Shell Armor,"45 (5.9% with PokéBall, full HP)",50 (normal),64,Medium Slow,"87.5% male, 12.5% female",55,68,64,45,55,31,318
@@ -396,14 +396,14 @@
 395,Empoleon,Water,Steel,Emperor Pokémon,1.7m (5′07″),84.5kg (186.3lbs),Torrent,,Defiant,"45 (5.9% with PokéBall, full HP)",50 (normal),239,Medium Slow,"87.5% male, 12.5% female",84,86,88,111,101,60,530
 396,Starly,Normal,Flying,Starling Pokémon,0.3m (1′00″),2.0kg (4.4lbs),Keen Eye,,Reckless,"255 (33.3% with PokéBall, full HP)",50 (normal),49,Medium Slow,"50% male, 50% female",40,55,30,30,30,60,245
 397,Staravia,Normal,Flying,Starling Pokémon,0.6m (2′00″),15.5kg (34.2lbs),Intimidate,,Reckless,"120 (15.7% with PokéBall, full HP)",50 (normal),119,Medium Slow,"50% male, 50% female",55,75,50,40,40,80,340
-398,Staraptor,Normal,Flying,Predator Pokémon,1.2m (3′11″),24.9kg (54.9lbs),Intimidate,,Reckless,"45 (5.9% with PokéBall, full HP)",50 (normal),218,Medium Slow,"50% male, 50% female",85,120,70,50,60,100,485
+398,Staraptor,Normal,Flying,Predator Pokémon,1.2m (3′11″),24.9kg (54.9lbs),Intimidate,,Reckless,"45 (5.9% with PokéBall, full HP)",50 (normal),243,Medium Slow,"50% male, 50% female",85,120,70,50,60,100,485
 399,Bidoof,Normal,,Plump Mouse Pokémon,0.5m (1′08″),20.0kg (44.1lbs),Simple,Unaware,Moody,"255 (33.3% with PokéBall, full HP)",50 (normal),50,Medium Fast,"50% male, 50% female",59,45,40,35,40,31,250
 400,Bibarel,Normal,Water,Beaver Pokémon,1.0m (3′03″),31.5kg (69.4lbs),Simple,Unaware,Moody,"127 (16.6% with PokéBall, full HP)",50 (normal),144,Medium Fast,"50% male, 50% female",79,85,60,55,60,71,410
 401,Kricketot,Bug,,Cricket Pokémon,0.3m (1′00″),2.2kg (4.9lbs),Shed Skin,,Run Away,"255 (33.3% with PokéBall, full HP)",50 (normal),39,Medium Slow,"50% male, 50% female",37,25,41,25,41,25,194
 402,Kricketune,Bug,,Cricket Pokémon,1.0m (3′03″),25.5kg (56.2lbs),Swarm,,Technician,"45 (5.9% with PokéBall, full HP)",50 (normal),134,Medium Slow,"50% male, 50% female",77,85,51,55,51,65,384
 403,Shinx,Electric,,Flash Pokémon,0.5m (1′08″),9.5kg (20.9lbs),Rivalry,Intimidate,Guts,"235 (30.7% with PokéBall, full HP)",50 (normal),53,Medium Slow,"50% male, 50% female",45,65,34,40,34,45,263
 404,Luxio,Electric,,Spark Pokémon,0.9m (2′11″),30.5kg (67.2lbs),Rivalry,Intimidate,Guts,"120 (15.7% with PokéBall, full HP)",100 (higher than normal),127,Medium Slow,"50% male, 50% female",60,85,49,60,49,60,363
-405,Luxray,Electric,,Gleam Eyes Pokémon,1.4m (4′07″),42.0kg (92.6lbs),Rivalry,Intimidate,Guts,"45 (5.9% with PokéBall, full HP)",50 (normal),235,Medium Slow,"50% male, 50% female",80,120,79,95,79,70,523
+405,Luxray,Electric,,Gleam Eyes Pokémon,1.4m (4′07″),42.0kg (92.6lbs),Rivalry,Intimidate,Guts,"45 (5.9% with PokéBall, full HP)",50 (normal),262,Medium Slow,"50% male, 50% female",80,120,79,95,79,70,523
 406,Budew,Grass,Poison,Bud Pokémon,0.2m (0′08″),1.2kg (2.6lbs),Natural Cure,Poison Point,Leaf Guard,"255 (33.3% with PokéBall, full HP)",50 (normal),56,Medium Slow,"50% male, 50% female",40,30,35,50,70,55,280
 407,Roserade,Grass,Poison,Bouquet Pokémon,0.9m (2′11″),14.5kg (32.0lbs),Natural Cure,Poison Point,Technician," 75 (9.8% with PokéBall, full HP)",50 (normal),232,Medium Slow,"50% male, 50% female",60,70,65,125,105,90,515
 408,Cranidos,Rock,,Head Butt Pokémon,0.9m (2′11″),31.5kg (69.4lbs),Mold Breaker,,Sheer Force,"45 (5.9% with PokéBall, full HP)",50 (normal),70,Erratic,"87.5% male, 12.5% female",67,125,40,30,30,58,350
@@ -443,7 +443,7 @@
 442,Spiritomb,Ghost,Dark,Forbidden Pokémon,1.0m (3′03″),108.0kg (238.1lbs),Pressure,,Infiltrator,"100 (13.1% with PokéBall, full HP)",50 (normal),170,Medium Fast,"50% male, 50% female",50,92,108,92,108,35,485
 443,Gible,Dragon,Ground,Land Shark Pokémon,0.7m (2′04″),20.5kg (45.2lbs),Sand Veil,,Rough Skin,"45 (5.9% with PokéBall, full HP)",50 (normal),60,Slow,"50% male, 50% female",58,70,45,40,45,42,300
 444,Gabite,Dragon,Ground,Cave Pokémon,1.4m (4′07″),56.0kg (123.5lbs),Sand Veil,,Rough Skin,"45 (5.9% with PokéBall, full HP)",50 (normal),144,Slow,"50% male, 50% female",68,90,65,50,55,82,410
-445,Garchomp,Dragon,Ground,Mach Pokémon,1.9m (6′03″),95.0kg (209.4lbs),Sand Veil,,Rough Skin,"45 (5.9% with PokéBall, full HP)",50 (normal),270,Slow,"50% male, 50% female",108,130,95,80,85,102,600
+445,Garchomp,Dragon,Ground,Mach Pokémon,1.9m (6′03″),95.0kg (209.4lbs),Sand Veil,,Rough Skin,"45 (5.9% with PokéBall, full HP)",50 (normal),300,Slow,"50% male, 50% female",108,130,95,80,85,102,600
 446,Munchlax,Normal,,Big Eater Pokémon,0.6m (2′00″),105.0kg (231.5lbs),Pickup,Thick Fat,Gluttony,"50 (6.5% with PokéBall, full HP)",50 (normal),78,Slow,"87.5% male, 12.5% female",135,85,40,40,85,5,390
 447,Riolu,Fighting,,Emanation Pokémon,0.7m (2′04″),20.2kg (44.5lbs),Steadfast,Inner Focus,Prankster,"75 (9.8% with PokéBall, full HP)",50 (normal),57,Medium Slow,"87.5% male, 12.5% female",40,70,40,35,40,60,285
 448,Lucario,Fighting,Steel,Aura Pokémon,1.2m (3′11″),54.0kg (119.0lbs),Steadfast,Inner Focus,Justified,"45 (5.9% with PokéBall, full HP)",50 (normal),184,Medium Slow,"87.5% male, 12.5% female",70,110,70,115,70,90,525
@@ -460,7 +460,7 @@
 459,Snover,Grass,Ice,Frost Tree Pokémon,1.0m (3′03″),50.5kg (111.3lbs),Snow Warning,,Soundproof,"120 (15.7% with PokéBall, full HP)",50 (normal),67,Slow,"50% male, 50% female",60,62,50,62,60,40,334
 460,Abomasnow,Grass,Ice,Frost Tree Pokémon,2.2m (7′03″),135.5kg (298.7lbs),Snow Warning,,Soundproof,"60 (7.8% with PokéBall, full HP)",50 (normal),173,Slow,"50% male, 50% female",90,92,75,92,85,60,494
 461,Weavile,Dark,Ice,Sharp Claw Pokémon,1.1m (3′07″),34.0kg (75.0lbs),Pressure,,Pickpocket,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),179,Medium Slow,"50% male, 50% female",70,120,65,45,85,125,510
-462,Magnezone,Electric,Steel,Magnet Area Pokémon,1.2m (3′11″),180.0kg (396.8lbs),Magnet Pull,Sturdy,Analytic,"30 (3.9% with PokéBall, full HP)",50 (normal),241,Medium Fast,Genderless,70,70,115,130,90,60,535
+462,Magnezone,Electric,Steel,Magnet Area Pokémon,1.2m (3′11″),180.0kg (396.8lbs),Magnet Pull,Sturdy,Analytic,"30 (3.9% with PokéBall, full HP)",50 (normal),268,Medium Fast,Genderless,70,70,115,130,90,60,535
 463,Lickilicky,Normal,,Licking Pokémon,1.7m (5′07″),140.0kg (308.6lbs),Own Tempo,Oblivious,Cloud Nine,"30 (3.9% with PokéBall, full HP)",50 (normal),180,Medium Fast,"50% male, 50% female",110,85,95,80,95,50,515
 464,Rhyperior,Ground,Rock,Drill Pokémon,2.4m (7′10″),282.8kg (623.5lbs),Lightning Rod,Solid Rock,Reckless,"30 (3.9% with PokéBall, full HP)",50 (normal),241,Slow,"50% male, 50% female",115,140,130,55,55,40,535
 465,Tangrowth,Grass,,Vine Pokémon,2.0m (6′07″),128.6kg (283.5lbs),Chlorophyll,Leaf Guard,Regenerator,"30 (3.9% with PokéBall, full HP)",50 (normal),187,Medium Fast,"50% male, 50% female",100,100,125,110,50,50,535
@@ -473,25 +473,25 @@
 472,Gliscor,Ground,Flying,Fang Scorp Pokémon,2.0m (6′07″),42.5kg (93.7lbs),Hyper Cutter,Sand Veil,Poison Heal,"30 (3.9% with PokéBall, full HP)",50 (normal),179,Medium Slow,"50% male, 50% female",75,95,125,45,75,95,510
 473,Mamoswine,Ice,Ground,Twin Tusk Pokémon,2.5m (8′02″),291.0kg (641.5lbs),Oblivious,Snow Cloak,Thick Fat,"50 (6.5% with PokéBall, full HP)",50 (normal),239,Slow,"50% male, 50% female",110,130,80,70,60,80,530
 474,Porygon-Z,Normal,,Virtual Pokémon,0.9m (2′11″),34.0kg (75.0lbs),Adaptability,Download,Analytic,"30 (3.9% with PokéBall, full HP)",50 (normal),241,Medium Fast,Genderless,85,80,70,135,75,90,535
-475,Gallade,Psychic,Fighting,Blade Pokémon,1.6m (5′03″),52.0kg (114.6lbs),Steadfast,Sharpness,Justified,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),233,Slow,"100% male, 0% female",68,125,65,65,115,80,518
+475,Gallade,Psychic,Fighting,Blade Pokémon,1.6m (5′03″),52.0kg (114.6lbs),Steadfast,Sharpness,Justified,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),259,Slow,"100% male, 0% female",68,125,65,65,115,80,518
 476,Probopass,Rock,Steel,Compass Pokémon,1.4m (4′07″),340.0kg (749.6lbs),Sturdy,Magnet Pull,Sand Force,"60 (7.8% with PokéBall, full HP)",50 (normal),184,Medium Fast,"50% male, 50% female",60,55,145,75,150,40,525
 477,Dusknoir,Ghost,,Gripper Pokémon,2.2m (7′03″),106.6kg (235.0lbs),Pressure,,Frisk,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),236,Fast,"50% male, 50% female",45,100,135,65,135,45,525
 478,Froslass,Ice,Ghost,Snow Land Pokémon,1.3m (4′03″),26.6kg (58.6lbs),Snow Cloak,,Cursed Body,"75 (9.8% with PokéBall, full HP)",50 (normal),168,Medium Fast,"0% male, 100% female",70,80,70,80,70,110,480
 479,Rotom,Electric,Ghost,Plasma Pokémon,0.3m (1′00″),0.3kg (0.7lbs),Levitate,,,"45 (5.9% with PokéBall, full HP)",50 (normal),154,Medium Fast,Genderless,50,50,77,95,77,91,440
-480,Uxie,Psychic,,Knowledge Pokémon,0.3m (1′00″),0.3kg (0.7lbs),Levitate,,,"3 (0.4% with PokéBall, full HP)",140 (higher than normal),261,Slow,Genderless,75,75,130,75,130,95,580
-481,Mesprit,Psychic,,Emotion Pokémon,0.3m (1′00″),0.3kg (0.7lbs),Levitate,,,"3 (0.4% with PokéBall, full HP)",140 (higher than normal),261,Slow,Genderless,80,105,105,105,105,80,580
-482,Azelf,Psychic,,Willpower Pokémon,0.3m (1′00″),0.3kg (0.7lbs),Levitate,,,"3 (0.4% with PokéBall, full HP)",140 (higher than normal),261,Slow,Genderless,75,125,70,125,70,115,580
-483,Dialga,Steel,Dragon,Temporal Pokémon,5.4m (17′09″),683.0kg (1505.8lbs),Pressure,,Telepathy,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),306,Slow,Genderless,100,120,120,150,100,90,680
-484,Palkia,Water,Dragon,Spatial Pokémon,4.2m (13′09″),336.0kg (740.8lbs),Pressure,,Telepathy,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),306,Slow,Genderless,90,120,100,150,120,100,680
-485,Heatran,Fire,Steel,Lava Dome Pokémon,1.7m (5′07″),430.0kg (948.0lbs),Flash Fire,,Flame Body,"3 (0.4% with PokéBall, full HP)",100 (higher than normal),270,Slow,"50% male, 50% female",91,90,106,130,106,77,600
+480,Uxie,Psychic,,Knowledge Pokémon,0.3m (1′00″),0.3kg (0.7lbs),Levitate,,,"3 (0.4% with PokéBall, full HP)",140 (higher than normal),290,Slow,Genderless,75,75,130,75,130,95,580
+481,Mesprit,Psychic,,Emotion Pokémon,0.3m (1′00″),0.3kg (0.7lbs),Levitate,,,"3 (0.4% with PokéBall, full HP)",140 (higher than normal),290,Slow,Genderless,80,105,105,105,105,80,580
+482,Azelf,Psychic,,Willpower Pokémon,0.3m (1′00″),0.3kg (0.7lbs),Levitate,,,"3 (0.4% with PokéBall, full HP)",140 (higher than normal),290,Slow,Genderless,75,125,70,125,70,115,580
+483,Dialga,Steel,Dragon,Temporal Pokémon,5.4m (17′09″),683.0kg (1505.8lbs),Pressure,,Telepathy,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),340,Slow,Genderless,100,120,120,150,100,90,680
+484,Palkia,Water,Dragon,Spatial Pokémon,4.2m (13′09″),336.0kg (740.8lbs),Pressure,,Telepathy,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),340,Slow,Genderless,90,120,100,150,120,100,680
+485,Heatran,Fire,Steel,Lava Dome Pokémon,1.7m (5′07″),430.0kg (948.0lbs),Flash Fire,,Flame Body,"3 (0.4% with PokéBall, full HP)",100 (higher than normal),300,Slow,"50% male, 50% female",91,90,106,130,106,77,600
 486,Regigigas,Normal,,Colossal Pokémon,3.7m (12′02″),420.0kg (925.9lbs),Slow Start,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),302,Slow,Genderless,110,160,110,80,110,100,670
-487,Giratina,Ghost,Dragon,Renegade Pokémon,4.5m (14′09″),750.0kg (1653.5lbs),Pressure,,Telepathy,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),306,Slow,Genderless,150,100,120,100,120,90,680
-488,Cresselia,Psychic,,Lunar Pokémon,1.5m (4′11″),85.6kg (188.7lbs),Levitate,,,"3 (0.4% with PokéBall, full HP)",100 (higher than normal),270,Slow,"0% male, 100% female",120,70,110,75,120,85,580
+487,Giratina,Ghost,Dragon,Renegade Pokémon,4.5m (14′09″),750.0kg (1653.5lbs),Pressure,,Telepathy,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),340,Slow,Genderless,150,100,120,100,120,90,680
+488,Cresselia,Psychic,,Lunar Pokémon,1.5m (4′11″),85.6kg (188.7lbs),Levitate,,,"3 (0.4% with PokéBall, full HP)",100 (higher than normal),290,Slow,"0% male, 100% female",120,70,110,75,120,85,580
 489,Phione,Water,,Sea Drifter Pokémon,0.4m (1′04″),3.1kg (6.8lbs),Hydration,,,"30 (3.9% with PokéBall, full HP)",50 (normal),216,Slow,Genderless,80,80,80,80,80,80,480
 490,Manaphy,Water,,Seafaring Pokémon,0.3m (1′00″),1.4kg (3.1lbs),Hydration,,,"3 (0.4% with PokéBall, full HP)",50 (normal),270,Slow,Genderless,100,100,100,100,100,100,600
 491,Darkrai,Dark,,Pitch-Black Pokémon,1.5m (4′11″),50.5kg (111.3lbs),Bad Dreams,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),270,Slow,Genderless,70,90,90,135,90,125,600
 492,Shaymin,Grass,,Gratitude Pokémon,0.2m (0′08″),2.1kg (4.6lbs),Natural Cure,,,"45 (5.9% with PokéBall, full HP)",100 (higher than normal),270,Medium Slow,Genderless,100,100,100,100,100,100,600
-493,Arceus,Normal,,Alpha Pokémon,3.2m (10′06″),320.0kg (705.5lbs),Multitype,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),324,Slow,Genderless,120,120,120,120,120,120,720
+493,Arceus,Normal,,Alpha Pokémon,3.2m (10′06″),320.0kg (705.5lbs),Multitype,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),360,Slow,Genderless,120,120,120,120,120,120,720
 494,Victini,Psychic,Fire,Victory Pokémon,0.4m (1′04″),4.0kg (8.8lbs),Victory Star,,,"3 (0.4% with PokéBall, full HP)",100 (higher than normal),270,Slow,Genderless,100,100,100,100,100,100,600
 495,Snivy,Grass,,Grass Snake Pokémon,0.6m (2′00″),8.1kg (17.9lbs),Overgrow,,Contrary,"45 (5.9% with PokéBall, full HP)",50 (normal),62,Medium Slow,"87.5% male, 12.5% female",45,45,55,45,55,63,308
 496,Servine,Grass,,Grass Snake Pokémon,0.8m (2′07″),16.0kg (35.3lbs),Overgrow,,Contrary,"45 (5.9% with PokéBall, full HP)",50 (normal),145,Medium Slow,"87.5% male, 12.5% female",60,60,75,60,75,83,413
@@ -501,7 +501,7 @@
 500,Emboar,Fire,Fighting,Mega Fire Pig Pokémon,1.6m (5′03″),150.0kg (330.7lbs),Blaze,,Reckless,"45 (5.9% with PokéBall, full HP)",50 (normal),238,Medium Slow,"87.5% male, 12.5% female",110,123,65,100,65,65,528
 501,Oshawott,Water,,Sea Otter Pokémon,0.5m (1′08″),5.9kg (13.0lbs),Torrent,,Shell Armor,"45 (5.9% with PokéBall, full HP)",50 (normal),62,Medium Slow,"87.5% male, 12.5% female",55,55,45,63,45,45,308
 502,Dewott,Water,,Discipline Pokémon,0.8m (2′07″),24.5kg (54.0lbs),Torrent,,Shell Armor,"45 (5.9% with PokéBall, full HP)",50 (normal),145,Medium Slow,"87.5% male, 12.5% female",75,75,60,83,60,60,413
-503,Samurott,Water,,Formidable Pokémon,1.5m (4′11″),94.6kg (208.6lbs),Torrent,,Shell Armor,"45 (5.9% with PokéBall, full HP)",50 (normal),238,Medium Slow,"87.5% male, 12.5% female",95,100,85,108,70,70,528
+503,Samurott,Water,,Formidable Pokémon,1.5m (4′11″),94.6kg (208.6lbs),Torrent,,Shell Armor,"45 (5.9% with PokéBall, full HP)",50 (normal),264,Medium Slow,"87.5% male, 12.5% female",95,100,85,108,70,70,528
 504,Patrat,Normal,,Scout Pokémon,0.5m (1′08″),11.6kg (25.6lbs),Run Away,Keen Eye,Analytic,"255 (33.3% with PokéBall, full HP)",50 (normal),51,Medium Fast,"50% male, 50% female",45,55,39,35,39,42,255
 505,Watchog,Normal,,Lookout Pokémon,1.1m (3′07″),27.0kg (59.5lbs),Illuminate,Keen Eye,Analytic,"255 (33.3% with PokéBall, full HP)",50 (normal),147,Medium Fast,"50% male, 50% female",60,85,69,60,69,77,420
 506,Lillipup,Normal,,Puppy Pokémon,0.4m (1′04″),4.1kg (9.0lbs),Vital Spirit,Pickup,Run Away,"255 (33.3% with PokéBall, full HP)",50 (normal),55,Medium Slow,"50% male, 50% female",45,60,45,25,45,55,275
@@ -551,7 +551,7 @@
 550,Basculin,Water,,Hostile Pokémon,1.0m (3′03″),18.0kg (39.7lbs),Reckless,Adaptability,Mold Breaker,"25 (3.3% with PokéBall, full HP)",50 (normal),161,Medium Fast,"50% male, 50% female",70,92,65,80,55,98,460
 551,Sandile,Ground,Dark,Desert Croc Pokémon,0.7m (2′04″),15.2kg (33.5lbs),Intimidate,Moxie,Anger Point,"180 (23.5% with PokéBall, full HP)",50 (normal),58,Medium Slow,"50% male, 50% female",50,72,35,35,35,65,292
 552,Krokorok,Ground,Dark,Desert Croc Pokémon,1.0m (3′03″),33.4kg (73.6lbs),Intimidate,Moxie,Anger Point,"90 (11.8% with PokéBall, full HP)",50 (normal),123,Medium Slow,"50% male, 50% female",60,82,45,45,45,74,351
-553,Krookodile,Ground,Dark,Intimidation Pokémon,1.5m (4′11″),96.3kg (212.3lbs),Intimidate,Moxie,Anger Point,"45 (5.9% with PokéBall, full HP)",50 (normal),234,Medium Slow,"50% male, 50% female",95,117,80,65,70,92,519
+553,Krookodile,Ground,Dark,Intimidation Pokémon,1.5m (4′11″),96.3kg (212.3lbs),Intimidate,Moxie,Anger Point,"45 (5.9% with PokéBall, full HP)",50 (normal),260,Medium Slow,"50% male, 50% female",95,117,80,65,70,92,519
 554,Darumaka,Fire,,Zen Charm Pokémon,0.6m (2′00″),37.5kg (82.7lbs),Hustle,,Inner Focus,"120 (15.7% with PokéBall, full HP)",50 (normal),63,Medium Slow,"50% male, 50% female",70,90,45,15,45,50,315
 555,Darmanitan,Fire,,Blazing Pokémon,1.3m (4′03″),92.9kg (204.8lbs),Sheer Force,,Zen Mode,"60 (7.8% with PokéBall, full HP)",50 (normal),168,Medium Slow,"50% male, 50% female",105,140,55,30,55,95,480
 556,Maractus,Grass,,Cactus Pokémon,1.0m (3′03″),28.0kg (61.7lbs),Water Absorb,Chlorophyll,Storm Drain,"255 (33.3% with PokéBall, full HP)",50 (normal),161,Medium Fast,"50% male, 50% female",75,86,67,106,67,60,461
@@ -574,7 +574,7 @@
 573,Cinccino,Normal,,Scarf Pokémon,0.5m (1′08″),7.5kg (16.5lbs),Cute Charm,Technician,Skill Link,"60 (7.8% with PokéBall, full HP)",50 (normal),165,Fast,"25% male, 75% female",75,95,60,65,60,115,470
 574,Gothita,Psychic,,Fixation Pokémon,0.4m (1′04″),5.8kg (12.8lbs),Frisk,Competitive,Shadow Tag,"200 (26.1% with PokéBall, full HP)",50 (normal),58,Medium Slow,"25% male, 75% female",45,30,50,55,65,45,290
 575,Gothorita,Psychic,,Manipulate Pokémon,0.7m (2′04″),18.0kg (39.7lbs),Frisk,Competitive,Shadow Tag,"100 (13.1% with PokéBall, full HP)",50 (normal),137,Medium Slow,"25% male, 75% female",60,45,70,75,85,55,390
-576,Gothitelle,Psychic,,Astral Body Pokémon,1.5m (4′11″),44.0kg (97.0lbs),Frisk,Competitive,Shadow Tag,"50 (6.5% with PokéBall, full HP)",50 (normal),221,Medium Slow,"25% male, 75% female",70,55,95,95,110,65,490
+576,Gothitelle,Psychic,,Astral Body Pokémon,1.5m (4′11″),44.0kg (97.0lbs),Frisk,Competitive,Shadow Tag,"50 (6.5% with PokéBall, full HP)",50 (normal),245,Medium Slow,"25% male, 75% female",70,55,95,95,110,65,490
 577,Solosis,Psychic,,Cell Pokémon,0.3m (1′00″),1.0kg (2.2lbs),Overcoat,Magic Guard,Regenerator,"200 (26.1% with PokéBall, full HP)",50 (normal),58,Medium Slow,"50% male, 50% female",45,30,40,105,50,20,290
 578,Duosion,Psychic,,Mitosis Pokémon,0.6m (2′00″),8.0kg (17.6lbs),Overcoat,Magic Guard,Regenerator,"100 (13.1% with PokéBall, full HP)",50 (normal),130,Medium Slow,"50% male, 50% female",65,40,50,125,60,30,370
 579,Reuniclus,Psychic,,Multiplying Pokémon,1.0m (3′03″),20.1kg (44.3lbs),Overcoat,Magic Guard,Regenerator,"50 (6.5% with PokéBall, full HP)",50 (normal),221,Medium Slow,"50% male, 50% female",110,65,75,125,85,30,490
@@ -602,7 +602,7 @@
 601,Klinklang,Steel,,Gear Pokémon,0.6m (2′00″),81.0kg (178.6lbs),Plus,Minus,Clear Body,"30 (3.9% with PokéBall, full HP)",50 (normal),234,Medium Slow,Genderless,60,100,115,70,85,90,520
 602,Tynamo,Electric,,EleFish Pokémon,0.2m (0′08″),0.3kg (0.7lbs),Levitate,,,"190 (24.8% with PokéBall, full HP)",50 (normal),55,Slow,"50% male, 50% female",35,55,40,45,40,60,275
 603,Eelektrik,Electric,,EleFish Pokémon,1.2m (3′11″),22.0kg (48.5lbs),Levitate,,,"60 (7.8% with PokéBall, full HP)",50 (normal),142,Slow,"50% male, 50% female",65,85,70,75,70,40,405
-604,Eelektross,Electric,,EleFish Pokémon,2.1m (6′11″),80.5kg (177.5lbs),Levitate,,,"30 (3.9% with PokéBall, full HP)",50 (normal),232,Slow,"50% male, 50% female",85,115,80,105,80,50,515
+604,Eelektross,Electric,,EleFish Pokémon,2.1m (6′11″),80.5kg (177.5lbs),Levitate,,,"30 (3.9% with PokéBall, full HP)",50 (normal),258,Slow,"50% male, 50% female",85,115,80,105,80,50,515
 605,Elgyem,Psychic,,Cerebral Pokémon,0.5m (1′08″),9.0kg (19.8lbs),Telepathy,Synchronize,Analytic,"255 (33.3% with PokéBall, full HP)",50 (normal),67,Medium Fast,"50% male, 50% female",55,55,55,85,55,30,335
 606,Beheeyem,Psychic,,Cerebral Pokémon,1.0m (3′03″),34.5kg (76.1lbs),Telepathy,Synchronize,Analytic,"90 (11.8% with PokéBall, full HP)",50 (normal),170,Medium Fast,"50% male, 50% female",75,75,75,125,95,40,485
 607,Litwick,Ghost,Fire,Candle Pokémon,0.3m (1′00″),3.1kg (6.8lbs),Flash Fire,Flame Body,Infiltrator,"190 (24.8% with PokéBall, full HP)",50 (normal),55,Medium Slow,"50% male, 50% female",50,30,55,65,55,20,275
@@ -610,7 +610,7 @@
 609,Chandelure,Ghost,Fire,Luring Pokémon,1.0m (3′03″),34.3kg (75.6lbs),Flash Fire,Flame Body,Infiltrator,"45 (5.9% with PokéBall, full HP)",50 (normal),234,Medium Slow,"50% male, 50% female",60,55,90,145,90,80,520
 610,Axew,Dragon,,Tusk Pokémon,0.6m (2′00″),18.0kg (39.7lbs),Rivalry,Mold Breaker,Unnerve,"75 (9.8% with PokéBall, full HP)",35 (lower than normal),64,Slow,"50% male, 50% female",46,87,60,30,40,57,320
 611,Fraxure,Dragon,,Axe Jaw Pokémon,1.0m (3′03″),36.0kg (79.4lbs),Rivalry,Mold Breaker,Unnerve,"60 (7.8% with PokéBall, full HP)",35 (lower than normal),144,Slow,"50% male, 50% female",66,117,70,40,50,67,410
-612,Haxorus,Dragon,,Axe Jaw Pokémon,1.8m (5′11″),105.5kg (232.6lbs),Rivalry,Mold Breaker,Unnerve,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),243,Slow,"50% male, 50% female",76,147,90,60,70,97,540
+612,Haxorus,Dragon,,Axe Jaw Pokémon,1.8m (5′11″),105.5kg (232.6lbs),Rivalry,Mold Breaker,Unnerve,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),270,Slow,"50% male, 50% female",76,147,90,60,70,97,540
 613,Cubchoo,Ice,,Chill Pokémon,0.5m (1′08″),8.5kg (18.7lbs),Snow Cloak,Slush Rush,Rattled,"120 (15.7% with PokéBall, full HP)",50 (normal),61,Medium Fast,"50% male, 50% female",55,70,40,60,40,40,305
 614,Beartic,Ice,,Freezing Pokémon,2.6m (8′06″),260.0kg (573.2lbs),Snow Cloak,Slush Rush,Swift Swim,"60 (7.8% with PokéBall, full HP)",50 (normal),177,Medium Fast,"50% male, 50% female",95,130,80,70,80,50,505
 615,Cryogonal,Ice,,Crystallizing Pokémon,1.1m (3′07″),148.0kg (326.3lbs),Levitate,,,"25 (3.3% with PokéBall, full HP)",50 (normal),180,Medium Fast,Genderless,80,50,50,95,135,105,515
@@ -633,30 +633,30 @@
 632,Durant,Bug,Steel,Iron Ant Pokémon,0.3m (1′00″),33.0kg (72.8lbs),Swarm,Hustle,Truant,"90 (11.8% with PokéBall, full HP)",50 (normal),169,Medium Fast,"50% male, 50% female",58,109,112,48,48,109,484
 633,Deino,Dark,Dragon,Irate Pokémon,0.8m (2′07″),17.3kg (38.1lbs),Hustle,,,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),60,Slow,"50% male, 50% female",52,65,50,45,50,38,300
 634,Zweilous,Dark,Dragon,Hostile Pokémon,1.4m (4′07″),50.0kg (110.2lbs),Hustle,,,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),147,Slow,"50% male, 50% female",72,85,70,65,70,58,420
-635,Hydreigon,Dark,Dragon,Brutal Pokémon,1.8m (5′11″),160.0kg (352.7lbs),Levitate,,,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),270,Slow,"50% male, 50% female",92,105,90,125,90,98,600
+635,Hydreigon,Dark,Dragon,Brutal Pokémon,1.8m (5′11″),160.0kg (352.7lbs),Levitate,,,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),300,Slow,"50% male, 50% female",92,105,90,125,90,98,600
 636,Larvesta,Bug,Fire,Torch Pokémon,1.1m (3′07″),28.8kg (63.5lbs),Flame Body,,Swarm,"45 (5.9% with PokéBall, full HP)",50 (normal),72,Slow,"50% male, 50% female",55,85,55,50,55,60,360
-637,Volcarona,Bug,Fire,Sun Pokémon,1.6m (5′03″),46.0kg (101.4lbs),Flame Body,,Swarm,"15 (2.0% with PokéBall, full HP)",50 (normal),248,Slow,"50% male, 50% female",85,60,65,135,105,100,550
+637,Volcarona,Bug,Fire,Sun Pokémon,1.6m (5′03″),46.0kg (101.4lbs),Flame Body,,Swarm,"15 (2.0% with PokéBall, full HP)",50 (normal),275,Slow,"50% male, 50% female",85,60,65,135,105,100,550
 638,Cobalion,Steel,Fighting,Iron Will Pokémon,2.1m (6′11″),250.0kg (551.2lbs),Justified,,,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),261,Slow,Genderless,91,90,129,90,72,108,580
 639,Terrakion,Rock,Fighting,Cavern Pokémon,1.9m (6′03″),260.0kg (573.2lbs),Justified,,,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),261,Slow,Genderless,91,129,90,72,90,108,580
 640,Virizion,Grass,Fighting,Grassland Pokémon,2.0m (6′07″),200.0kg (440.9lbs),Justified,,,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),261,Slow,Genderless,91,90,72,90,129,108,580
-641,Tornadus,Flying,,Cyclone Pokémon,1.5m (4′11″),63.0kg (138.9lbs),Prankster,,Defiant,"3 (0.4% with PokéBall, full HP)",90 (higher than normal),261,Slow,"100% male, 0% female",79,115,70,125,80,111,580
-642,Thundurus,Electric,Flying,Bolt Strike Pokémon,1.5m (4′11″),61.0kg (134.5lbs),Prankster,,Defiant,"3 (0.4% with PokéBall, full HP)",90 (higher than normal),261,Slow,"100% male, 0% female",79,115,70,125,80,111,580
+641,Tornadus,Flying,,Cyclone Pokémon,1.5m (4′11″),63.0kg (138.9lbs),Prankster,,Defiant,"3 (0.4% with PokéBall, full HP)",90 (higher than normal),290,Slow,"100% male, 0% female",79,115,70,125,80,111,580
+642,Thundurus,Electric,Flying,Bolt Strike Pokémon,1.5m (4′11″),61.0kg (134.5lbs),Prankster,,Defiant,"3 (0.4% with PokéBall, full HP)",90 (higher than normal),290,Slow,"100% male, 0% female",79,115,70,125,80,111,580
 643,Reshiram,Dragon,Fire,Vast White Pokémon,3.2m (10′06″),330.0kg (727.5lbs),Turboblaze,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),306,Slow,Genderless,100,120,100,150,120,90,680
 644,Zekrom,Dragon,Electric,Deep Black Pokémon,2.9m (9′06″),345.0kg (760.6lbs),Teravolt,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),306,Slow,Genderless,100,150,120,120,100,90,680
-645,Landorus,Ground,Flying,Abundance Pokémon,1.5m (4′11″),68.0kg (149.9lbs),Sand Force,,Sheer Force,"3 (0.4% with PokéBall, full HP)",90 (higher than normal),270,Slow,"100% male, 0% female",89,125,90,115,80,101,600
+645,Landorus,Ground,Flying,Abundance Pokémon,1.5m (4′11″),68.0kg (149.9lbs),Sand Force,,Sheer Force,"3 (0.4% with PokéBall, full HP)",90 (higher than normal),300,Slow,"100% male, 0% female",89,125,90,115,80,101,600
 646,Kyurem,Dragon,Ice,Boundary Pokémon,3.0m (9′10″),325.0kg (716.5lbs),Pressure,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),297,Slow,Genderless,125,130,90,130,90,95,660
 647,Keldeo,Water,Fighting,Colt Pokémon,1.4m (4′07″),48.5kg (106.9lbs),Justified,,,"3 (0.4% with PokéBall, full HP)",35 (lower than normal),261,Slow,Genderless,91,72,90,129,90,108,580
-648,Meloetta,Normal,Psychic,Melody Pokémon,0.6m (2′00″),6.5kg (14.3lbs),Serene Grace,,,"3 (0.4% with PokéBall, full HP)",100 (higher than normal),270,Slow,Genderless,100,77,77,128,128,90,600
+648,Meloetta,Normal,Psychic,Melody Pokémon,0.6m (2′00″),6.5kg (14.3lbs),Serene Grace,,,"3 (0.4% with PokéBall, full HP)",100 (higher than normal),300,Slow,Genderless,100,77,77,128,128,90,600
 649,Genesect,Bug,Steel,Paleozoic Pokémon,1.5m (4′11″),82.5kg (181.9lbs),Download,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),270,Slow,Genderless,71,120,95,120,95,99,600
 650,Chespin,Grass,,Spiny Nut Pokémon,0.4m (1′04″),9.0kg (19.8lbs),Overgrow,,Bulletproof,"45 (5.9% with PokéBall, full HP)",50 (normal),63,Medium Slow,"87.5% male, 12.5% female",56,61,65,48,45,38,313
 651,Quilladin,Grass,,Spiny Armor Pokémon,0.7m (2′04″),29.0kg (63.9lbs),Overgrow,,Bulletproof,"45 (5.9% with PokéBall, full HP)",50 (normal),142,Medium Slow,"87.5% male, 12.5% female",61,78,95,56,58,57,405
-652,Chesnaught,Grass,Fighting,Spiny Armor Pokémon,1.6m (5′03″),90.0kg (198.4lbs),Overgrow,,Bulletproof,"45 (5.9% with PokéBall, full HP)",50 (normal),239,Medium Slow,"87.5% male, 12.5% female",88,107,122,74,75,64,530
+652,Chesnaught,Grass,Fighting,Spiny Armor Pokémon,1.6m (5′03″),90.0kg (198.4lbs),Overgrow,,Bulletproof,"45 (5.9% with PokéBall, full HP)",50 (normal),265,Medium Slow,"87.5% male, 12.5% female",88,107,122,74,75,64,530
 653,Fennekin,Fire,,Fox Pokémon,0.4m (1′04″),9.4kg (20.7lbs),Blaze,,Magician,"45 (5.9% with PokéBall, full HP)",50 (normal),61,Medium Slow,"87.5% male, 12.5% female",40,45,40,62,60,60,307
 654,Braixen,Fire,,Fox Pokémon,1.0m (3′03″),14.5kg (32.0lbs),Blaze,,Magician,"45 (5.9% with PokéBall, full HP)",50 (normal),143,Medium Slow,"87.5% male, 12.5% female",59,59,58,90,70,73,409
-655,Delphox,Fire,Psychic,Fox Pokémon,1.5m (4′11″),39.0kg (86.0lbs),Blaze,,Magician,"45 (5.9% with PokéBall, full HP)",50 (normal),240,Medium Slow,"87.5% male, 12.5% female",75,69,72,114,100,104,534
+655,Delphox,Fire,Psychic,Fox Pokémon,1.5m (4′11″),39.0kg (86.0lbs),Blaze,,Magician,"45 (5.9% with PokéBall, full HP)",50 (normal),267,Medium Slow,"87.5% male, 12.5% female",75,69,72,114,100,104,534
 656,Froakie,Water,,Bubble Frog Pokémon,0.3m (1′00″),7.0kg (15.4lbs),Torrent,,Protean,"45 (5.9% with PokéBall, full HP)",50 (normal),63,Medium Slow,"87.5% male, 12.5% female",41,56,40,62,44,71,314
 657,Frogadier,Water,,Bubble Frog Pokémon,0.6m (2′00″),10.9kg (24.0lbs),Torrent,,Protean,"45 (5.9% with PokéBall, full HP)",50 (normal),142,Medium Slow,"87.5% male, 12.5% female",54,63,52,83,56,97,405
-658,Greninja,Water,Dark,Ninja Pokémon,1.5m (4′11″),40.0kg (88.2lbs),Torrent,,Protean,"45 (5.9% with PokéBall, full HP)",50 (normal),239,Medium Slow,"87.5% male, 12.5% female",72,95,67,103,71,122,530
+658,Greninja,Water,Dark,Ninja Pokémon,1.5m (4′11″),40.0kg (88.2lbs),Torrent,,Protean,"45 (5.9% with PokéBall, full HP)",50 (normal),265,Medium Slow,"87.5% male, 12.5% female",72,95,67,103,71,122,530
 659,Bunnelby,Normal,,Digging Pokémon,0.4m (1′04″),5.0kg (11.0lbs),Pickup,Cheek Pouch,Huge Power,"255 (33.3% with PokéBall, full HP)",50 (normal),47,Medium Fast,"50% male, 50% female",38,36,38,32,36,57,237
 660,Diggersby,Normal,Ground,Digging Pokémon,1.0m (3′03″),42.4kg (93.5lbs),Pickup,Cheek Pouch,Huge Power,"127 (16.6% with PokéBall, full HP)",50 (normal),148,Medium Fast,"50% male, 50% female",85,56,77,50,77,78,423
 661,Fletchling,Normal,Flying,Tiny Robin Pokémon,0.3m (1′00″),1.7kg (3.7lbs),Big Pecks,,Gale Wings,"255 (33.3% with PokéBall, full HP)",50 (normal),56,Medium Slow,"50% male, 50% female",45,50,43,40,38,62,278
@@ -664,12 +664,12 @@
 663,Talonflame,Fire,Flying,Scorching Pokémon,1.2m (3′11″),24.5kg (54.0lbs),Flame Body,,Gale Wings,"45 (5.9% with PokéBall, full HP)",50 (normal),175,Medium Slow,"50% male, 50% female",78,81,71,74,69,126,499
 664,Scatterbug,Bug,,Scatterdust Pokémon,0.3m (1′00″),2.5kg (5.5lbs),Shield Dust,Compound Eyes,Friend Guard,"255 (33.3% with PokéBall, full HP)",50 (normal),40,Medium Fast,"50% male, 50% female",38,35,40,27,25,35,200
 665,Spewpa,Bug,,Scatterdust Pokémon,0.3m (1′00″),8.4kg (18.5lbs),Shed Skin,,Friend Guard,"120 (15.7% with PokéBall, full HP)",50 (normal),75,Medium Fast,"50% male, 50% female",45,22,60,27,30,29,213
-666,Vivillon,Bug,Flying,Scale Pokémon,1.2m (3′11″),17.0kg (37.5lbs),Shield Dust,,Friend Guard,"45 (5.9% with PokéBall, full HP)",50 (normal),185,Medium Fast,"50% male, 50% female",80,52,50,90,50,89,411
+666,Vivillon,Bug,Flying,Scale Pokémon,1.2m (3′11″),17.0kg (37.5lbs),Shield Dust,,Friend Guard,"45 (5.9% with PokéBall, full HP)",50 (normal),206,Medium Fast,"50% male, 50% female",80,52,50,90,50,89,411
 667,Litleo,Fire,Normal,Lion Cub Pokémon,0.6m (2′00″),13.5kg (29.8lbs),Rivalry,Unnerve,Moxie,"220 (28.8% with PokéBall, full HP)",50 (normal),74,Medium Slow,"12.5% male, 87.5% female",62,50,58,73,54,72,369
 668,Pyroar,Fire,Normal,Royal Pokémon,1.5m (4′11″),81.5kg (179.7lbs),Rivalry,Unnerve,Moxie,"65 (8.5% with PokéBall, full HP)",50 (normal),177,Medium Slow,"12.5% male, 87.5% female",86,68,72,109,66,106,507
 669,Flabébé,Fairy,,Single Bloom Pokémon,0.1m (0′04″),0.1kg (0.2lbs),Flower Veil,,Symbiosis,"225 (29.4% with PokéBall, full HP)",50 (normal),61,Medium Fast,"0% male, 100% female",44,38,39,61,79,42,303
 670,Floette,Fairy,,Single Bloom Pokémon,0.2m (0′08″),0.9kg (2.0lbs),Flower Veil,,Symbiosis,"120 (15.7% with PokéBall, full HP)",50 (normal),130,Medium Fast,"0% male, 100% female",54,45,47,75,98,52,371
-671,Florges,Fairy,,Garden Pokémon,1.1m (3′07″),10.0kg (22.0lbs),Flower Veil,,Symbiosis,"45 (5.9% with PokéBall, full HP)",50 (normal),248,Medium Fast,"0% male, 100% female",78,65,68,112,154,75,552
+671,Florges,Fairy,,Garden Pokémon,1.1m (3′07″),10.0kg (22.0lbs),Flower Veil,,Symbiosis,"45 (5.9% with PokéBall, full HP)",50 (normal),276,Medium Fast,"0% male, 100% female",78,65,68,112,154,75,552
 672,Skiddo,Grass,,Mount Pokémon,0.9m (2′11″),31.0kg (68.3lbs),Sap Sipper,,Grass Pelt,"200 (26.1% with PokéBall, full HP)",50 (normal),70,Medium Fast,"50% male, 50% female",66,65,48,62,57,52,350
 673,Gogoat,Grass,,Mount Pokémon,1.7m (5′07″),91.0kg (200.6lbs),Sap Sipper,,Grass Pelt,"45 (5.9% with PokéBall, full HP)",50 (normal),186,Medium Fast,"50% male, 50% female",123,100,62,97,81,68,531
 674,Pancham,Fighting,,Playful Pokémon,0.6m (2′00″),8.0kg (17.6lbs),Iron Fist,Mold Breaker,Scrappy,"220 (28.8% with PokéBall, full HP)",50 (normal),70,Medium Fast,"50% male, 50% female",67,82,62,46,48,43,348
@@ -704,7 +704,7 @@
 703,Carbink,Rock,Fairy,Jewel Pokémon,0.3m (1′00″),5.7kg (12.6lbs),Clear Body,,Sturdy,"60 (7.8% with PokéBall, full HP)",50 (normal),100,Slow,Genderless,50,50,150,50,150,50,500
 704,Goomy,Dragon,,Soft Tissue Pokémon,0.3m (1′00″),2.8kg (6.2lbs),Sap Sipper,Hydration,Gooey,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),60,Slow,"50% male, 50% female",45,50,35,55,75,40,300
 705,Sliggoo,Dragon,,Soft Tissue Pokémon,0.8m (2′07″),17.5kg (38.6lbs),Sap Sipper,Hydration,Gooey,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),158,Slow,"50% male, 50% female",68,75,53,83,113,60,452
-706,Goodra,Dragon,,Dragon Pokémon,2.0m (6′07″),150.5kg (331.8lbs),Sap Sipper,Hydration,Gooey,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),270,Slow,"50% male, 50% female",90,100,70,110,150,80,600
+706,Goodra,Dragon,,Dragon Pokémon,2.0m (6′07″),150.5kg (331.8lbs),Sap Sipper,Hydration,Gooey,"45 (5.9% with PokéBall, full HP)",35 (lower than normal),300,Slow,"50% male, 50% female",90,100,70,110,150,80,600
 707,Klefki,Steel,Fairy,Key Ring Pokémon,0.2m (0′08″),3.0kg (6.6lbs),Prankster,,Magician,"75 (9.8% with PokéBall, full HP)",50 (normal),165,Fast,"50% male, 50% female",57,80,91,80,87,75,470
 708,Phantump,Ghost,Grass,Stump Pokémon,0.4m (1′04″),7.0kg (15.4lbs),Natural Cure,Frisk,Harvest,"120 (15.7% with PokéBall, full HP)",50 (normal),62,Medium Fast,"50% male, 50% female",43,70,48,50,60,38,309
 709,Trevenant,Ghost,Grass,Elder Tree Pokémon,1.5m (4′11″),71.0kg (156.5lbs),Natural Cure,Frisk,Harvest,"60 (7.8% with PokéBall, full HP)",50 (normal),166,Medium Fast,"50% male, 50% female",85,110,76,65,82,56,474
@@ -717,12 +717,12 @@
 716,Xerneas,Fairy,,Life Pokémon,3.0m (9′10″),215.0kg (474.0lbs),Fairy Aura,,,"45 (5.9% with PokéBall, full HP)",0 (lower than normal),306,Slow,Genderless,126,131,95,131,98,99,680
 717,Yveltal,Dark,Flying,Destruction Pokémon,5.8m (19′00″),203.0kg (447.5lbs),Dark Aura,,,"45 (5.9% with PokéBall, full HP)",0 (lower than normal),306,Slow,Genderless,126,131,95,131,98,99,680
 718,Zygarde,Dragon,Ground,Order Pokémon,5.0m (16′05″),305.0kg (672.4lbs),Aura Break,Power Construct,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),270,Slow,Genderless,108,100,121,81,95,95,600
-719,Diancie,Rock,Fairy,Jewel Pokémon,0.7m (2′04″),8.8kg (19.4lbs),Clear Body,,,"3 (0.4% with PokéBall, full HP)",50 (normal),270,Slow,Genderless,50,100,150,100,150,50,600
-720,Hoopa,Psychic,Ghost,Mischief Pokémon,0.5m (1′08″),9.0kg (19.8lbs),Magician,,,"3 (0.4% with PokéBall, full HP)",100 (higher than normal),270,Slow,Genderless,80,110,60,150,130,70,600
-721,Volcanion,Fire,Water,Steam Pokémon,1.7m (5′07″),195.0kg (429.9lbs),Water Absorb,,,"3 (0.4% with PokéBall, full HP)",100 (higher than normal),270,Slow,Genderless,80,110,120,130,90,70,600
+719,Diancie,Rock,Fairy,Jewel Pokémon,0.7m (2′04″),8.8kg (19.4lbs),Clear Body,,,"3 (0.4% with PokéBall, full HP)",50 (normal),300,Slow,Genderless,50,100,150,100,150,50,600
+720,Hoopa,Psychic,Ghost,Mischief Pokémon,0.5m (1′08″),9.0kg (19.8lbs),Magician,,,"3 (0.4% with PokéBall, full HP)",100 (higher than normal),300,Slow,Genderless,80,110,60,150,130,70,600
+721,Volcanion,Fire,Water,Steam Pokémon,1.7m (5′07″),195.0kg (429.9lbs),Water Absorb,,,"3 (0.4% with PokéBall, full HP)",100 (higher than normal),300,Slow,Genderless,80,110,120,130,90,70,600
 722,Rowlet,Grass,Flying,Grass Quill Pokémon,0.3m (1′00″),1.5kg (3.3lbs),Overgrow,,Long Reach,"45 (5.9% with PokéBall, full HP)",50 (normal),64,Medium Slow,"87.5% male, 12.5% female",68,55,55,50,50,42,320
 723,Dartrix,Grass,Flying,Blade Quill Pokémon,0.7m (2′04″),16.0kg (35.3lbs),Overgrow,,Long Reach,"45 (5.9% with PokéBall, full HP)",50 (normal),147,Medium Slow,"87.5% male, 12.5% female",78,75,75,70,70,52,420
-724,Decidueye,Grass,Ghost,Arrow Quill Pokémon,1.6m (5′03″),36.6kg (80.7lbs),Overgrow,,Long Reach,"45 (5.9% with PokéBall, full HP)",50 (normal),239,Medium Slow,"87.5% male, 12.5% female",78,107,75,100,100,70,530
+724,Decidueye,Grass,Ghost,Arrow Quill Pokémon,1.6m (5′03″),36.6kg (80.7lbs),Overgrow,,Long Reach,"45 (5.9% with PokéBall, full HP)",50 (normal),265,Medium Slow,"87.5% male, 12.5% female",78,107,75,100,100,70,530
 725,Litten,Fire,,Fire Cat Pokémon,0.4m (1′04″),4.3kg (9.5lbs),Blaze,,Intimidate,"45 (5.9% with PokéBall, full HP)",50 (normal),64,Medium Slow,"87.5% male, 12.5% female",45,65,40,60,40,70,320
 726,Torracat,Fire,,Fire Cat Pokémon,0.7m (2′04″),25.0kg (55.1lbs),Blaze,,Intimidate,"45 (5.9% with PokéBall, full HP)",50 (normal),147,Medium Slow,"87.5% male, 12.5% female",65,85,50,80,50,90,420
 727,Incineroar,Fire,Dark,Heel Pokémon,1.8m (5′11″),83.0kg (183.0lbs),Blaze,,Intimidate,"45 (5.9% with PokéBall, full HP)",50 (normal),239,Medium Slow,"87.5% male, 12.5% female",95,115,90,80,90,60,530
@@ -761,7 +761,7 @@
 760,Bewear,Normal,Fighting,Strong Arm Pokémon,2.1m (6′11″),135.0kg (297.6lbs),Fluffy,Klutz,Unnerve,"70 (9.1% with PokéBall, full HP)",50 (normal),175,Medium Fast,"50% male, 50% female",120,125,80,55,60,60,500
 761,Bounsweet,Grass,,Fruit Pokémon,0.3m (1′00″),3.2kg (7.1lbs),Leaf Guard,Oblivious,Sweet Veil,"235 (30.7% with PokéBall, full HP)",50 (normal),42,Medium Slow,"0% male, 100% female",42,30,38,30,38,32,210
 762,Steenee,Grass,,Fruit Pokémon,0.7m (2′04″),8.2kg (18.1lbs),Leaf Guard,Oblivious,Sweet Veil,"120 (15.7% with PokéBall, full HP)",50 (normal),102,Medium Slow,"0% male, 100% female",52,40,48,40,48,62,290
-763,Tsareena,Grass,,Fruit Pokémon,1.2m (3′11″),21.4kg (47.2lbs),Leaf Guard,Queenly Majesty,Sweet Veil,"45 (5.9% with PokéBall, full HP)",50 (normal),230,Medium Slow,"0% male, 100% female",72,120,98,50,98,72,510
+763,Tsareena,Grass,,Fruit Pokémon,1.2m (3′11″),21.4kg (47.2lbs),Leaf Guard,Queenly Majesty,Sweet Veil,"45 (5.9% with PokéBall, full HP)",50 (normal),255,Medium Slow,"0% male, 100% female",72,120,98,50,98,72,510
 764,Comfey,Fairy,,Posy Picker Pokémon,0.1m (0′04″),0.3kg (0.7lbs),Flower Veil,Triage,Natural Cure,"60 (7.8% with PokéBall, full HP)",50 (normal),170,Fast,"25% male, 75% female",51,52,90,82,110,100,485
 765,Oranguru,Normal,Psychic,Sage Pokémon,1.5m (4′11″),76.0kg (167.6lbs),Inner Focus,Telepathy,Symbiosis,"45 (5.9% with PokéBall, full HP)",50 (normal),172,Slow,"50% male, 50% female",90,60,80,90,110,60,490
 766,Passimian,Fighting,,Teamwork Pokémon,2.0m (6′07″),82.8kg (182.5lbs),Receiver,,Defiant,"45 (5.9% with PokéBall, full HP)",50 (normal),172,Slow,"50% male, 50% female",100,120,90,40,60,80,490
@@ -799,7 +799,7 @@
 798,Kartana,Grass,Steel,Drawn Sword Pokémon,0.3m (1′00″),0.1kg (0.2lbs),Beast Boost,,,"45 (5.9% with PokéBall, full HP)",0 (lower than normal),257,Slow,Genderless,59,181,131,59,31,109,570
 799,Guzzlord,Dark,Dragon,Junkivore Pokémon,5.5m (18′01″),888.0kg (1957.7lbs),Beast Boost,,,"45 (5.9% with PokéBall, full HP)",0 (lower than normal),257,Slow,Genderless,223,101,53,97,53,43,570
 800,Necrozma,Psychic,,Prism Pokémon,2.4m (7′10″),230.0kg (507.1lbs),Prism Armor,,,"255 (33.3% with PokéBall, full HP)",0 (lower than normal),270,Slow,Genderless,97,107,101,127,89,79,600
-801,Magearna,Steel,Fairy,Artificial Pokémon,1.0m (3′03″),80.5kg (177.5lbs),Soul-Heart,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),270,Slow,Genderless,80,95,115,130,115,65,600
+801,Magearna,Steel,Fairy,Artificial Pokémon,1.0m (3′03″),80.5kg (177.5lbs),Soul-Heart,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),300,Slow,Genderless,80,95,115,130,115,65,600
 802,Marshadow,Fighting,Ghost,Gloomdweller Pokémon,0.7m (2′04″),22.2kg (48.9lbs),Technician,,,"3 (0.4% with PokéBall, full HP)",0 (lower than normal),270,Slow,Genderless,90,125,80,90,90,125,600
 803,Poipole,Poison,,Poison Pin Pokémon,0.6m (2′00″),1.8kg (4.0lbs),Beast Boost,,,"45 (5.9% with PokéBall, full HP)",0 (lower than normal),189,Slow,Genderless,67,73,67,73,67,73,420
 804,Naganadel,Poison,Dragon,Poison Pin Pokémon,3.6m (11′10″),150.0kg (330.7lbs),Beast Boost,,,"45 (5.9% with PokéBall, full HP)",0 (lower than normal),243,Slow,Genderless,73,73,73,127,73,121,540
@@ -886,8 +886,8 @@
 885,Dreepy,Dragon,Ghost,Lingering Pokémon,0.5m (1′08″),2.0kg (4.4lbs),Clear Body,Infiltrator,Cursed Body,"45 (5.9% with PokéBall, full HP)",50 (normal),54,Slow,"50% male, 50% female",28,60,30,40,30,82,270
 886,Drakloak,Dragon,Ghost,Caretaker Pokémon,1.4m (4′07″),11.0kg (24.3lbs),Clear Body,Infiltrator,Cursed Body,"45 (5.9% with PokéBall, full HP)",50 (normal),144,Slow,"50% male, 50% female",68,80,50,60,50,102,410
 887,Dragapult,Dragon,Ghost,Stealth Pokémon,3.0m (9′10″),50.0kg (110.2lbs),Clear Body,Infiltrator,Cursed Body,"45 (5.9% with PokéBall, full HP)",50 (normal),300,Slow,"50% male, 50% female",88,120,75,100,75,142,600
-888,Zacian,Fairy,,Warrior Pokémon,2.8m (9′02″),110.0kg (242.5lbs),Intrepid Sword,,,"10 (1.3% with PokéBall, full HP)",0 (lower than normal),335,Slow,Genderless,92,120,115,80,115,138,660
-889,Zamazenta,Fighting,,Warrior Pokémon,2.9m (9′06″),210.0kg (463.0lbs),Dauntless Shield,,,"10 (1.3% with PokéBall, full HP)",0 (lower than normal),335,Slow,Genderless,92,120,115,80,115,138,660
+888,Zacian,Fairy,,Warrior Pokémon,2.8m (9′02″),110.0kg (242.5lbs),Intrepid Sword,,,"10 (1.3% with PokéBall, full HP)",0 (lower than normal),330,Slow,Genderless,92,120,115,80,115,138,660
+889,Zamazenta,Fighting,,Warrior Pokémon,2.9m (9′06″),210.0kg (463.0lbs),Dauntless Shield,,,"10 (1.3% with PokéBall, full HP)",0 (lower than normal),330,Slow,Genderless,92,120,115,80,115,138,660
 890,Eternatus,Poison,Dragon,Gigantic Pokémon,20.0m (65′07″),950.0kg (2094.4lbs),Pressure,,,"255 (33.3% with PokéBall, full HP)",0 (lower than normal),345,Slow,Genderless,140,85,95,145,95,130,690
 891,Kubfu,Fighting,,Wushu Pokémon,0.6m (2′00″),12.0kg (26.5lbs),Inner Focus,,,"3 (0.4% with PokéBall, full HP)",50 (normal),77,Slow,"87.5% male, 12.5% female",60,90,60,53,50,72,385
 892,Urshifu,Fighting,Dark,Wushu Pokémon,1.9m (6′03″),105.0kg (231.5lbs),Unseen Fist,,,"3 (0.4% with PokéBall, full HP)",50 (normal),275,Slow,"87.5% male, 12.5% female",100,130,100,63,60,97,550
